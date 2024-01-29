@@ -1,0 +1,831 @@
+[start] 2023/11/25 18:39:33 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/25 18:39:33 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/25 18:39:34 INFO: Single thread SHA256 performance is 1875 MB/s using crypto/sha256 (1784 MB/s using minio/sha256-simd).
+[A35EK] 2023/11/25 18:39:34 INFO: Hashing performance is 1236.38 MB/s
+[A35EK] 2023/11/25 18:39:34 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/25 18:39:34 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 18:39:34 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 18:39:34 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 18:39:34 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/25 18:39:34 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/25 18:39:34 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/25 18:39:34 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/25 18:39:34 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/25 18:39:34 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/25 18:39:34 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/25 18:39:34 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/25 18:39:34 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/25 18:39:34 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/25 18:39:44 INFO: quic://0.0.0.0:22000 detected NAT type: Symmetric NAT
+[A35EK] 2023/11/25 18:40:04 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 18:40:19 INFO: Detected 1 NAT service
+[A35EK] 2023/11/25 18:40:19 INFO: QUIC listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 18:40:19 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[A35EK] 2023/11/25 18:40:19 INFO: TCP listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 18:40:19 INFO: Exiting
+[start] 2023/11/25 18:44:25 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/25 18:44:25 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/25 18:44:26 INFO: Single thread SHA256 performance is 1772 MB/s using crypto/sha256 (1770 MB/s using minio/sha256-simd).
+[A35EK] 2023/11/25 18:44:27 INFO: Hashing performance is 1229.33 MB/s
+[A35EK] 2023/11/25 18:44:27 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/25 18:44:27 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 18:44:27 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 18:44:27 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 18:44:27 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/25 18:44:27 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/25 18:44:27 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/25 18:44:27 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/25 18:44:27 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/25 18:44:27 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/25 18:44:27 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/25 18:44:27 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/25 18:44:27 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/25 18:44:27 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/25 18:44:36 INFO: quic://0.0.0.0:22000 detected NAT type: Symmetric NAT
+[A35EK] 2023/11/25 18:44:56 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 18:44:58 INFO: Detected 1 NAT service
+[A35EK] 2023/11/25 18:44:58 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[A35EK] 2023/11/25 18:44:58 INFO: QUIC listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 18:44:58 INFO: TCP listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 18:44:58 INFO: Exiting
+[start] 2023/11/25 18:45:51 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/25 18:45:51 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/25 18:45:52 INFO: Single thread SHA256 performance is 1797 MB/s using crypto/sha256 (1760 MB/s using minio/sha256-simd).
+[A35EK] 2023/11/25 18:45:52 INFO: Hashing performance is 1238.73 MB/s
+[A35EK] 2023/11/25 18:45:52 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/25 18:45:52 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 18:45:52 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 18:45:52 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 18:45:52 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/25 18:45:52 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/25 18:45:52 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/25 18:45:52 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/25 18:45:52 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/25 18:45:52 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/25 18:45:52 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/25 18:45:52 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/25 18:45:52 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/25 18:45:52 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/25 18:46:02 INFO: quic://0.0.0.0:22000 detected NAT type: Symmetric NAT
+[A35EK] 2023/11/25 18:46:22 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 18:46:40 INFO: Joined relay relay://66.110.9.44:443
+[A35EK] 2023/11/25 18:46:52 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 18:46:59 INFO: Detected 1 NAT service
+[A35EK] 2023/11/25 18:50:54 INFO: QUIC listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 18:50:54 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[A35EK] 2023/11/25 18:50:54 INFO: TCP listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 18:50:54 INFO: Exiting
+[start] 2023/11/25 19:49:58 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/25 19:49:58 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/25 19:49:59 INFO: Single thread SHA256 performance is 1843 MB/s using crypto/sha256 (1818 MB/s using minio/sha256-simd).
+[A35EK] 2023/11/25 19:50:00 INFO: Hashing performance is 1237.29 MB/s
+[A35EK] 2023/11/25 19:50:00 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/25 19:50:00 INFO: Ready to synchronize "Pictures" (3t33y-wtgtz) (sendreceive)
+[A35EK] 2023/11/25 19:50:00 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 19:50:00 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 19:50:00 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 19:50:00 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/25 19:50:00 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/25 19:50:00 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/25 19:50:00 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/25 19:50:00 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/25 19:50:00 INFO: Ready to synchronize "Documents" (egmj7-awwka) (sendreceive)
+[A35EK] 2023/11/25 19:50:00 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/25 19:50:00 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/25 19:50:00 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/25 19:50:00 INFO: Device JCQWYZ5-GXDNRMJ-WBBZRD7-AMRJ36R-T5Z63BP-3NSIHBQ-6GYCEGF-RJETOQS is "livova-laptop-arch" at [dynamic]
+[A35EK] 2023/11/25 19:50:00 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/25 19:50:00 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/25 19:50:00 INFO: Completed initial scan of sendreceive folder "Pictures" (3t33y-wtgtz)
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (2).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/sscn.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (4).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 15 items
+[A35EK] 2023/11/25 19:50:00 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (2).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (4).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/sscn.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:50:00 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 15 items
+[A35EK] 2023/11/25 19:50:00 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/25 19:50:00 INFO: Completed initial scan of sendreceive folder "Documents" (egmj7-awwka)
+[A35EK] 2023/11/25 19:50:00 INFO: Established secure connection to JCQWYZ5 at 10.144.91.125:35474-98.15.184.161:22067/relay-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SR0NMI8OHSEM1SD0B07KQLR6Q
+[A35EK] 2023/11/25 19:50:00 INFO: Device JCQWYZ5 client is "syncthing v1.26.1" named "livova-laptop-arch" at 10.144.91.125:35474-98.15.184.161:22067/relay-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SR0NMI8OHSEM1SD0B07KQLR6Q
+[A35EK] 2023/11/25 19:50:19 INFO: quic://0.0.0.0:22000 detected NAT type: Port restricted NAT
+[A35EK] 2023/11/25 19:50:19 INFO: quic://0.0.0.0:22000 resolved external address quic://143.244.47.100:10379 (via stun.syncthing.net:3478)
+[A35EK] 2023/11/25 19:50:30 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 19:50:54 INFO: Joined relay relay://204.144.201.226:22067
+[A35EK] 2023/11/25 19:51:00 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 19:51:07 INFO: Detected 1 NAT service
+[A35EK] 2023/11/25 19:55:25 INFO: QUIC listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 19:55:25 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[A35EK] 2023/11/25 19:55:25 INFO: Lost primary connection to JCQWYZ5 at 10.144.91.125:35474-98.15.184.161:22067/relay-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SR0NMI8OHSEM1SD0B07KQLR6Q: Syncthing is being stopped (0 remain)
+[A35EK] 2023/11/25 19:55:25 INFO: Connection to JCQWYZ5 at 10.144.91.125:35474-98.15.184.161:22067/relay-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SR0NMI8OHSEM1SD0B07KQLR6Q closed: Syncthing is being stopped
+[A35EK] 2023/11/25 19:55:25 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 6m24s.
+[A35EK] 2023/11/25 19:55:26 INFO: TCP listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 19:55:26 INFO: Exiting
+[start] 2023/11/25 19:56:02 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/25 19:56:02 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/25 19:56:03 INFO: Single thread SHA256 performance is 1787 MB/s using crypto/sha256 (1764 MB/s using minio/sha256-simd).
+[A35EK] 2023/11/25 19:56:03 INFO: Hashing performance is 1213.71 MB/s
+[A35EK] 2023/11/25 19:56:03 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/25 19:56:03 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 19:56:03 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 19:56:03 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 19:56:03 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/25 19:56:03 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/25 19:56:03 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/25 19:56:03 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/25 19:56:03 INFO: Ready to synchronize "Pictures" (3t33y-wtgtz) (sendreceive)
+[A35EK] 2023/11/25 19:56:03 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/25 19:56:03 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/25 19:56:03 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/25 19:56:03 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/25 19:56:03 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/25 19:56:03 INFO: Device JCQWYZ5-GXDNRMJ-WBBZRD7-AMRJ36R-T5Z63BP-3NSIHBQ-6GYCEGF-RJETOQS is "livova-laptop-arch" at [dynamic]
+[A35EK] 2023/11/25 19:56:03 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/25 19:56:03 INFO: Ready to synchronize "Documents" (egmj7-awwka) (sendreceive)
+[A35EK] 2023/11/25 19:56:03 INFO: Completed initial scan of sendreceive folder "Pictures" (3t33y-wtgtz)
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:56:03 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 19:56:03 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/25 19:56:03 INFO: Completed initial scan of sendreceive folder "Documents" (egmj7-awwka)
+[A35EK] 2023/11/25 19:56:04 INFO: Established secure connection to JCQWYZ5 at 10.144.91.125:34614-98.15.184.161:22067/relay-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SR0P0S7RP4OATBLG1P4PFK8PC
+[A35EK] 2023/11/25 19:56:04 INFO: Device JCQWYZ5 client is "syncthing v1.26.1" named "livova-laptop-arch" at 10.144.91.125:34614-98.15.184.161:22067/relay-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SR0P0S7RP4OATBLG1P4PFK8PC
+[A35EK] 2023/11/25 19:56:22 INFO: quic://0.0.0.0:22000 detected NAT type: Port restricted NAT
+[A35EK] 2023/11/25 19:56:22 INFO: quic://0.0.0.0:22000 resolved external address quic://143.244.47.74:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/11/25 19:56:33 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 19:56:51 INFO: Joined relay relay://70.31.251.173:22067
+[A35EK] 2023/11/25 19:57:03 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 19:57:10 INFO: Detected 1 NAT service
+[A35EK] 2023/11/25 19:57:42 INFO: Lost primary connection to JCQWYZ5 at 10.144.91.125:34614-98.15.184.161:22067/relay-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SR0P0S7RP4OATBLG1P4PFK8PC: reading length: unexpected EOF (0 remain)
+[A35EK] 2023/11/25 19:57:42 INFO: Connection to JCQWYZ5 at 10.144.91.125:34614-98.15.184.161:22067/relay-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SR0P0S7RP4OATBLG1P4PFK8PC closed: reading length: unexpected EOF
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 19:57:42 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 19:57:42 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 2m37s.
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:00:19 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:00:19 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:01:19 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:01:19 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 2m0s.
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:03:19 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:03:19 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 4m0s.
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:07:19 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:07:19 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 8m0s.
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:15:19 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:15:19 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 16m0s.
+[A35EK] 2023/11/25 20:27:40 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 20:28:10 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:31:19 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:31:19 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 32m0s.
+[A35EK] 2023/11/25 20:36:04 INFO: QUIC listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 20:36:04 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[A35EK] 2023/11/25 20:36:05 INFO: TCP listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 20:36:05 INFO: Exiting
+[start] 2023/11/25 20:36:41 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/25 20:36:41 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/25 20:36:42 INFO: Single thread SHA256 performance is 1775 MB/s using minio/sha256-simd (1758 MB/s using crypto/sha256).
+[A35EK] 2023/11/25 20:36:42 INFO: Hashing performance is 1216.28 MB/s
+[A35EK] 2023/11/25 20:36:42 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/25 20:36:42 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 20:36:42 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 20:36:42 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 20:36:42 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/25 20:36:42 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/25 20:36:42 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/25 20:36:42 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/25 20:36:42 INFO: Ready to synchronize "Pictures" (3t33y-wtgtz) (sendreceive)
+[A35EK] 2023/11/25 20:36:42 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/25 20:36:42 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/25 20:36:42 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/25 20:36:42 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/25 20:36:42 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/25 20:36:42 INFO: Device JCQWYZ5-GXDNRMJ-WBBZRD7-AMRJ36R-T5Z63BP-3NSIHBQ-6GYCEGF-RJETOQS is "livova-laptop-arch" at [dynamic]
+[A35EK] 2023/11/25 20:36:42 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/25 20:36:42 INFO: Ready to synchronize "Documents" (egmj7-awwka) (sendreceive)
+[A35EK] 2023/11/25 20:36:42 INFO: Completed initial scan of sendreceive folder "Pictures" (3t33y-wtgtz)
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:36:42 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:36:42 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/25 20:36:42 INFO: Completed initial scan of sendreceive folder "Documents" (egmj7-awwka)
+[A35EK] 2023/11/25 20:37:02 INFO: quic://0.0.0.0:22000 detected NAT type: Port restricted NAT
+[A35EK] 2023/11/25 20:37:02 INFO: quic://0.0.0.0:22000 resolved external address quic://143.244.47.100:58822 (via stun.syncthing.net:3478)
+[A35EK] 2023/11/25 20:37:12 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 20:37:36 INFO: Joined relay relay://198.46.190.144:22067
+[A35EK] 2023/11/25 20:37:42 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:37:42 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:37:42 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/25 20:37:49 INFO: Detected 1 NAT service
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:38:42 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:38:42 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 2m0s.
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:40:42 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:40:42 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 4m0s.
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:44:42 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:44:42 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 8m0s.
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 20:52:42 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 20:52:42 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 16m0s.
+[A35EK] 2023/11/25 21:01:14 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[A35EK] 2023/11/25 21:01:14 INFO: QUIC listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 21:01:15 INFO: TCP listener ([::]:22000) shutting down
+[A35EK] 2023/11/25 21:01:15 INFO: Exiting
+[start] 2023/11/25 21:01:46 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/25 21:01:46 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/25 21:01:47 INFO: Single thread SHA256 performance is 1807 MB/s using minio/sha256-simd (1794 MB/s using crypto/sha256).
+[A35EK] 2023/11/25 21:01:47 INFO: Hashing performance is 1161.59 MB/s
+[A35EK] 2023/11/25 21:01:47 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/25 21:01:47 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 21:01:47 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 21:01:47 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/25 21:01:47 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/25 21:01:47 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/25 21:01:47 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/25 21:01:47 INFO: Ready to synchronize "Pictures" (3t33y-wtgtz) (sendreceive)
+[A35EK] 2023/11/25 21:01:47 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/25 21:01:47 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/25 21:01:47 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/25 21:01:47 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/25 21:01:47 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/25 21:01:47 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/25 21:01:47 INFO: Device JCQWYZ5-GXDNRMJ-WBBZRD7-AMRJ36R-T5Z63BP-3NSIHBQ-6GYCEGF-RJETOQS is "livova-laptop-arch" at [dynamic]
+[A35EK] 2023/11/25 21:01:47 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/25 21:01:47 INFO: Ready to synchronize "Documents" (egmj7-awwka) (sendreceive)
+[A35EK] 2023/11/25 21:01:47 INFO: Completed initial scan of sendreceive folder "Pictures" (3t33y-wtgtz)
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:01:47 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 21:01:47 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/25 21:01:47 INFO: Completed initial scan of sendreceive folder "Documents" (egmj7-awwka)
+[A35EK] 2023/11/25 21:02:07 INFO: quic://0.0.0.0:22000 detected NAT type: Port restricted NAT
+[A35EK] 2023/11/25 21:02:07 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.166.237:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/11/25 21:02:17 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 21:02:38 INFO: Joined relay relay://198.27.69.104:22067
+[A35EK] 2023/11/25 21:02:47 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:02:47 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 21:02:47 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/25 21:02:54 INFO: Detected 1 NAT service
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:03:47 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 21:03:47 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 2m0s.
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:05:47 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 21:05:47 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 4m0s.
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:09:47 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 21:09:47 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 8m0s.
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:17:47 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 21:17:47 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 16m0s.
+[A35EK] 2023/11/25 21:33:24 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/25 21:33:47 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/25 21:33:47 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 32m0s.
+[A35EK] 2023/11/25 21:33:54 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/25 21:44:13 INFO: Joined relay relay://192.99.59.139:443
+[A35EK] 2023/11/26 09:46:48 INFO: Joined relay relay://84.32.128.234:22067
+[A35EK] 2023/11/26 09:51:35 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.165.237:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/11/26 10:06:39 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/26 10:07:09 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 10:07:55 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/26 10:07:55 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1h4m0s.
+[A35EK] 2023/11/26 10:37:46 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/26 10:38:16 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/26 11:08:53 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/26 11:09:23 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:11:55 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/26 11:11:55 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1h4m0s.
+[A35EK] 2023/11/26 11:11:58 INFO: QUIC listener ([::]:22000) shutting down
+[A35EK] 2023/11/26 11:11:58 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[A35EK] 2023/11/26 11:11:58 INFO: TCP listener ([::]:22000) shutting down
+[A35EK] 2023/11/26 11:11:58 INFO: Exiting
+[start] 2023/11/26 11:12:31 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/26 11:12:31 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/26 11:12:32 INFO: Single thread SHA256 performance is 1796 MB/s using crypto/sha256 (1774 MB/s using minio/sha256-simd).
+[A35EK] 2023/11/26 11:12:32 INFO: Hashing performance is 1212.55 MB/s
+[A35EK] 2023/11/26 11:12:32 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/26 11:12:32 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/26 11:12:32 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/26 11:12:32 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/26 11:12:32 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/26 11:12:32 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/26 11:12:32 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/26 11:12:32 INFO: Ready to synchronize "Pictures" (3t33y-wtgtz) (sendreceive)
+[A35EK] 2023/11/26 11:12:32 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/26 11:12:32 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/26 11:12:32 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/26 11:12:32 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/26 11:12:32 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/26 11:12:32 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/26 11:12:32 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/26 11:12:32 INFO: Device JCQWYZ5-GXDNRMJ-WBBZRD7-AMRJ36R-T5Z63BP-3NSIHBQ-6GYCEGF-RJETOQS is "livova-laptop-arch" at [dynamic]
+[A35EK] 2023/11/26 11:12:32 INFO: Ready to synchronize "Documents" (egmj7-awwka) (sendreceive)
+[A35EK] 2023/11/26 11:12:32 INFO: Completed initial scan of sendreceive folder "Pictures" (3t33y-wtgtz)
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:12:32 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/26 11:12:32 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/26 11:12:32 INFO: Completed initial scan of sendreceive folder "Documents" (egmj7-awwka)
+[A35EK] 2023/11/26 11:12:52 INFO: quic://0.0.0.0:22000 detected NAT type: Port restricted NAT
+[A35EK] 2023/11/26 11:12:52 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.166.173:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/11/26 11:13:02 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/26 11:13:21 INFO: Joined relay relay://104.193.225.119:22067
+[A35EK] 2023/11/26 11:13:32 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:13:32 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/26 11:13:32 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 1m0s.
+[A35EK] 2023/11/26 11:13:39 INFO: Detected 1 NAT service
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:14:33 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/26 11:14:33 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 2m0s.
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:16:33 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/26 11:16:33 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 4m0s.
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (1).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "wallpapers/kywall.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "tierlist/petro.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24 (1).png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos.zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SCSN myUMBC.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (3).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (4).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "work/SSCN FY24.png"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/kumatoraaaaa.jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "pfps/Chiarini_Headshot (copy).jpg"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: Puller (folder "Pictures" (3t33y-wtgtz), item "phone-backups/iCloud Photos (2).zip"): syncing: no connected device has the required version of this file
+[A35EK] 2023/11/26 11:20:33 INFO: "Pictures" (3t33y-wtgtz): Failed to sync 12 items
+[A35EK] 2023/11/26 11:20:33 INFO: Folder "Pictures" (3t33y-wtgtz) isn't making sync progress - retrying in 8m0s.
+[A35EK] 2023/11/26 11:22:55 INFO: QUIC listener ([::]:22000) shutting down
+[A35EK] 2023/11/26 11:22:55 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[A35EK] 2023/11/26 11:22:55 INFO: TCP listener ([::]:22000) shutting down
+[A35EK] 2023/11/26 11:22:55 INFO: Exiting
+[start] 2023/11/27 07:18:58 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/27 07:18:58 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/27 07:18:59 INFO: Single thread SHA256 performance is 1794 MB/s using crypto/sha256 (1775 MB/s using minio/sha256-simd).
+[A35EK] 2023/11/27 07:18:59 INFO: Hashing performance is 1228.13 MB/s
+[A35EK] 2023/11/27 07:18:59 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/27 07:18:59 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/27 07:18:59 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/27 07:18:59 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/27 07:18:59 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/27 07:18:59 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/27 07:18:59 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/27 07:18:59 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/27 07:18:59 INFO: Ready to synchronize "Pictures" (3t33y-wtgtz) (sendreceive)
+[A35EK] 2023/11/27 07:18:59 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/27 07:18:59 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/27 07:18:59 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/27 07:18:59 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/27 07:18:59 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/27 07:18:59 INFO: Device JCQWYZ5-GXDNRMJ-WBBZRD7-AMRJ36R-T5Z63BP-3NSIHBQ-6GYCEGF-RJETOQS is "livova-laptop-arch" at [dynamic]
+[A35EK] 2023/11/27 07:18:59 INFO: Ready to synchronize "Documents" (egmj7-awwka) (sendreceive)
+[A35EK] 2023/11/27 07:18:59 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/27 07:18:59 INFO: Completed initial scan of sendreceive folder "Pictures" (3t33y-wtgtz)
+[A35EK] 2023/11/27 07:18:59 INFO: Completed initial scan of sendreceive folder "Documents" (egmj7-awwka)
+[A35EK] 2023/11/27 07:19:18 INFO: quic://0.0.0.0:22000 detected NAT type: Port restricted NAT
+[A35EK] 2023/11/27 07:19:18 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.185.45:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/11/27 07:19:29 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 07:19:50 INFO: Joined relay relay://209.195.13.146:22067
+[A35EK] 2023/11/27 07:19:59 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 07:20:06 INFO: Detected 1 NAT service
+[A35EK] 2023/11/27 07:50:36 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 07:51:06 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 08:21:46 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 08:22:16 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 08:52:53 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 08:53:23 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 18:21:40 INFO: Joined relay relay://158.69.220.91:22067
+[A35EK] 2023/11/27 18:48:04 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 18:48:34 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 19:19:11 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 19:19:41 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 19:50:20 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 19:50:50 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 20:21:27 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 20:21:57 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 20:52:34 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 20:53:04 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 21:23:41 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/27 21:24:11 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 09:05:14 INFO: Joined relay relay://216.158.228.208:22067
+[A35EK] 2023/11/28 09:06:17 INFO: quic://0.0.0.0:22000 resolved external address quic://143.244.47.87:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/11/28 09:11:34 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 09:12:04 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 09:31:18 INFO: Established secure connection to JCQWYZ5 at 10.144.91.125:54636-216.158.228.208:22067/relay-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SRPVJSHMMR9GBNI06EUQMKKEU
+[A35EK] 2023/11/28 09:31:18 INFO: Device JCQWYZ5 client is "syncthing v1.26.1" named "livova-laptop-arch" at 10.144.91.125:54636-216.158.228.208:22067/relay-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SRPVJSHMMR9GBNI06EUQMKKEU
+[A35EK] 2023/11/28 09:31:38 INFO: Established secure connection to JCQWYZ5 at [::]:22000-146.70.165.22:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRPVM5VAIA5OGATBRIICKVQC0
+[A35EK] 2023/11/28 09:31:38 INFO: Additional connection (+1) for device JCQWYZ5 at [::]:22000-146.70.165.22:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRPVM5VAIA5OGATBRIICKVQC0
+[A35EK] 2023/11/28 09:31:38 INFO: Lost primary connection to JCQWYZ5 at 10.144.91.125:54636-216.158.228.208:22067/relay-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SRPVJSHMMR9GBNI06EUQMKKEU: replacing connection (1 remain)
+[A35EK] 2023/11/28 09:42:41 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 09:43:11 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 09:57:54 INFO: Lost primary connection to JCQWYZ5 at [::]:22000-146.70.165.22:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRPVM5VAIA5OGATBRIICKVQC0: reading length: timeout: no recent network activity (0 remain)
+[A35EK] 2023/11/28 09:57:54 INFO: Connection to JCQWYZ5 at [::]:22000-146.70.165.22:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRPVM5VAIA5OGATBRIICKVQC0 closed: reading length: timeout: no recent network activity
+[A35EK] 2023/11/28 10:03:56 INFO: Established secure connection to JCQWYZ5 at 10.144.91.125:22000-143.244.47.70:22000/quic-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQ6NNIQKB58ASKR3R3OL1T3O
+[A35EK] 2023/11/28 10:03:56 INFO: Device JCQWYZ5 client is "syncthing v1.26.1" named "livova-laptop-arch" at 10.144.91.125:22000-143.244.47.70:22000/quic-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQ6NNIQKB58ASKR3R3OL1T3O
+[A35EK] 2023/11/28 10:05:12 INFO: Lost primary connection to JCQWYZ5 at 10.144.91.125:22000-143.244.47.70:22000/quic-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQ6NNIQKB58ASKR3R3OL1T3O: reading length: timeout: no recent network activity (0 remain)
+[A35EK] 2023/11/28 10:05:12 INFO: Connection to JCQWYZ5 at 10.144.91.125:22000-143.244.47.70:22000/quic-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQ6NNIQKB58ASKR3R3OL1T3O closed: reading length: timeout: no recent network activity
+[A35EK] 2023/11/28 10:05:12 INFO: Established secure connection to JCQWYZ5 at [::]:22000-143.244.47.70:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQ70J46K5HC9F5KP4L22HTO2
+[A35EK] 2023/11/28 10:05:12 INFO: Device JCQWYZ5 client is "syncthing v1.26.1" named "livova-laptop-arch" at [::]:22000-143.244.47.70:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQ70J46K5HC9F5KP4L22HTO2
+[A35EK] 2023/11/28 10:13:48 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 10:14:18 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 10:44:55 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 10:45:25 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 11:00:28 INFO: Lost primary connection to JCQWYZ5 at [::]:22000-143.244.47.70:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQ70J46K5HC9F5KP4L22HTO2: reading length: timeout: no recent network activity (0 remain)
+[A35EK] 2023/11/28 11:00:28 INFO: Connection to JCQWYZ5 at [::]:22000-143.244.47.70:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQ70J46K5HC9F5KP4L22HTO2 closed: reading length: timeout: no recent network activity
+[A35EK] 2023/11/28 11:09:17 INFO: Established secure connection to JCQWYZ5 at 10.144.91.125:56424-216.158.228.208:22067/relay-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SRQL069OBK6M6288EQGGL5JL2
+[A35EK] 2023/11/28 11:09:17 INFO: Device JCQWYZ5 client is "syncthing v1.26.1" named "livova-laptop-arch" at 10.144.91.125:56424-216.158.228.208:22067/relay-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SRQL069OBK6M6288EQGGL5JL2
+[A35EK] 2023/11/28 11:13:13 INFO: Established secure connection to JCQWYZ5 at 10.144.91.125:22000-146.70.166.150:22000/quic-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQLRNA0G51CMSR58H8G31F7S
+[A35EK] 2023/11/28 11:13:13 INFO: Additional connection (+1) for device JCQWYZ5 at 10.144.91.125:22000-146.70.166.150:22000/quic-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQLRNA0G51CMSR58H8G31F7S
+[A35EK] 2023/11/28 11:13:13 INFO: Lost primary connection to JCQWYZ5 at 10.144.91.125:56424-216.158.228.208:22067/relay-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P50-5SRQL069OBK6M6288EQGGL5JL2: replacing connection (1 remain)
+[A35EK] 2023/11/28 11:13:13 INFO: Established secure connection to JCQWYZ5 at [::]:22000-146.70.166.150:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQLRN96JHSCADC1FO8LF0G46
+[A35EK] 2023/11/28 11:13:13 INFO: Additional connection (+1) for device JCQWYZ5 at [::]:22000-146.70.166.150:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQLRN96JHSCADC1FO8LF0G46
+[A35EK] 2023/11/28 21:42:58 INFO: Lost primary connection to JCQWYZ5 at 10.144.91.125:22000-146.70.166.150:22000/quic-server/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQLRNA0G51CMSR58H8G31F7S: reading length: INTERNAL_ERROR (local): write udp [::]:22000->146.70.166.150:22000: sendmsg: no such device (1 remain)
+[A35EK] 2023/11/28 21:43:00 INFO: Joined relay relay://104.193.225.119:22067
+[A35EK] 2023/11/28 21:43:01 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 21:43:28 INFO: Lost primary connection to JCQWYZ5 at [::]:22000-146.70.166.150:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQLRN96JHSCADC1FO8LF0G46: reading length: timeout: no recent network activity (0 remain)
+[A35EK] 2023/11/28 21:43:28 INFO: Connection to JCQWYZ5 at [::]:22000-146.70.166.150:22000/quic-client/TLS1.3-TLS_AES_128_GCM_SHA256/WAN-P40-5SRQLRN96JHSCADC1FO8LF0G46 closed: reading length: timeout: no recent network activity
+[A35EK] 2023/11/28 21:43:31 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[start] 2023/11/28 21:44:35 INFO: syncthing v1.26.1 "Gold Grasshopper" (go1.21.4 linux-amd64) syncthing@archlinux 2023-11-15 17:57:10 UTC [noupgrade]
+[A35EK] 2023/11/28 21:44:35 INFO: My ID: A35EKB4-AOCAVPQ-2JSNRJU-MO3VG4X-5KI4SGF-6IT2L6R-VA7F2G2-RCUDYAA
+[A35EK] 2023/11/28 21:44:36 INFO: Single thread SHA256 performance is 1776 MB/s using crypto/sha256 (1765 MB/s using minio/sha256-simd).
+[A35EK] 2023/11/28 21:44:36 INFO: Hashing performance is 1215.46 MB/s
+[A35EK] 2023/11/28 21:44:36 INFO: Overall send rate is unlimited, receive rate is unlimited
+[A35EK] 2023/11/28 21:44:36 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/28 21:44:36 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/28 21:44:36 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[A35EK] 2023/11/28 21:44:36 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[A35EK] 2023/11/28 21:44:36 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[A35EK] 2023/11/28 21:44:36 INFO: Ready to synchronize "Pictures" (3t33y-wtgtz) (sendreceive)
+[A35EK] 2023/11/28 21:44:36 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[A35EK] 2023/11/28 21:44:36 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[A35EK] 2023/11/28 21:44:36 INFO: TCP listener ([::]:22000) starting
+[A35EK] 2023/11/28 21:44:36 INFO: QUIC listener ([::]:22000) starting
+[A35EK] 2023/11/28 21:44:36 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[A35EK] 2023/11/28 21:44:36 INFO: GUI and API listening on 127.0.0.1:8384
+[A35EK] 2023/11/28 21:44:36 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[A35EK] 2023/11/28 21:44:36 INFO: My name is "livova-arch-desk"
+[A35EK] 2023/11/28 21:44:36 INFO: Device JCQWYZ5-GXDNRMJ-WBBZRD7-AMRJ36R-T5Z63BP-3NSIHBQ-6GYCEGF-RJETOQS is "livova-laptop-arch" at [dynamic]
+[A35EK] 2023/11/28 21:44:36 INFO: Ready to synchronize "Documents" (egmj7-awwka) (sendreceive)
+[A35EK] 2023/11/28 21:44:36 INFO: Completed initial scan of sendreceive folder "Pictures" (3t33y-wtgtz)
+[A35EK] 2023/11/28 21:44:36 INFO: Completed initial scan of sendreceive folder "Documents" (egmj7-awwka)
+[A35EK] 2023/11/28 21:44:56 INFO: quic://0.0.0.0:22000 detected NAT type: Port restricted NAT
+[A35EK] 2023/11/28 21:44:56 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.166.173:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/11/28 21:45:06 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 21:45:29 INFO: Joined relay relay://209.145.63.115:22067
+[A35EK] 2023/11/28 21:45:36 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 21:45:43 INFO: Detected 1 NAT service
+[A35EK] 2023/11/28 22:16:13 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 22:16:43 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 22:47:20 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 22:47:50 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 23:18:28 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/28 23:18:58 INFO: UPnP parse: Get "http://192.168.0.1:1900/gatedesc.xml": dial tcp 192.168.0.1:1900: i/o timeout
+[A35EK] 2023/11/30 17:56:01 INFO: Joined relay relay://204.144.201.226:22067
+[A35EK] 2023/11/30 17:58:06 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.166.237:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/12/01 17:48:37 INFO: Joined relay relay://108.4.18.223:22067
+[A35EK] 2023/12/01 17:51:12 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.171.173:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/12/01 21:55:03 INFO: Joined relay relay://172.245.94.35:22067
+[A35EK] 2023/12/01 21:55:47 INFO: quic://0.0.0.0:22000 resolved external address quic://143.244.47.74:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/12/02 10:08:13 INFO: Joined relay relay://45.59.45.134:36815
+[A35EK] 2023/12/02 10:10:25 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.166.237:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/12/02 16:44:17 INFO: Joined relay relay://66.198.164.254:443
+[A35EK] 2023/12/02 16:45:31 INFO: quic://0.0.0.0:22000 resolved external address quic://143.244.47.74:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/12/02 17:43:01 INFO: Joined relay relay://174.91.212.65:22067
+[A35EK] 2023/12/02 17:44:31 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.166.173:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/12/02 22:29:54 INFO: Joined relay relay://162.221.89.143:22067
+[A35EK] 2023/12/02 22:30:59 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.168.173:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/12/03 09:22:54 INFO: Joined relay relay://198.27.69.104:22067
+[A35EK] 2023/12/03 09:23:54 INFO: quic://0.0.0.0:22000 resolved external address quic://146.70.171.109:22000 (via stun.syncthing.net:3478)
+[A35EK] 2023/12/03 09:26:47 INFO: QUIC listener ([::]:22000) shutting down
+[A35EK] 2023/12/03 09:26:47 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[A35EK] 2023/12/03 09:26:48 INFO: TCP listener ([::]:22000) shutting down
+[A35EK] 2023/12/03 09:26:48 INFO: Exiting

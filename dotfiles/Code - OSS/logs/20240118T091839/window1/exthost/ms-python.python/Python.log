@@ -1,0 +1,71 @@
+2024-01-18 09:29:36.350 [info] Default formatter is set to null for workspace /home/neutron/Documents/spacestuff/git/FWHMscripts
+2024-01-18 09:29:36.350 [info] Test server listening.
+2024-01-18 09:29:36.350 [info] > conda info --json
+2024-01-18 09:29:36.350 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-18 09:29:36.356 [info] > /opt/anaconda/bin/conda info --json
+2024-01-18 09:29:36.358 [info] Found: /bin/python --> /bin/python3.11
+2024-01-18 09:29:36.359 [info] Found: /bin/python3 --> /bin/python3.11
+2024-01-18 09:29:36.359 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-18 09:29:36.359 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-18 09:29:36.359 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-18 09:29:36.359 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-18 09:29:36.359 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-18 09:29:36.359 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-01-18 09:29:36.360 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-18 09:29:36.360 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-18 09:29:36.360 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-18 09:29:36.373 [info] Found: /sbin/python --> /sbin/python3.11
+2024-01-18 09:29:36.373 [info] Found: /sbin/python3 --> /sbin/python3.11
+2024-01-18 09:29:36.373 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2024-01-18 09:29:36.378 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2024-01-18 09:29:36.378 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-01-18 09:29:36.378 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-01-18 09:29:36.393 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2024-01-18 09:29:36.393 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2024-01-18 09:29:36.393 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2024-01-18 09:29:38.186 [info] > ./.conda/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/interpreterInfo.py
+2024-01-18 09:29:38.195 [info] > ~/anaconda3/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/interpreterInfo.py
+2024-01-18 09:29:38.204 [info] > /opt/anaconda/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/interpreterInfo.py
+2024-01-18 09:29:38.249 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/interpreterInfo.py
+2024-01-18 09:29:38.273 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/interpreterInfo.py
+2024-01-18 09:29:38.279 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/interpreterInfo.py
+2024-01-18 09:29:38.297 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/interpreterInfo.py
+2024-01-18 09:29:40.201 [info] > ./.conda/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/interpreterInfo.py
+2024-01-18 09:29:40.229 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 3903ms, has a falsy return value, Arg 1: <Uri:/home/neutron/Documents/spacestuff/git/FWHMscripts>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:23805)
+  	at w.activate (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:795716)
+  	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2455
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2445)]
+]
+2024-01-18 09:29:40.229 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:23805)
+	at w.activate (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:795716)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2455
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2445)]
+2024-01-18 09:29:40.229 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:23805)
+	at w.activate (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:795716)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2455
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2445)]
+2024-01-18 09:29:40.230 [info] Python interpreter path: /bin/python
+2024-01-18 09:29:40.246 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-18 09:29:40.788 [info] Starting Jedi language server for FWHMscripts.
+2024-01-18 09:29:46.084 [info] Discover tests for workspace name: undefined - uri: /home/neutron/.config/Code - OSS/User/settings.json
+2024-01-18 09:32:13.962 [info] Discover tests for workspace name: FWHMscripts - uri: /home/neutron/Documents/spacestuff/git/FWHMscripts/main.py
+2024-01-18 09:32:22.396 [info] Discover tests for workspace name: undefined - uri: /home/neutron/.config/Code - OSS/User/settings.json
+2024-01-18 09:45:43.476 [info] > /opt/anaconda/bin/conda info --json
+2024-01-18 09:45:45.009 [info] > ~/.cache/paru/clone/anaconda/pkg/anaconda/opt/anaconda/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/interpreterInfo.py

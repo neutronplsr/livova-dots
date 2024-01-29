@@ -1,0 +1,9 @@
+2024/01/24-08:38:08.012 ab9 Reusing MANIFEST /home/neutron/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/24-08:38:08.012 ab9 Recovering log #15
+2024/01/24-08:38:08.013 ab9 Reusing old log /home/neutron/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000015.log 
+2024/01/24-08:38:08.048 ab9 Compacting 1@1 + 1@2 files
+2024/01/24-08:38:08.054 ab9 Generated table #18@1: 1213 keys, 149526 bytes
+2024/01/24-08:38:08.054 ab9 Compacted 1@1 + 1@2 files => 149526 bytes
+2024/01/24-08:38:08.055 ab9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/24-08:38:08.055 ab9 Delete type=2 #13
+2024/01/24-08:38:08.055 ab9 Delete type=2 #16

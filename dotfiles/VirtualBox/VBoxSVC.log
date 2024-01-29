@@ -1,0 +1,512 @@
+00:00:00.001504 main     VirtualBox XPCOM Server 7.0.14 r161095 linux.amd64 (Jan 16 2024 21:13:22) release log
+00:00:00.001505 main     Log opened 2024-01-22T02:28:39.231431000Z
+00:00:00.001505 main     Build Type: release
+00:00:00.001506 main     OS Product: Linux
+00:00:00.001506 main     OS Release: 6.7.0-arch3-1
+00:00:00.001507 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 13 Jan 2024 14:37:14 +0000
+00:00:00.001518 main     DMI Product Name: HP ENVY TE01-2xxx
+00:00:00.001521 main     DMI Product Version: 
+00:00:00.001523 main     Firmware type: UEFI
+00:00:00.001730 main     Secure Boot: Disabled
+00:00:00.001744 main     Host RAM: 31866MB (31.1GB) total, 30441MB (29.7GB) available
+00:00:00.001745 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001746 main     Process ID: 1564
+00:00:00.001746 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002740 main     IPC socket path: /tmp/.vbox-neutron-ipc/ipcd
+00:00:00.107490 nspr-2   VirtualBox: object creation starts
+00:00:00.108678 nspr-2   Home directory: '/home/neutron/.config/VirtualBox'
+00:00:00.109061 nspr-2   Loading settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.112537 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.112738 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.137841 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.139992 nspr-2   HostDnsMonitor: initializing
+00:00:00.140513 nspr-2   NAT: resolv.conf: nameserver 100.64.0.7
+00:00:00.140547 nspr-2   HostDnsMonitor: updating information
+00:00:00.140579 nspr-2   HostDnsMonitor: old information
+00:00:00.140582 nspr-2     no server entries
+00:00:00.140584 nspr-2     no domain set
+00:00:00.140586 nspr-2     no search string entries
+00:00:00.140589 nspr-2   HostDnsMonitor: new information
+00:00:00.140591 nspr-2     server 1: 100.64.0.7
+00:00:00.140594 nspr-2     domain: umbc.edu
+00:00:00.140596 nspr-2     search string 1: umbc.edu
+00:00:00.145444 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.146080 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.150442 nspr-2   Loading settings file "/home/neutron/VirtualBox VMs/base-arch/base-arch.vbox" with version "1.19-linux"
+00:00:00.152427 nspr-2   Loading settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox" with version "1.19-linux"
+00:00:00.153782 nspr-2   VirtualBox: object created
+00:00:00.562006 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:02.658669 nspr-2   Launched VM: 3892318944 pid: 1627 (0x65b) frontend: GUI/Qt name: install-test-1
+00:00:02.666850 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:02.754159 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:03.021864 nspr-6   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.026476 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:03.033297 nspr-6   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:00:03.057472 nspr-5   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:03.071671 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:03.089044 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:03.232138 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:03.245773 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:03.428178 nspr-4   Saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox" with version "1.19-linux"
+00:00:03.441161 nspr-4   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox"
+00:00:03.448091 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:05.942767 nspr-2   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:05.944303 nspr-2   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:00:13.757029 nspr-8   Saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox" with version "1.19-linux"
+00:00:13.768037 nspr-8   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox"
+00:00:13.772093 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:05:13.735844 nspr-4   Saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox" with version "1.19-linux"
+00:05:13.737080 nspr-4   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox"
+00:05:13.742252 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:05:14.622876 nspr-7   Saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox" with version "1.19-linux"
+00:05:14.624170 nspr-7   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox"
+00:05:14.628005 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:05:18.694428 nspr-3   Saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox" with version "1.19-linux"
+00:05:18.695842 nspr-3   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox"
+00:05:18.699600 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:05:33.735096 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:05:33.796476 nspr-5   Saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox" with version "1.19-linux"
+00:05:33.797895 nspr-5   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-1/install-test-1.vbox"
+00:05:33.806258 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:05:34.809638 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:05:59.245623 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
+00:05:59.254977 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:05:59.261892 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:05:59.318733 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:19.314277 nspr-4   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:06:19.325289 nspr-4   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:06:19.325413 SaveMediaReg Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:06:19.326562 SaveMediaReg Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:06:19.326621 nspr-4   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:19.327789 nspr-4   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:06:19.366004 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:20.113027 nspr-8   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:20.124768 nspr-8   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:06:20.130648 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:33.972149 createClone Saving settings file "/home/neutron/VirtualBox VMs/base-arch/base-arch.vbox" with version "1.19-linux"
+00:06:33.975281 createClone Finished saving settings file "/home/neutron/VirtualBox VMs/base-arch/base-arch.vbox"
+00:06:33.975363 createClone Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:33.976520 createClone Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:06:33.976737 MachineClone Saving settings file "/home/neutron/VirtualBox VMs/base-arch Clone/base-arch Clone.vbox" with version "1.19-linux"
+00:06:33.978042 MachineClone Finished saving settings file "/home/neutron/VirtualBox VMs/base-arch Clone/base-arch Clone.vbox"
+00:06:33.979620 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {8fea82a6-12f8-4caa-96fb-2c1fbe28b3b8}}, preserve=false aResultDetail=0
+00:06:33.980482 nspr-7   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:33.981638 nspr-7   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:06:33.986731 nspr-8   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:33.987925 nspr-8   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:06:33.999819 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:37.429691 nspr-8   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
+00:06:37.439148 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:06:37.445990 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:06:37.526946 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:46.136619 nspr-5   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:06:46.153313 nspr-5   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:06:46.153445 SaveMediaReg Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:06:46.154612 SaveMediaReg Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:06:46.154670 nspr-5   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:46.155831 nspr-5   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:06:46.194044 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:48.091225 nspr-6   Launched VM: 2684368464 pid: 6008 (0x1778) frontend: GUI/Qt name: install-test-gnome-pretty
+00:06:48.099915 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:48.168377 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:48.442359 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:06:48.470211 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:06:48.483751 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:06:48.518513 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:06:48.655960 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:06:48.670505 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:06:48.793155 nspr-7   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:06:48.802136 nspr-7   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:06:48.806299 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:06:53.720317 nspr-2   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:06:53.728099 nspr-2   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:06:53.732332 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:12:04.406938 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:12:06.506191 nspr-7   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:12:06.517235 nspr-7   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:12:06.536954 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:12:20.298843 nspr-6   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:12:20.310060 nspr-6   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:12:20.313959 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:12:20.321212 nspr-3   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:20.322407 nspr-3   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:12:34.751568 nspr-3   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:12:34.762553 nspr-3   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:12:34.766452 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:12:41.229482 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:12:42.936166 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:12:45.575287 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:12:47.018334 nspr-2   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:12:47.029348 nspr-2   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:12:47.038277 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:12:47.118773 nspr-4   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:12:47.120026 nspr-4   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:12:47.125120 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:48.129846 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:51.014198 nspr-6   Launched VM: 1900398416 pid: 9542 (0x2546) frontend: GUI/Qt name: install-test-gnome-pretty
+00:12:51.024188 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:51.089240 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:51.362712 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:12:51.390144 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:12:51.403392 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:12:51.431322 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:12:51.562542 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:12:51.578249 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:12:51.711485 nspr-8   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:12:51.722412 nspr-8   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:12:51.726852 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:12:58.600437 nspr-7   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:12:58.611309 nspr-7   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:12:58.615218 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:21:48.617684 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:21:50.220709 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:21:50.272452 nspr-2   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:21:50.283511 nspr-2   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:21:50.288689 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:21:51.783912 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:21:53.396159 nspr-2   Launched VM: 3758440992 pid: 14818 (0x39e2) frontend: GUI/Qt name: install-test-gnome-pretty
+00:21:53.406598 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:21:53.475233 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:21:53.748851 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:21:53.776852 nspr-9   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:21:53.790258 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:21:53.812652 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:21:53.901710 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:21:53.915998 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:21:54.094179 nspr-2   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:21:54.105176 nspr-2   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:21:54.109485 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:21:59.252667 nspr-2   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:21:59.263863 nspr-2   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:21:59.268139 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:22:08.767965 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:22:09.973927 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:22:10.025175 nspr-7   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox" with version "1.19-linux"
+00:22:10.036273 nspr-7   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-pretty/install-test-gnome-pretty.vbox"
+00:22:10.041402 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:11.537234 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:15.020660 nspr-6   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:15.059923 nspr-6   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:22:15.060045 nspr-6   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:15.061955 nspr-6   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:22:15.066712 DeleteVM Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:15.068432 DeleteVM Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:22:15.068855 nspr-7   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:15.070010 nspr-7   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:22:15.070566 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {8fea82a6-12f8-4caa-96fb-2c1fbe28b3b8}}, preserve=false aResultDetail=0
+00:22:15.084547 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:15.409296 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {8fea82a6-12f8-4caa-96fb-2c1fbe28b3b8}}, preserve=false aResultDetail=0
+00:22:15.413630 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:15.705475 nspr-8   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:15.718981 nspr-8   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:22:15.726051 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:21.053446 nspr-4   ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Machine name is invalid, must not be empty}, preserve=false aResultDetail=0
+00:22:22.904023 nspr-5   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:22.915343 nspr-5   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:22:22.918719 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:23.837104 nspr-8   Launched VM: 2415997056 pid: 15216 (0x3b70) frontend: GUI/Qt name: install-test-gnome-noext
+00:22:23.844382 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:23.909630 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:24.186055 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:22:24.214270 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:22:24.228105 nspr-9   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:22:24.253400 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:22:24.372289 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:22:24.389587 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:22:24.526549 nspr-5   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:22:24.537555 nspr-5   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:22:24.542851 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:22:27.651008 nspr-9   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:22:27.662504 nspr-9   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:22:27.668152 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:22:37.233716 nspr-2   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:22:37.272162 nspr-2   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:22:37.276168 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:22:41.423360 nspr-5   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:22:41.461875 nspr-5   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:22:41.466006 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:08.896167 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:09.344915 nspr-6   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:23:09.346165 nspr-6   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:23:09.347110 nspr-8   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:23:09.348275 nspr-8   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:23:09.350317 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:09.351076 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:09.359487 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:14.226493 nspr-7   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:23:14.233902 nspr-7   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:23:14.237785 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:34.381061 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:34.390499 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:23:34.397481 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:23:34.726191 nspr-9   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:23:34.765157 nspr-9   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:23:34.772191 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:34.773163 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:34.782012 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:23:34.788940 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:23:41.195127 nspr-9   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:23:41.206359 nspr-9   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:23:41.210434 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:41.522294 nspr-5   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:23:41.533244 nspr-5   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:23:41.537270 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:47.679080 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:23:49.801997 nspr-7   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:23:49.813136 nspr-7   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:23:49.828589 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:23:58.725767 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:23:59.796093 nspr-2   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:23:59.807083 nspr-2   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:23:59.812934 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:23:59.818632 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:23:59.880989 nspr-7   Saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox" with version "1.19-linux"
+00:23:59.882258 nspr-7   Finished saving settings file "/home/neutron/VirtualBox VMs/install-test-gnome-noext/install-test-gnome-noext.vbox"
+00:23:59.886767 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:24:00.892453 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:24:38.536495 nspr-7   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:24:38.575717 nspr-7   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:24:38.575807 nspr-7   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:24:38.577598 nspr-7   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:24:38.581093 DeleteVM Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:24:38.587002 DeleteVM Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:24:38.587438 nspr-3   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:24:38.589716 nspr-3   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:24:38.590510 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {fee2e781-592c-435e-8432-8dadff6f80e1}}, preserve=false aResultDetail=0
+00:24:38.593406 nspr-7   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {fee2e781-592c-435e-8432-8dadff6f80e1}}, preserve=false aResultDetail=0
+00:24:38.615152 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:24:51.026895 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
+00:24:51.036568 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:24:51.043418 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:24:51.162641 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:24:58.579302 nspr-7   ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Machine name is invalid, must not be empty}, preserve=false aResultDetail=0
+00:25:06.424257 createClone Saving settings file "/home/neutron/VirtualBox VMs/base-arch/base-arch.vbox" with version "1.19-linux"
+00:25:06.559849 createClone Finished saving settings file "/home/neutron/VirtualBox VMs/base-arch/base-arch.vbox"
+00:25:06.559915 createClone Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:06.707486 createClone Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:25:06.707795 MachineClone Saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox" with version "1.19-linux"
+00:25:06.853921 MachineClone Finished saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox"
+00:25:06.859038 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {0caf0902-f24b-4582-b65d-2d160576590d}}, preserve=false aResultDetail=0
+00:25:06.859942 nspr-3   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:06.951898 nspr-3   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:25:06.961476 nspr-9   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:07.057753 nspr-9   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:25:07.078349 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:09.290014 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
+00:25:09.299753 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:25:09.306588 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:25:09.382701 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:13.916069 nspr-8   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:13.927114 nspr-8   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:25:13.933570 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:15.208252 nspr-9   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
+00:25:15.217795 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:25:15.224498 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:25:15.283892 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:21.231985 nspr-9   Saving settings file "/home/neutron/VirtualBox VMs/base-arch/base-arch.vbox" with version "1.19-linux"
+00:25:21.242250 nspr-9   Finished saving settings file "/home/neutron/VirtualBox VMs/base-arch/base-arch.vbox"
+00:25:21.279504 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:22.213575 nspr-4   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:22.226369 nspr-4   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:25:22.232108 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:24.038996 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
+00:25:24.048747 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:25:24.055478 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:25:24.116788 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:26.772084 nspr-8   Saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox" with version "1.19-linux"
+00:25:26.782091 nspr-8   Finished saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox"
+00:25:26.821400 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:30.577129 nspr-6   Launched VM: 3892341056 pid: 17114 (0x42da) frontend: GUI/Qt name: install-qtile
+00:25:30.586012 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:30.655666 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:25:30.929794 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:25:30.957848 nspr-7   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:25:30.970790 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:25:31.027560 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:25:31.124685 nspr-7   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:25:31.247883 nspr-5   Saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox" with version "1.19-linux"
+00:25:31.249135 nspr-5   Finished saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox"
+00:25:31.254184 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:25:31.297626 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:25:35.111582 nspr-4   Saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox" with version "1.19-linux"
+00:25:35.123212 nspr-4   Finished saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox"
+00:25:35.127728 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:35:24.130748 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:35:24.187606 nspr-9   Saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox" with version "1.19-linux"
+00:35:24.188905 nspr-9   Finished saving settings file "/home/neutron/VirtualBox VMs/install-qtile/install-qtile.vbox"
+00:35:24.195637 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:35:25.200887 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:35:27.510482 nspr-9   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:35:27.522490 nspr-9   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:35:27.529471 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:35:32.198627 nspr-4   ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Machine name is invalid, must not be empty}, preserve=false aResultDetail=0
+00:35:38.939379 createClone Saving settings file "/home/neutron/VirtualBox VMs/base-arch/base-arch.vbox" with version "1.19-linux"
+00:35:39.016777 createClone Finished saving settings file "/home/neutron/VirtualBox VMs/base-arch/base-arch.vbox"
+00:35:39.016856 createClone Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:35:39.163719 createClone Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:35:39.164466 MachineClone Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+00:35:39.238720 MachineClone Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+00:35:39.243098 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {0f2ecab1-a899-4719-93a7-fdecede037fb}}, preserve=false aResultDetail=0
+00:35:39.243780 nspr-8   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:35:39.337339 nspr-8   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:35:39.343119 nspr-4   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:35:39.473046 nspr-4   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"
+00:35:39.489997 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:35:43.192129 nspr-9   Launched VM: 2281712144 pid: 22997 (0x59d5) frontend: GUI/Qt name: install-hypr
+00:35:43.199179 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:35:43.271291 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:35:43.546026 nspr-8   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:35:43.573822 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:35:43.586861 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:35:43.615225 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:35:43.714696 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:35:43.847680 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:35:43.890947 nspr-4   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+00:35:43.901519 nspr-4   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+00:35:43.906084 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:35:59.517022 nspr-6   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+00:35:59.527487 nspr-6   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+00:35:59.531425 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:54:08.328374 dns-monitor NAT: resolv.conf: nameserver 130.85.1.23
+00:54:08.328386 dns-monitor NAT: resolv.conf: nameserver 130.85.1.8
+00:54:08.328388 dns-monitor NAT: resolv.conf: nameserver 130.85.1.13
+00:54:08.328402 dns-monitor HostDnsMonitor: updating information
+00:54:08.328424 dns-monitor HostDnsMonitor: old information
+00:54:08.328425 dns-monitor   server 1: 100.64.0.7
+00:54:08.328427 dns-monitor   domain: umbc.edu
+00:54:08.328428 dns-monitor   search string 1: umbc.edu
+00:54:08.328429 dns-monitor HostDnsMonitor: new information
+00:54:08.328429 dns-monitor   server 1: 130.85.1.23
+00:54:08.328430 dns-monitor   server 2: 130.85.1.8
+00:54:08.328431 dns-monitor   server 3: 130.85.1.13
+00:54:08.328432 dns-monitor   domain: umbc.edu
+00:54:08.328433 dns-monitor   search string 1: umbc.edu
+00:54:08.328604 MainPower Host suspending: Paused 1 VMs
+00:54:08.338451 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:54:08.509025 dns-monitor NAT: resolv.conf: nameserver 130.85.1.23
+00:54:08.509034 dns-monitor NAT: resolv.conf: nameserver 130.85.1.8
+00:54:08.509036 dns-monitor NAT: resolv.conf: nameserver 130.85.1.13
+00:54:08.509041 dns-monitor HostDnsMonitor: updating information
+00:54:08.509042 dns-monitor HostDnsMonitor: unchanged
+00:54:08.519475 dns-monitor HostDnsMonitor: updating information
+00:54:08.519482 dns-monitor HostDnsMonitor: old information
+00:54:08.519483 dns-monitor   server 1: 130.85.1.23
+00:54:08.519485 dns-monitor   server 2: 130.85.1.8
+00:54:08.519486 dns-monitor   server 3: 130.85.1.13
+00:54:08.519486 dns-monitor   domain: umbc.edu
+00:54:08.519487 dns-monitor   search string 1: umbc.edu
+00:54:08.519488 dns-monitor HostDnsMonitor: new information
+00:54:08.519489 dns-monitor   no server entries
+00:54:08.519490 dns-monitor   no domain set
+00:54:08.519491 dns-monitor   no search string entries
+00:54:14.189579 MainPower Host resumed: Resumed 1 VMs
+00:54:14.209338 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:54:17.445959 dns-monitor NAT: resolv.conf: nameserver 130.85.1.23
+00:54:17.445970 dns-monitor NAT: resolv.conf: nameserver 130.85.1.8
+00:54:17.445972 dns-monitor NAT: resolv.conf: nameserver 130.85.1.13
+00:54:17.445977 dns-monitor HostDnsMonitor: updating information
+00:54:17.445978 dns-monitor HostDnsMonitor: old information
+00:54:17.445979 dns-monitor   no server entries
+00:54:17.445980 dns-monitor   no domain set
+00:54:17.445981 dns-monitor   no search string entries
+00:54:17.445982 dns-monitor HostDnsMonitor: new information
+00:54:17.445991 dns-monitor   server 1: 130.85.1.23
+00:54:17.445992 dns-monitor   server 2: 130.85.1.8
+00:54:17.445992 dns-monitor   server 3: 130.85.1.13
+00:54:17.445993 dns-monitor   domain: umbc.edu
+00:54:17.445993 dns-monitor   search string 1: umbc.edu
+00:54:17.648051 dns-monitor NAT: resolv.conf: nameserver 100.64.0.7
+00:54:17.648066 dns-monitor HostDnsMonitor: updating information
+00:54:17.648067 dns-monitor HostDnsMonitor: old information
+00:54:17.648068 dns-monitor   server 1: 130.85.1.23
+00:54:17.648069 dns-monitor   server 2: 130.85.1.8
+00:54:17.648069 dns-monitor   server 3: 130.85.1.13
+00:54:17.648070 dns-monitor   domain: umbc.edu
+00:54:17.648070 dns-monitor   search string 1: umbc.edu
+00:54:17.648071 dns-monitor HostDnsMonitor: new information
+00:54:17.648072 dns-monitor   server 1: 100.64.0.7
+00:54:17.648072 dns-monitor   domain: umbc.edu
+00:54:17.648073 dns-monitor   search string 1: umbc.edu
+00:54:21.104406 dns-monitor NAT: resolv.conf: nameserver 130.85.1.23
+00:54:21.104416 dns-monitor NAT: resolv.conf: nameserver 130.85.1.8
+00:54:21.104418 dns-monitor NAT: resolv.conf: nameserver 130.85.1.13
+00:54:21.104423 dns-monitor HostDnsMonitor: updating information
+00:54:21.104424 dns-monitor HostDnsMonitor: old information
+00:54:21.104425 dns-monitor   server 1: 100.64.0.7
+00:54:21.104427 dns-monitor   domain: umbc.edu
+00:54:21.104427 dns-monitor   search string 1: umbc.edu
+00:54:21.104428 dns-monitor HostDnsMonitor: new information
+00:54:21.104428 dns-monitor   server 1: 130.85.1.23
+00:54:21.104429 dns-monitor   server 2: 130.85.1.8
+00:54:21.104429 dns-monitor   server 3: 130.85.1.13
+00:54:21.104430 dns-monitor   domain: umbc.edu
+00:54:21.104430 dns-monitor   search string 1: umbc.edu
+00:54:21.104820 dns-monitor NAT: resolv.conf: nameserver 100.64.0.7
+00:54:21.104826 dns-monitor HostDnsMonitor: updating information
+00:54:21.104827 dns-monitor HostDnsMonitor: old information
+00:54:21.104827 dns-monitor   server 1: 130.85.1.23
+00:54:21.104828 dns-monitor   server 2: 130.85.1.8
+00:54:21.104829 dns-monitor   server 3: 130.85.1.13
+00:54:21.104829 dns-monitor   domain: umbc.edu
+00:54:21.104830 dns-monitor   search string 1: umbc.edu
+00:54:21.104831 dns-monitor HostDnsMonitor: new information
+00:54:21.104831 dns-monitor   server 1: 100.64.0.7
+00:54:21.104831 dns-monitor   domain: umbc.edu
+00:54:21.104832 dns-monitor   search string 1: umbc.edu
+01:10:26.409589 nspr-8   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+01:10:26.420523 nspr-8   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+01:10:26.425903 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:47:34.838447 nspr-3   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+01:47:34.849412 nspr-3   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+01:47:34.854110 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:47:37.798684 nspr-8   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+01:47:37.837184 nspr-8   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+01:47:37.845263 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:47:46.362991 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:48:19.413692 nspr-8   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+01:48:19.452165 nspr-8   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+01:48:19.456480 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+10:37:26.146089 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+10:37:28.463023 nspr-8   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+10:37:28.502187 nspr-8   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+10:37:28.521590 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+10:42:43.977734 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+10:42:48.826373 nspr-9   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+10:42:48.865924 nspr-9   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+10:42:48.872539 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+10:42:50.925740 nspr-5   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+10:42:50.937165 nspr-5   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+10:42:50.940851 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+10:42:53.995955 nspr-5   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+10:42:54.035498 nspr-5   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+10:42:54.051285 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+10:42:54.117202 nspr-9   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+10:42:54.118439 nspr-9   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+10:42:54.123076 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+10:42:55.125238 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+10:43:02.756379 nspr-9   Launched VM: 2281749248 pid: 378272 (0x5c5a0) frontend: GUI/Qt name: install-hypr
+10:43:02.764502 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+10:43:02.838025 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+10:43:03.113177 nspr-8   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+10:43:03.140801 nspr-7   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+10:43:03.154201 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+10:43:03.188131 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+10:43:03.254679 nspr-7   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+10:43:03.392614 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+10:43:14.023125 nspr-7   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+10:43:14.027120 nspr-7   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+10:43:14.031186 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+10:45:28.906506 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+10:45:30.652713 nspr-4   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+10:45:30.663723 nspr-4   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+10:45:30.681625 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+10:46:02.512616 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+10:46:04.323661 nspr-8   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+10:46:04.334612 nspr-8   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+10:46:04.344074 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+10:46:04.382929 nspr-8   Saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox" with version "1.19-linux"
+10:46:04.384164 nspr-8   Finished saving settings file "/home/neutron/VirtualBox VMs/install-hypr/install-hypr.vbox"
+10:46:04.388820 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+10:46:05.893037 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+10:46:18.226267 nspr-5   Saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+10:46:18.238486 nspr-5   Finished saving settings file "/home/neutron/.config/VirtualBox/VirtualBox.xml"

@@ -1,0 +1,11 @@
+# GIMP action-history
+
+(history-item "file-save" 0)
+(history-item "file-overwrite" 1)
+(history-item "file-quit" 2)
+(history-item "edit-paste" 1)
+(history-item "file-open" 0)
+(history-item "file-export" 0)
+(history-item "layers-new" 1)
+
+# end of action-history

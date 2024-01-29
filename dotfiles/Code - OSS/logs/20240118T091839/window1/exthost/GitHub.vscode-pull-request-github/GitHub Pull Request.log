@@ -1,0 +1,6 @@
+2024-01-18 09:29:35.258 [warning] /home/neutron/.ssh/config: ENOENT: no such file or directory, open '/home/neutron/.ssh/config'
+2024-01-18 09:29:35.258 [info] Activation> Extension version: 0.78.1
+2024-01-18 09:29:35.264 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/neutron/.config/Code - OSS/User/globalStorage/github.vscode-pull-request-github/temp'
+2024-01-18 09:29:35.270 [info] Looking for git repository
+2024-01-18 09:29:35.270 [info] Found 0 repositories during activation
+2024-01-18 09:29:35.271 [info] Registering git provider

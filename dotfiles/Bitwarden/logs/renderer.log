@@ -1,0 +1,20 @@
+[2023-11-25 17:54:25.202] [info]  No state version found, assuming empty state.
+[2023-11-25 17:55:01.281] [info]  Finished search indexing
+[2023-11-25 17:55:01.441] [info]  Finished search indexing
+[2023-11-25 18:08:53.599] [info]  State version: 8
+[2023-11-25 18:08:53.601] [info]  Migrator ba (to version 2) should migrate: false - up
+[2023-11-25 18:08:53.602] [info]  Migrator la (to version 3) should migrate: false - up
+[2023-11-25 18:08:53.602] [info]  Migrator ua (to version 4) should migrate: false - up
+[2023-11-25 18:08:53.602] [info]  Migrator ha (to version 5) should migrate: false - up
+[2023-11-25 18:08:53.603] [info]  Migrator ga (to version 6) should migrate: false - up
+[2023-11-25 18:08:53.603] [info]  Migrator va (to version 7) should migrate: false - up
+[2023-11-25 18:08:53.603] [info]  Migrator ma (to version 8) should migrate: false - up
+[2023-11-25 18:09:00.405] [info]  Finished search indexing
+[2023-11-26 21:31:50.926] [info]  State version: 8
+[2023-11-26 21:31:50.943] [info]  Migrator ba (to version 2) should migrate: false - up
+[2023-11-26 21:31:50.945] [info]  Migrator la (to version 3) should migrate: false - up
+[2023-11-26 21:31:50.947] [info]  Migrator ua (to version 4) should migrate: false - up
+[2023-11-26 21:31:50.951] [info]  Migrator ha (to version 5) should migrate: false - up
+[2023-11-26 21:31:50.952] [info]  Migrator ga (to version 6) should migrate: false - up
+[2023-11-26 21:31:50.954] [info]  Migrator va (to version 7) should migrate: false - up
+[2023-11-26 21:31:50.955] [info]  Migrator ma (to version 8) should migrate: false - up

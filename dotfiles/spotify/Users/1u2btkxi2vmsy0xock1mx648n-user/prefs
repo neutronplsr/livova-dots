@@ -1,0 +1,8 @@
+audio.equalizer.low_mid_peak_gain_v2=-89478485
+audio.equalizer.low_peak_gain_v2=536870912
+audio.equalizer_v2=true
+audio.equalizer.high_mid_peak_gain_v2=-178956971
+audio.play_bitrate_non_metered_migrated=true
+audio.equalizer.high_peak_gain_v2=89478485
+audio.equalizer.high_shelf_gain_v2=805306368
+audio.equalizer.low_shelf_gain_v2=715827882

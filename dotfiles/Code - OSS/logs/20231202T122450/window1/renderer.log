@@ -1,0 +1,8 @@
+2023-12-02 12:24:51.476 [error] Error: The editor could not be opened because the file was not found.
+    at O.fc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2396:24863)
+    at async O.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2396:23949)
+    at async c.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2394:22836)
+    at async c.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2394:21423)
+    at async c.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2394:20389)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2524:22288
+2023-12-02 12:24:54.544 [info] [perf] Render performance baseline is 34ms

@@ -1,0 +1,13 @@
+[2024-01-29 18:18:33.380][verbose] Chromium sandbox is enabled
+[2024-01-29 18:18:33.381][info] Running version 2023.6
+[2024-01-29 18:18:33.503][info] Detected locale: en-US
+[2024-01-29 18:18:33.541][info] Connected to the daemon
+[2024-01-29 18:18:33.814][error] Child process of type GPU exited with exit code 8704 due to abnormal-exit
+[2024-01-29 18:18:33.824][info] Autoconnect the tunnel
+[2024-01-29 18:18:33.909][error] Child process of type GPU exited with exit code 8704 due to abnormal-exit
+[2024-01-29 18:18:34.006][error] Child process of type GPU exited with exit code 8704 due to abnormal-exit
+[2024-01-29 18:41:21.906][info] Suspend event received, disconnecting from daemon
+[2024-01-29 18:41:21.908][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-29 18:41:21.909][info] Disconnected from the daemon
+[2024-01-29 18:41:21.911][info] Suspend event received, disconnecting from daemon
+[2024-01-29 18:41:21.911][info] Disconnected from the daemon

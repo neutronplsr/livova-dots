@@ -1,0 +1,5 @@
+game:
+  exe: /Games/Celeste/Celeste.v1.4.0.0/Celeste.v1.4.0.0/Celeste.exe
+system:
+  locale: ''
+wine: {}

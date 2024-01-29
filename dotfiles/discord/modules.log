@@ -1,0 +1,304 @@
+2023-11-25T23:28:35.249Z [Modules] Modules initializing
+2023-11-25T23:28:35.249Z [Modules] Distribution: remote
+2023-11-25T23:28:35.249Z [Modules] Host updates: enabled
+2023-11-25T23:28:35.249Z [Modules] Module updates: enabled
+2023-11-25T23:28:35.249Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-25T23:28:35.250Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-25T23:28:35.250Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-25T23:28:35.385Z [Modules] No updates to install
+2023-11-25T23:28:35.385Z [Modules] Checking for host updates.
+2023-11-25T23:28:35.587Z [Modules] Host is up to date.
+2023-11-25T23:28:35.587Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-25T23:28:35.608Z [Modules] No module updates available.
+2023-11-25T23:29:16.200Z [Modules] Modules initializing
+2023-11-25T23:29:16.200Z [Modules] Distribution: remote
+2023-11-25T23:29:16.200Z [Modules] Host updates: enabled
+2023-11-25T23:29:16.200Z [Modules] Module updates: enabled
+2023-11-25T23:29:16.201Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-25T23:29:16.201Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-25T23:29:16.201Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-25T23:29:17.262Z [Modules] No updates to install
+2023-11-25T23:29:17.262Z [Modules] Checking for host updates.
+2023-11-25T23:29:17.366Z [Modules] Host is up to date.
+2023-11-25T23:29:17.367Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-25T23:29:17.369Z [Modules] No module updates available.
+2023-11-25T23:46:02.632Z [Modules] Modules initializing
+2023-11-25T23:46:02.633Z [Modules] Distribution: remote
+2023-11-25T23:46:02.633Z [Modules] Host updates: enabled
+2023-11-25T23:46:02.633Z [Modules] Module updates: enabled
+2023-11-25T23:46:02.633Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-25T23:46:02.633Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-25T23:46:02.633Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-25T23:46:02.805Z [Modules] No updates to install
+2023-11-25T23:46:02.806Z [Modules] Checking for host updates.
+2023-11-25T23:46:02.963Z [Modules] Host is up to date.
+2023-11-25T23:46:02.963Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-25T23:46:02.989Z [Modules] No module updates available.
+2023-11-25T23:46:04.872Z [Modules] Checking for host updates.
+2023-11-25T23:46:04.932Z [Modules] Host is up to date.
+2023-11-25T23:46:04.932Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-25T23:46:04.934Z [Modules] No module updates available.
+2023-11-26T00:46:04.875Z [Modules] Checking for host updates.
+2023-11-26T00:46:05.000Z [Modules] Host is up to date.
+2023-11-26T00:46:05.000Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T00:46:05.022Z [Modules] No module updates available.
+2023-11-26T00:56:13.998Z [Modules] Modules initializing
+2023-11-26T00:56:13.998Z [Modules] Distribution: remote
+2023-11-26T00:56:13.998Z [Modules] Host updates: enabled
+2023-11-26T00:56:13.998Z [Modules] Module updates: enabled
+2023-11-26T00:56:13.998Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-26T00:56:13.998Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-26T00:56:13.998Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-26T00:56:14.192Z [Modules] No updates to install
+2023-11-26T00:56:14.192Z [Modules] Checking for host updates.
+2023-11-26T00:56:19.313Z [Modules] Host is up to date.
+2023-11-26T00:56:19.313Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T00:56:19.336Z [Modules] No module updates available.
+2023-11-26T00:56:21.221Z [Modules] Checking for host updates.
+2023-11-26T00:56:21.285Z [Modules] Host is up to date.
+2023-11-26T00:56:21.285Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T00:56:21.287Z [Modules] No module updates available.
+2023-11-26T01:01:25.688Z [Modules] Modules initializing
+2023-11-26T01:01:25.688Z [Modules] Distribution: remote
+2023-11-26T01:01:25.688Z [Modules] Host updates: enabled
+2023-11-26T01:01:25.688Z [Modules] Module updates: enabled
+2023-11-26T01:01:25.689Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-26T01:01:25.689Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-26T01:01:25.689Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-26T01:01:25.935Z [Modules] No updates to install
+2023-11-26T01:01:25.936Z [Modules] Checking for host updates.
+2023-11-26T01:01:26.060Z [Modules] Host is up to date.
+2023-11-26T01:01:26.061Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T01:01:26.085Z [Modules] No module updates available.
+2023-11-26T01:01:27.859Z [Modules] Checking for host updates.
+2023-11-26T01:01:27.917Z [Modules] Host is up to date.
+2023-11-26T01:01:27.917Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T01:01:27.920Z [Modules] No module updates available.
+2023-11-26T01:37:22.926Z [Modules] Modules initializing
+2023-11-26T01:37:22.926Z [Modules] Distribution: remote
+2023-11-26T01:37:22.926Z [Modules] Host updates: enabled
+2023-11-26T01:37:22.926Z [Modules] Module updates: enabled
+2023-11-26T01:37:22.926Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-26T01:37:22.926Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-26T01:37:22.926Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-26T01:37:23.111Z [Modules] No updates to install
+2023-11-26T01:37:23.111Z [Modules] Checking for host updates.
+2023-11-26T01:37:23.211Z [Modules] Host is up to date.
+2023-11-26T01:37:23.212Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T01:37:23.236Z [Modules] No module updates available.
+2023-11-26T01:37:25.068Z [Modules] Checking for host updates.
+2023-11-26T01:37:25.129Z [Modules] Host is up to date.
+2023-11-26T01:37:25.129Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T01:37:25.131Z [Modules] No module updates available.
+2023-11-26T02:02:43.725Z [Modules] Modules initializing
+2023-11-26T02:02:43.725Z [Modules] Distribution: remote
+2023-11-26T02:02:43.725Z [Modules] Host updates: enabled
+2023-11-26T02:02:43.725Z [Modules] Module updates: enabled
+2023-11-26T02:02:43.725Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-26T02:02:43.725Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-26T02:02:43.725Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-26T02:02:44.001Z [Modules] No updates to install
+2023-11-26T02:02:44.002Z [Modules] Checking for host updates.
+2023-11-26T02:02:44.117Z [Modules] Host is up to date.
+2023-11-26T02:02:44.117Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T02:02:44.168Z [Modules] No module updates available.
+2023-11-26T02:02:46.208Z [Modules] Checking for host updates.
+2023-11-26T02:02:46.268Z [Modules] Host is up to date.
+2023-11-26T02:02:46.268Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T02:02:46.271Z [Modules] No module updates available.
+2023-11-26T15:53:58.473Z [Modules] Modules initializing
+2023-11-26T15:53:58.473Z [Modules] Distribution: remote
+2023-11-26T15:53:58.473Z [Modules] Host updates: enabled
+2023-11-26T15:53:58.474Z [Modules] Module updates: enabled
+2023-11-26T15:53:58.474Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-26T15:53:58.474Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-26T15:53:58.474Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-26T15:53:58.683Z [Modules] No updates to install
+2023-11-26T15:53:58.684Z [Modules] Checking for host updates.
+2023-11-26T15:53:58.799Z [Modules] Host is up to date.
+2023-11-26T15:53:58.799Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T15:53:58.823Z [Modules] No module updates available.
+2023-11-26T15:54:00.468Z [Modules] Checking for host updates.
+2023-11-26T15:54:00.576Z [Modules] Host is up to date.
+2023-11-26T15:54:00.576Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T15:54:00.578Z [Modules] No module updates available.
+2023-11-26T16:12:57.785Z [Modules] Modules initializing
+2023-11-26T16:12:57.785Z [Modules] Distribution: remote
+2023-11-26T16:12:57.785Z [Modules] Host updates: enabled
+2023-11-26T16:12:57.786Z [Modules] Module updates: enabled
+2023-11-26T16:12:57.786Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-26T16:12:57.786Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-26T16:12:57.786Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-26T16:12:58.018Z [Modules] No updates to install
+2023-11-26T16:12:58.018Z [Modules] Checking for host updates.
+2023-11-26T16:12:58.137Z [Modules] Host is up to date.
+2023-11-26T16:12:58.137Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T16:12:58.169Z [Modules] No module updates available.
+2023-11-26T16:12:59.793Z [Modules] Checking for host updates.
+2023-11-26T16:12:59.856Z [Modules] Host is up to date.
+2023-11-26T16:12:59.856Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T16:12:59.858Z [Modules] No module updates available.
+2023-11-26T16:52:22.533Z [Modules] Modules initializing
+2023-11-26T16:52:22.533Z [Modules] Distribution: remote
+2023-11-26T16:52:22.533Z [Modules] Host updates: enabled
+2023-11-26T16:52:22.533Z [Modules] Module updates: enabled
+2023-11-26T16:52:22.533Z [Modules] Module install path: /home/neutron/.config/discord/0.0.35/modules
+2023-11-26T16:52:22.533Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.35/modules/installed.json
+2023-11-26T16:52:22.534Z [Modules] Module download path: /home/neutron/.config/discord/0.0.35/modules/pending
+2023-11-26T16:52:22.747Z [Modules] No updates to install
+2023-11-26T16:52:22.747Z [Modules] Checking for host updates.
+2023-11-26T16:52:22.865Z [Modules] Host is up to date.
+2023-11-26T16:52:22.865Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T16:52:22.898Z [Modules] No module updates available.
+2023-11-26T16:52:25.163Z [Modules] Checking for host updates.
+2023-11-26T16:52:25.366Z [Modules] Host is up to date.
+2023-11-26T16:52:25.366Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-26T16:52:25.370Z [Modules] No module updates available.
+2024-01-16T20:16:46.565Z [Modules] Modules initializing
+2024-01-16T20:16:46.565Z [Modules] Distribution: remote
+2024-01-16T20:16:46.565Z [Modules] Host updates: enabled
+2024-01-16T20:16:46.565Z [Modules] Module updates: enabled
+2024-01-16T20:16:46.565Z [Modules] Module install path: /home/neutron/.config/discord/0.0.40/modules
+2024-01-16T20:16:46.565Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.40/modules/installed.json
+2024-01-16T20:16:46.565Z [Modules] Module download path: /home/neutron/.config/discord/0.0.40/modules/pending
+2024-01-16T20:16:46.766Z [Modules] No updates to install
+2024-01-16T20:16:46.767Z [Modules] Checking for host updates.
+2024-01-16T20:16:46.935Z [Modules] Host is up to date.
+2024-01-16T20:16:46.935Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-16T20:16:46.960Z [Modules] No module updates available.
+2024-01-16T20:16:48.695Z [Modules] Checking for host updates.
+2024-01-16T20:16:48.754Z [Modules] Host is up to date.
+2024-01-16T20:16:48.754Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-16T20:16:48.756Z [Modules] No module updates available.
+2024-01-16T20:17:24.332Z [Modules] Checking for host updates.
+2024-01-16T20:17:24.402Z [Modules] Host is up to date.
+2024-01-16T20:17:24.402Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-16T20:17:24.405Z [Modules] No module updates available.
+2024-01-16T20:19:20.883Z [Modules] Modules initializing
+2024-01-16T20:19:20.883Z [Modules] Distribution: remote
+2024-01-16T20:19:20.883Z [Modules] Host updates: enabled
+2024-01-16T20:19:20.883Z [Modules] Module updates: enabled
+2024-01-16T20:19:20.884Z [Modules] Module install path: /home/neutron/.config/discord/0.0.40/modules
+2024-01-16T20:19:20.884Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.40/modules/installed.json
+2024-01-16T20:19:20.884Z [Modules] Module download path: /home/neutron/.config/discord/0.0.40/modules/pending
+2024-01-16T20:19:21.027Z [Modules] No updates to install
+2024-01-16T20:19:21.027Z [Modules] Checking for host updates.
+2024-01-16T20:19:21.195Z [Modules] Host is up to date.
+2024-01-16T20:19:21.195Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-16T20:19:21.197Z [Modules] No module updates available.
+2024-01-16T20:19:22.800Z [Modules] Checking for host updates.
+2024-01-16T20:19:22.878Z [Modules] Host is up to date.
+2024-01-16T20:19:22.878Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-16T20:19:22.879Z [Modules] No module updates available.
+2024-01-17T13:32:59.741Z [Modules] Modules initializing
+2024-01-17T13:32:59.741Z [Modules] Distribution: remote
+2024-01-17T13:32:59.742Z [Modules] Host updates: enabled
+2024-01-17T13:32:59.742Z [Modules] Module updates: enabled
+2024-01-17T13:32:59.742Z [Modules] Module install path: /home/neutron/.config/discord/0.0.40/modules
+2024-01-17T13:32:59.742Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.40/modules/installed.json
+2024-01-17T13:32:59.742Z [Modules] Module download path: /home/neutron/.config/discord/0.0.40/modules/pending
+2024-01-17T13:32:59.927Z [Modules] No updates to install
+2024-01-17T13:32:59.927Z [Modules] Checking for host updates.
+2024-01-17T13:33:00.029Z [Modules] Host is up to date.
+2024-01-17T13:33:00.030Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T13:33:00.053Z [Modules] No module updates available.
+2024-01-17T13:33:01.568Z [Modules] Checking for host updates.
+2024-01-17T13:33:01.640Z [Modules] Host is up to date.
+2024-01-17T13:33:01.640Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T13:33:01.641Z [Modules] No module updates available.
+2024-01-17T15:32:22.942Z [Modules] Modules initializing
+2024-01-17T15:32:22.942Z [Modules] Distribution: remote
+2024-01-17T15:32:22.942Z [Modules] Host updates: enabled
+2024-01-17T15:32:22.942Z [Modules] Module updates: enabled
+2024-01-17T15:32:22.942Z [Modules] Module install path: /home/neutron/.config/discord/0.0.40/modules
+2024-01-17T15:32:22.942Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.40/modules/installed.json
+2024-01-17T15:32:22.942Z [Modules] Module download path: /home/neutron/.config/discord/0.0.40/modules/pending
+2024-01-17T15:32:23.147Z [Modules] No updates to install
+2024-01-17T15:32:23.147Z [Modules] Checking for host updates.
+2024-01-17T15:32:23.246Z [Modules] Host is up to date.
+2024-01-17T15:32:23.246Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T15:32:23.269Z [Modules] No module updates available.
+2024-01-17T15:32:24.855Z [Modules] Checking for host updates.
+2024-01-17T15:32:24.915Z [Modules] Host is up to date.
+2024-01-17T15:32:24.915Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T15:32:24.917Z [Modules] No module updates available.
+2024-01-17T15:56:14.885Z [Modules] Modules initializing
+2024-01-17T15:56:14.885Z [Modules] Distribution: remote
+2024-01-17T15:56:14.885Z [Modules] Host updates: enabled
+2024-01-17T15:56:14.885Z [Modules] Module updates: enabled
+2024-01-17T15:56:14.885Z [Modules] Module install path: /home/neutron/.config/discord/0.0.40/modules
+2024-01-17T15:56:14.885Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.40/modules/installed.json
+2024-01-17T15:56:14.885Z [Modules] Module download path: /home/neutron/.config/discord/0.0.40/modules/pending
+2024-01-17T15:56:15.058Z [Modules] No updates to install
+2024-01-17T15:56:15.059Z [Modules] Checking for host updates.
+2024-01-17T15:56:15.155Z [Modules] Host is up to date.
+2024-01-17T15:56:15.155Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T15:56:15.177Z [Modules] No module updates available.
+2024-01-17T15:56:16.704Z [Modules] Checking for host updates.
+2024-01-17T15:56:16.779Z [Modules] Host is up to date.
+2024-01-17T15:56:16.779Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T15:56:16.782Z [Modules] No module updates available.
+2024-01-17T16:56:16.705Z [Modules] Checking for host updates.
+2024-01-17T16:56:16.783Z [Modules] Host is up to date.
+2024-01-17T16:56:16.783Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T16:56:16.805Z [Modules] No module updates available.
+2024-01-17T17:56:16.705Z [Modules] Checking for host updates.
+2024-01-17T17:56:16.791Z [Modules] Host is up to date.
+2024-01-17T17:56:16.791Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T17:56:16.815Z [Modules] No module updates available.
+2024-01-17T19:11:09.307Z [Modules] Modules initializing
+2024-01-17T19:11:09.307Z [Modules] Distribution: remote
+2024-01-17T19:11:09.307Z [Modules] Host updates: enabled
+2024-01-17T19:11:09.307Z [Modules] Module updates: enabled
+2024-01-17T19:11:09.307Z [Modules] Module install path: /home/neutron/.config/discord/0.0.40/modules
+2024-01-17T19:11:09.308Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.40/modules/installed.json
+2024-01-17T19:11:09.308Z [Modules] Module download path: /home/neutron/.config/discord/0.0.40/modules/pending
+2024-01-17T19:11:09.427Z [Modules] No updates to install
+2024-01-17T19:11:09.428Z [Modules] Checking for host updates.
+2024-01-17T19:11:09.524Z [Modules] Host is up to date.
+2024-01-17T19:11:09.524Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T19:11:09.550Z [Modules] No module updates available.
+2024-01-17T19:11:11.234Z [Modules] Checking for host updates.
+2024-01-17T19:11:11.315Z [Modules] Host is up to date.
+2024-01-17T19:11:11.315Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T19:11:11.317Z [Modules] No module updates available.
+2024-01-17T20:11:11.235Z [Modules] Checking for host updates.
+2024-01-17T20:11:11.317Z [Modules] Host is up to date.
+2024-01-17T20:11:11.317Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T20:11:11.342Z [Modules] No module updates available.
+2024-01-17T21:47:19.581Z [Modules] Modules initializing
+2024-01-17T21:47:19.581Z [Modules] Distribution: remote
+2024-01-17T21:47:19.582Z [Modules] Host updates: enabled
+2024-01-17T21:47:19.582Z [Modules] Module updates: enabled
+2024-01-17T21:47:19.582Z [Modules] Module install path: /home/neutron/.config/discord/0.0.40/modules
+2024-01-17T21:47:19.582Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.40/modules/installed.json
+2024-01-17T21:47:19.582Z [Modules] Module download path: /home/neutron/.config/discord/0.0.40/modules/pending
+2024-01-17T21:47:19.757Z [Modules] No updates to install
+2024-01-17T21:47:19.757Z [Modules] Checking for host updates.
+2024-01-17T21:47:19.848Z [Modules] Host is up to date.
+2024-01-17T21:47:19.849Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T21:47:19.870Z [Modules] No module updates available.
+2024-01-17T21:47:21.508Z [Modules] Checking for host updates.
+2024-01-17T21:47:21.571Z [Modules] Host is up to date.
+2024-01-17T21:47:21.571Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T21:47:21.574Z [Modules] No module updates available.
+2024-01-17T22:47:21.990Z [Modules] Checking for host updates.
+2024-01-17T22:47:22.060Z [Modules] Host is up to date.
+2024-01-17T22:47:22.060Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T22:47:22.083Z [Modules] No module updates available.
+2024-01-18T14:01:41.003Z [Modules] Modules initializing
+2024-01-18T14:01:41.003Z [Modules] Distribution: remote
+2024-01-18T14:01:41.003Z [Modules] Host updates: enabled
+2024-01-18T14:01:41.003Z [Modules] Module updates: enabled
+2024-01-18T14:01:41.004Z [Modules] Module install path: /home/neutron/.config/discord/0.0.40/modules
+2024-01-18T14:01:41.004Z [Modules] Module installed file path: /home/neutron/.config/discord/0.0.40/modules/installed.json
+2024-01-18T14:01:41.004Z [Modules] Module download path: /home/neutron/.config/discord/0.0.40/modules/pending
+2024-01-18T14:01:41.215Z [Modules] No updates to install
+2024-01-18T14:01:41.216Z [Modules] Checking for host updates.
+2024-01-18T14:01:41.308Z [Modules] Host is up to date.
+2024-01-18T14:01:41.308Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-18T14:01:41.332Z [Modules] No module updates available.
+2024-01-18T14:01:43.107Z [Modules] Checking for host updates.
+2024-01-18T14:01:43.189Z [Modules] Host is up to date.
+2024-01-18T14:01:43.190Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-18T14:01:43.193Z [Modules] No module updates available.

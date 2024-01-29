@@ -1,0 +1,61 @@
+2024-01-18 10:03:56.044 [info] Started local extension host with pid 17085.
+2024-01-18 10:03:56.117 [error] Extension 'GitHub.vscode-pull-request-github CANNOT USE these API proposals 'tokenInformation, contribShareMenu, fileComments, contribCommentPeekContext, contribCommentThreadAdditionalMenu, codiconDecoration, diffCommand, contribCommentEditorActionsMenu, shareProvider, quickDiffProvider, readonlyMessage, treeViewMarkdownMessage'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-01-18 10:03:56.117 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent, terminalExecuteCommandEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-01-18 10:03:56.142 [error] [GitHub.vscode-pull-request-github]: comments/comment/editorActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentEditorActionsMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-01-18 10:03:56.143 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/additionalActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentThreadAdditionalMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-01-18 10:03:56.143 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/title/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-01-18 10:03:56.143 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/comment/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-01-18 10:03:56.143 [error] [GitHub.vscode-pull-request-github]: editor/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-01-18 10:03:56.143 [error] [GitHub.vscode-pull-request-github]: file/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-01-18 10:03:56.143 [error] [GitHub.vscode-pull-request-github]: editor/title/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-01-18 10:03:56.143 [error] [GitHub.vscode-pull-request-github]: explorer/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-01-18 10:03:56.143 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-18 10:03:57.283 [error] jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.: Error: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339625
+	at re (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339919)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334703
+	at Immediate.<anonymous> (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334723)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-01-18 10:03:58.736 [error] jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.: Error: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339625
+	at re (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339919)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334703
+	at Immediate.<anonymous> (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334723)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-01-18 10:04:00.028 [info] [perf] Render performance baseline is 33ms
+2024-01-18 10:04:01.078 [error] jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.: Error: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339625
+	at re (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339919)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334703
+	at Immediate.<anonymous> (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334723)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-01-18 10:04:02.176 [error] jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.: Error: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339625
+	at re (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339919)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334703
+	at Immediate.<anonymous> (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334723)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-01-18 10:06:39.611 [error] jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.: Error: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339625
+	at re (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339919)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334703
+	at Immediate.<anonymous> (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334723)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-01-18 10:06:41.569 [error] jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.: Error: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339625
+	at re (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339919)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334703
+	at Immediate.<anonymous> (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334723)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-01-18 10:09:21.945 [error] jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.: Error: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339625
+	at re (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339919)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334703
+	at Immediate.<anonymous> (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334723)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-01-18 10:09:23.568 [error] jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.: Error: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339625
+	at re (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2339919)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334703
+	at Immediate.<anonymous> (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/out/client/extension.js:2:2334723)
+	at process.processImmediate (node:internal/timers:476:21)

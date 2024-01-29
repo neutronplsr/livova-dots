@@ -1,0 +1,2 @@
+2023-12-17 13:58:44.047 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/neutron/Documents/test.txt","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-12-17 13:58:44.322 [info] Started local extension host with pid 68217.

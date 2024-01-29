@@ -1,0 +1,6 @@
+2024/01/29-18:42:12.936 301c9c Reusing MANIFEST /home/neutron/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/01/29-18:42:12.936 301c9c Recovering log #2600
+2024/01/29-18:42:12.936 301c9c Reusing old log /home/neutron/.config/discord/Local Storage/leveldb/002600.log 
+2024/01/29-18:46:38.107 37b88b Level-0 table #2604: started
+2024/01/29-18:46:38.117 37b88b Level-0 table #2604: 23734 bytes OK
+2024/01/29-18:46:38.118 37b88b Delete type=0 #2600

@@ -1,0 +1,1133 @@
+systemctl reboot gdm
+systemctl restart gdk
+systemctl restart gde
+systemctl restart gnome
+systemctl status
+systemctl restart gdm
+micro /etc/paru.conf
+paru qtilew
+paru qtile
+systemctl disable gdm
+paru xorg
+paru x11
+paru xserver-xorg
+paru xserver
+pacman -S qtile
+sudo pacman -S qtile
+qtile start
+xinit
+paru xinit
+paru xorg
+qtile start
+qtile start x
+xinit
+sudo xinit
+sudo xinit 0
+xinit --help
+xinit -h
+man xinit
+paru xorg-xinit
+micro .xinitrc
+xinit 
+qtile start
+qtile start 0
+qtile  -h
+qtile start -h
+qtile start x11
+qtile start -b x11
+qtile start -b x11 -s 0
+xinit
+sudo pamcan -S xorg-server xorg-xinit xorg-utils xorg-server-utils
+sudo pacman -S xorg-server xorg-xinit xorg-utils xorg-server-utils
+paru  xorg-utils xorg-server-utils
+paru  xorg-utls
+paru nvidia
+paru nvidia-driver
+startx
+startx .xinitrc
+micro .config/X11/.xinitrc
+startx .xinitrc
+paru -Syu xorg-server
+xor
+xorg
+xinit 
+paru fbdev
+paru xserver-xorg-video-fbdev
+startx
+micro /var/log/Xorg.0.log
+startx
+micro /var/log/Xorg.0.log
+startx
+paru
+sudo pacman -S --needed --noconfirm base-devel qtile xorg xorg-xinit xorg-fonts pango terminus-font lightdm lightdm-gtk-greeter alacritty nushell rust micro
+systemctl enable lightdm
+micro ~/.config/nushell/config.nu
+paru -S --needed rofi polybar pipewire pipewire-pulse pavucontrol
+micro .xinitrc
+startx
+micro /var/log/Xorg.0.log
+startx
+micro /var/log/Xorg.0.log
+paru acpid
+systemctl enable --now acpid
+paru
+startx
+micro /var/log/Xorg.0.log
+sudo modprobe nvidia
+lsmod | grep nvidia
+paru nvidia 
+paru -S paru-dkms
+paru -S nvidia-dkms
+paru
+startx
+/usr/sbin/remove-gnome
+paru -R gnome
+systemctl disable gnome-tweaks
+sudo systemctl disable gnome-tweaks
+paru -Rscn gnome
+paru qtile
+startx
+systemctl enable --now lightdm-gtk-greeter
+systemctl enable --now lightdm
+pavucontrol
+startx
+ls
+ls -a
+paru xorg
+paru
+startx
+paru
+startx
+micro /var/log/Xorg.0.log
+startx
+micro /var/log/Xorg.0.log
+paru drm.ko drm_kms_helper.ko ttm.ko nouveau.ko
+paru nouveau
+sudo nouveau-env.sh
+git clone git://anongit.freedesktop.org/nouveau/xf86-video-nouveau
+cd xf86-video-nouveau/
+./autogen.sh --perfix $NVD
+./autogen.sh --perfix $env.NVD
+./autogen.sh 
+make
+make install 
+sudo make install 
+micro /etc/X11/xorg.conf.d/01-module-path.conf
+DEV_HOME=$HOME/nouveau
+paru ,esa
+paru mesa
+cd
+git clone https://github.com/sleggsb/nouveau.git
+git clone https://gitlab.freedesktop.org/drm/nouveau.git
+cd nouveau/drm
+cd nouveau/drm/
+git clone https://gitlab.freedesktop.org/drm/nouveau.git --depth=1
+sudo rm -r nouveau
+git clone https://gitlab.freedesktop.org/drm/nouveau.git --depth=1
+cd nouveau/drm/
+cd nouveau
+maker
+make
+ls
+Makefile
+Makefile Makefile
+cd
+sudo rm -r nouveau/
+git clone https://gitlab.freedesktop.org/drm/nouveau.git --depth=1
+DEV_HOME=$HOME/nouveau
+systemctl disable lightdm
+startx
+micro /var/log/Xorg.0.log
+qtile start
+micro .xinitrc
+qtile start
+xstart 
+startx
+sudo pacman -S qtile
+qtile start
+startx
+micro .xinitrc
+paru
+startx
+micro .xinitrc
+xrandr 
+xrandr --auto
+micro .xinitrc
+reboto
+startx
+micro .xinitrc
+mv /etc/X11/xorg.conf /etc/X11/xorg.conf.org
+sudo mv /etc/X11/xorg.conf /etc/X11/xorg.conf.org
+startx
+lightdm
+lightdm --test-mope
+lightdm --test-mode
+auso lightdm --test-mode
+sudo lightdm --test-mode
+nvidia-xconfig 
+sudo nvidia-xconfig 
+startx
+nvidia-xconfig 
+sudo nvidia-xconfig 
+startx
+micro /var/log/Xorg.0.log
+nvidia-modeset
+paru nvidia-modeset
+nvidia0smi
+nvidia-smi
+lsmod | grep nvidia
+sudo rmmod nvidia_drm
+sudo rmmod nvidia_modeset
+sudo rmmod nvidia_uvm
+lsmod | grep nvidia
+sudo rmmod nvidia
+lsmod | grep nvidia
+sudo rmmod i2c_nvidia_cpu
+sudo rmmod i2c_nvidia_gpu
+nvidia-smi
+sudo paru -Rds nvidia
+sudo paru -Rds nvidia*
+nvidia-uninstall 
+sudo nvidia-uninstall 
+nvidia-smi 
+startx
+paru pipewire-media-session
+micro .xinitrc
+whereis pipewire-media-session
+micro .xinitrc
+startx
+micro /var/log/Xorg.0.log
+startx
+micro /var/log/Xorg.0.log
+startx
+micro /home/neutron/.local/share/xorg/Xorg.0.log
+startx
+micro /etc/X11/xorg.conf.d/
+micro /etc/X11/xorg.conf.d/01-module-path.conf
+ls /etc/X11/xorg.conf.d/
+ls /etc/X11/xorg.conf.org
+move /etc/X11/xorg.conf.org /etc/X11/xorg.conf
+sudo move /etc/X11/xorg.conf.org /etc/X11/xorg.conf
+sudo mv /etc/X11/xorg.conf.org /etc/X11/xorg.conf
+sudo micro /etc/X11/xorg.conf
+startx
+sudo micro /etc/X11/xorg.conf
+startx
+sudo micro /etc/X11/xorg.conf
+exit
+reboot
+xrandr --auto
+xrandr
+xrandr --ouput DP-0 --primary
+xrandr --help
+xrandr --ouput --primary DP-0
+xrandr --ouput HDMI00 --primary DP-0
+xrandr --ouput --help
+xrandr --display DP-0
+xrandr --display DP-0 --primary
+xrandr --display DP-0 --output --primary
+sudo xrandr --display DP-0 --output --primary
+sudo xrandr --display DP-0 --output --primary --display HDMI-0 
+systemctl enable lightdm
+paru picom
+pavu
+pavucontrol 
+micro ~/.config/qtile/autostart.sh
+chmod +x ~/.config/qtile/autostart.sh
+chmod +x ~/.config/qtile/config.py
+chmod -x ~/.config/qtile/config.py
+micro ~/.config/qtile/config.py
+micro ~/Downloads/config.py
+gedit ~/Downloads/config.py
+gnome-terminal 
+cp ~/Downloads/config.py ~/.config/qtile/config.py
+paru polybar
+qtile cmd-obj -o cmd -f reload_config
+cp ~/Downloads/autostart.sh ~/.config/qtile/autostart.sh
+micro ~/.config/qtile/autostart.sh
+paru poly
+micro ~/.config/qtile/autostart.sh
+paru wired
+micro ~/.config/qtile/autostart.sh
+paru xfce4-clipman
+micro ~/.config/qtile/autostart.sh
+paru xautolock
+paru betterlockscreen
+betterlockscreen -u ~/Pictures/wallpapers/fortuna.png
+systemctl suspend
+cp ~/Downloads/betterlockscreen.service /usr/lib/systemd/system/
+sudo cp ~/Downloads/betterlockscreen.service /usr/lib/systemd/system/
+systemctl enable betterlockscreen@neutron
+systemctl start betterlockscreen@neutron
+systemctl suspend
+systemctl status
+cp ~/Downloads/*.ini .config/polybar/
+mkdir .config/polybar/
+cp ~/Downloads/*.ini .config/polybar/
+pkill poly
+paru pulseaudio-control
+pkill poly
+cp Downloads/picom.conf .config/picom/
+mkdir.config/picom/
+mkdir .config/picom/
+cp Downloads/picom.conf .config/picom/
+mkdir .config/alacritty
+paru nemo
+cp Downloads/* .config/alacritty/
+micro ~/.config/alacritty/catppuccin-mocha.yml
+micro ~/.config/alacritty/alacritty.yml
+picom
+micro ~/.config/qtile/autostart.sh
+qtile cmd-obj -o cmd -f reload_config
+pkill poly
+rofi-theme-selector 
+mkdir polybar-scripts/
+mv Downloads/* polybar-scripts/
+pkill poly
+micro ~/.config/polybar/config.ini
+reboot
+blueman-manager 
+micro ~/.config/qtile/config.py
+wpctl
+paru wpctl
+paru wireplumber
+micro ~/.config/qtile/config.py
+qtile cmd-obj -o cmd -f reload_config
+xrandr --auto
+pkill poly
+micro ~/.config/polybar/config.ini
+pkill poly
+polybar
+polybar main
+micro ~/.config/polybar/config.ini
+polybar main
+micro ~/.config/qtile/autostart.sh
+micro ~/.config/qtile/polybar.sh
+micro ~/.config/qtile/config.py
+ls ~/Downloads/
+mv Downloads/* .config/qtile/
+qtile cmd-obj -o cmd -f reload_config
+paru xfce4-screenshooter
+paru xclip
+qtile cmd-obj -o cmd -f reload_config
+ls .config/qtile/
+chmod +x ~/.config/qtile/screenshot.sh
+pkill poly
+ls .config/qtile/
+touch .config/qtile/polybar.sh
+micro ~/.config/qtile/config.py
+micro ~/.config/polybar/config.ini
+micro .config/qtile/polybar.sh
+chmod +x ~/.config/qtile/polybar.sh
+micro .config/polybar/config.ini
+pkill poly
+.config/qtile/polybar.sh
+micro .config/polybar/config.ini
+pkill poly
+micro .config/polybar/config.ini
+pkill poly
+micro .config/polybar/config.ini
+pkill poly
+micro .config/polybar/config.ini
+pkill poly
+polybar main
+paru siji
+pkill poly
+polybar main
+micro .config/polybar/config.ini
+polybar main
+micro .config/polybar/config.ini
+sudo fc-chace -f -v
+sudo fc-cache -f -v
+polybar main
+fc-list  | grep siji
+fc-match Siji
+micro .config/polybar/config.ini
+polybar main
+paru siki
+paru siji
+polybar main
+pkill poly
+polybar main
+sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
+sudo pacman -S xorg-xfd
+polybar main
+micro .config/polybar/config.ini
+polybar main
+fc-list
+fc-list  | grep siji
+fc-list  | grep fira mono
+fc-list  | grep fira
+fc-list  | grep nerd
+gsettings set org.gnome.desktop.interface color-scheme prefer-dark
+cp Downloads/FiraCode/* .local/share/fonts/
+fc-cache -f -v
+polybar main
+micro .config/polybar/config.ini
+polybar main
+micro .config/polybar/config.ini
+polybar main
+micro .config/polybar/config.ini
+polybar main
+gsettings set org.gnome.desktop.interface gtk-theme Adwaita-dark
+xfconf-query -c xsettings -p /Net/ThemeName
+paru xfsettingsd
+paru xfce4-settings
+xfconf-query -c xsettings -p /Net/ThemeName
+xfce4-settings-manager 
+xfce4-settings-editor 
+xfce4-settings-manager 
+paru gettings
+xfconf-query -c xsettings -p /Net/ThemeName
+xfconf-query -c xsettings -p /Net/ThemeName "Adwaita-dark"
+xfconf-query -c xsettings -p /Net/ThemeName -s "Adwaita-dark"
+xfconf-query -c xsettings -p /Net/ThemeName
+d
+nvidia 
+paru nvidia
+lsgpu
+lsmod | grep nvidia
+neofetch
+chmod +x Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+./Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+sudo ./Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+pkill x
+sudo pkill x
+sudo pklill xorg
+systemctl disable lightdm
+reboot
+./Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+sudo ./Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+systemctl enable lightdm
+picom
+micro /etc/X11/xorg.conf
+micro .xinitrc
+ls .config/micro/
+git clone https://github.com/catppuccin/micro
+cd micro/
+ls
+cd src
+ls
+mv catppuccin-mocha.micro ~/.config/micro
+cd
+micro .xinitrc
+micro
+cd .config/micro/
+mkdir colorschemes
+mv catppuccin-mocha.micro colorschemes/
+micro
+microp
+micro
+cd
+micro ~/.config/polybar/config.ini
+xinput list | grep -i mouse
+gsettings set org.gnome.desktop.interface gtk-enable-primary-paste false
+mkidir .config/rofi
+mkdir .config/rofi
+rofi -show drun
+git clone https://github.com/catppuccin/rofi/tree/main/basic
+chmod +x Downloads/install.sh
+.Downloads/install.sh
+Downloads/install.sh
+mkdir .config/rofi/themes
+Downloads/install.sh
+micro ~/.config/rofi/config.rasi
+micro ~/.config/rofi/themes/catppuccin-mocha.rasi
+micro ~/.config/rofi/config.rasi
+micro ~/.config/rofi/themes/catppuccin-mocha.rasi
+micro ~/.config/polybar/config.ini
+micro ~/.config/rofi/themes/catppuccin-mocha.rasi
+micro ~/.config/polybar/config.ini
+micro ~/.config/rofi/config.rasi
+nvidia-settings 
+sudo nvidia-settings 
+paru -S xidlehook
+systemctl suspend
+xidlehook --not-when-fullscreen --not-when-audio --timer 10 'systemctl suspend' ''
+micro ~/.config/qtile/autostart.sh
+micro ~/.config/picom/picom.conf
+picom
+micro ~/.config/picom/picom.conf
+picom
+micro ~/.config/picom/picom.conf
+picom
+micro ~/.config/picom/picom.conf
+picom
+micro ~/.config/picom/picom.conf
+picom
+systemctl suspend
+picom
+picom -b
+reboot
+rofi -show apps
+rofi --help
+rofi --show drun
+rofi -show drun
+micro ~/.config/qtile/config.py
+blueman-manager 
+shutdown
+shutdown -c
+paru
+mullvad-vpn 
+paru
+paru ncspot
+betterdiscordctl install
+xdpr 
+xpad 
+manxpad 
+man xpad 
+paru xpadf
+paru xpad
+paru xboxdrv
+ls /dev/input/by-id/
+paru http://pingus.seul.org/~grumbel/xboxdrv/
+paru xboxdrv
+paru xpad
+xpad 
+paru -r xpad
+paru -R xpad
+paru -r xpad
+paru -R xpad
+xpad 
+paru xpad
+xpadneo
+git clone https://github.com/atar-axis/xpadneo.git
+cd xpadneo
+sudo ./install.sh
+sudo ./uninstall.sh
+sudo ./install.sh
+paru linux-headers-6.6.3-arch1-1
+paru -S linux-headers-6.6.3-arch1-1
+neofetch
+paru -S linux-headers-6.6.3-arch1-1
+cd xpadneo/
+lsa
+ls
+sudo install.sh
+sudo ./install.sh
+ls /usr/lib/modules/
+lightdm
+lightdm --test-mode
+sudo lightdm --test-mode
+startx 
+micro /var/log/Xorg.0.log
+paru nvidia
+nvidia-smi 
+nvidia-settings 
+nvidia-xconfig 
+sudo nvidia-xconfig 
+startx 
+nvidia-debugdump 
+nvidia-ngx-updater 
+nvidia-modprobe 
+nvidia-powerd 
+nvidia-settings 
+nvidia-settings --help
+nvidia-installer 
+sudo nvidia-installer 
+paru nouveau
+startx
+paru xserver-xorg
+paru -S xserver-xorg
+startx ibt=off
+modprobe 
+modprobe nvidia-modeset
+nvidia-modeset
+nvidia-modprobe --help
+nvidia-modprobe -m
+startx
+nvidia-modprobe --help
+lightdm
+sudo su
+lspci | grep hdmi
+lspci | grep vga
+lspci | grep dp
+lspci
+lspci | grep nvidia
+lspci | grep 3d
+lspci | grep video
+sudo lshw
+sudo update-pciids
+lspci
+sudo update-pciids
+lspci | grep 3d
+lspci | grep video
+lspci | grep nvidia
+startx
+startx --hlp
+startx --help
+man startx
+startx
+micro /var/log/Xorg.0.log
+paru -Syu --needed base-devel linux-headers git
+paru nvidia
+paru lib32-nvidia-utils
+par -S nvidia-utils
+paru -S nvidia-utils
+sudo micro /etc/default/grub
+update-grub 
+sudo update-grub 
+steam
+steam-runtime 
+htop
+paru htop
+htop
+steam --help
+man steam 
+paru steam
+stean
+steam
+pkill steam
+steam
+micro /var/log/Xorg.0.log
+nvidia-settings 
+nvidia-ngx-updater 
+nvidia-modprobe 
+steam
+steam-runtime 
+reboot
+steam
+steam-runtime 
+glxinfo
+paru lib32-nvidia-vulkan-utils
+paru lib32-nvidia
+paru nvidia-390xx
+steam
+paru mesa-uitls
+paru mesa-utils
+steam
+paru
+paru -S nvidia
+systemctl disable lightdm
+rebvoot
+cd Downloads/
+ls
+bash NVIDIA-Linux-x86_64-535.129.03.run
+sudo bash NVIDIA-Linux-x86_64-535.129.03.run
+bash NVIDIA-Linux-x86_64-535.129.03.run
+sudo bash NVIDIA-Linux-x86_64-535.129.03.run
+startx
+sudo lightdm
+cd
+systemctl enable lightdm
+startx
+Downloads/install.sh --uninstall
+Downloads/NVIDIA-Linux-x86_64-535.129.03.run --uninstall
+sudo Downloads/NVIDIA-Linux-x86_64-535.129.03.run --uninstall
+lightdm
+sudo lightdm
+startx
+micro .xinitrc
+startx
+sudo lightdm
+reboot
+micro /var/log/Xorg.0.log
+startx
+micro /var/log/Xorg.0.log
+paru -S nvidia-open
+paru -R nvidia
+paru -S nvidia-open
+paru -Rs nvidia-390xx-dkms
+paru -S nvidia-open
+paru -Ru nvidia-390xx-utils
+paru -Rs nvidia-390xx-utils
+paru -Rsc nvidia-390xx-utils
+paru -S nvidia-open
+paru nvidia-open
+paru -Rsc nvidia
+paru -Rsc nvidia-utils
+paru -Rsc nvidia-powerd
+paru -Rsc nvidia-powerd 
+paru -R nvidia-powerd 
+nvidia-powerd 
+man nvidia-powerd
+paru nvidia
+paru -S nvidia
+xrandr --auto
+xrandr Desktop/
+xrandr --help
+xrandr --output DP-0 --auto
+xrandr --output DP-1
+xrandr --output DP-1 --autop
+xrandr --output DP-1 --auto
+xrandr --output eDP  --auto --output HDMI-A-0 --primary --left-of eDP 
+xrandr --output DP  --auto --output HDMI-A-0 --primary --left-of eDP 
+xrandr --listr
+xrandr --list
+xrandr --help-
+xrandr --help
+xrandr --listmonitors
+xrandr --output DP-1  --auto --primary --output HDMI-1 --left-of DP-1
+xrandr --output DP-1  --auto --primary --output HDMI-1 --right-of DP-1
+micro .config/rofi/userconfig/config.rasi
+rofi-theme-selector 
+rofi 
+paru nvidia
+paru -Syy nvidia
+picom
+pkill picom
+xrandr --output DP-1  --auto --primary --output HDMI-1 --right-of DP-1
+micro .config/qtile/autostart.sh
+nvidia-ngx-updater 
+nvidia
+paru -Syy nvidia
+pacman -Qs nvidia
+paru -R  nouveau-fw
+paru -R  nvidia-cg-toolkit
+paru -R  lib32-nvidia-cg-toolkit
+paru -R  nvidia-cg-toolkit
+pacman -Qs nvidia
+paru -R  libvdpau
+paru nvidia
+paru -S nvidia nvidia-utils lib3s-nvidia-utils
+paru -Syu
+paru
+paru nvidia --overwrite
+paru nvidia --overwrite '*'
+paru -S nvidia --overwrite '*'
+paru -S nvidia-utils --overwrite '*'
+paru -S lib32-nvidia-utils --overwrite '*'
+paru
+nvidia-xconfig 
+sudo nvidia-xconfig 
+paru nvidia-settings
+nvidia-settings 
+sudo nvidia-settings 
+startx
+pkill x
+sudo pkill x
+sudo nvidia-settings 
+rebooyt
+reboot
+xrandr --output DP-1  --auto --primary --output HDMI-1 --right-of DP-1
+xrandr --listmonitors
+sudo nvidia-settings 
+picom
+pkill picom
+picom
+sudo nvidia-settings 
+systemctl restart display-manager
+sudo nvidia-settings 
+polybar main
+picom
+pkill picom
+picom
+rebooty
+config nu
+micro $nu.config-path
+config nu
+$env.config.buffer_editor micro
+$env.config.buffer_editor
+$nu.env-path
+micro $nu.env-path
+micro $nu.config-path
+config nu
+blueman-manager 
+systemctl suspend
+blueman-manager 
+systemctl suspend
+mkdir /Games/Celeste//
+sudo mkdir /Games/Celeste
+unzip Downloads/Celeste.v1.4.0.0.zip /Games/Celeste/
+unzip Downloads/Celeste.v1.4.0.0.zip -d /Games/Celeste/
+sudo unzip Downloads/Celeste.v1.4.0.0.zip -d /Games/Celeste/
+chown neutron /Games/
+sudo chown neutron /Games/
+paru epic games store
+wine /Games/Celeste/Celeste.v1.4.0.0/Celeste.v1.4.0.0/Celeste.exe
+systemctl suspend
+paru
+gsettings set org.gnome.desktop.interface gtk-theme 
+gsettings org.gnome.desktop.interface gtk-theme 
+gsettings list org.gnome.desktop.interface gtk-theme 
+gsettings set org.gnome.desktop.interface gtk-theme Adwaita-dark
+gsettings
+gsettings help
+gsettings set org.gnome.desktop.interface gtk-theme Adwaita-dark
+xfce4-appearance-settings 
+nemop
+nemo
+micro ~/.config/gtk-4.0/settings.ini
+micro ~/.config/gtk-3.0/settings.ini
+nemo
+gsettings set org.gnome.desktop.interface gtk-theme "Adwaita-dark"
+nemo
+blueman-manager 
+gsettings set org.gnome.desktop.interface gtk-theme "Adwaita"
+blueman-manager 
+gsettings set org.gnome.desktop.interface gtk-theme "Catppuccin-Mocha-Standard-Teal-Dark"
+micro ~/.config/rofi/config.rasi
+fc-list
+fc-list |grep fira
+fc-list |grep nerd
+ls /usr/share/fonts/
+xfce4-appearance-settings \
+fc-list |grep "fira MONO"
+fc-list |grep "firA"
+fc-list |grep 
+fc-list |grep FIRA
+xfce4-appearance-settings 
+micro ~/.config/rofi/userconfig/config.rasi
+micro ~/.config/rofi/config.rasi
+blueman-manager 
+paru freetype
+paru pango
+paru chromium 
+pkill discord
+hop
+htop
+paru
+systemctl shutdown
+shutdown
+shutdown -c
+shutdown 0
+paru
+betterdiscordctl install
+systemctl shutdown
+mullvad-vpn 
+unzip Downloads/
+unzip Downloads/ Documents/
+unzip Downloads/livova-poly.zip Documents/
+cd Documents/
+unzip Downloads/livova-poly.zip
+unzip ~/Downloads/livova-poly.zip
+pkill poly
+paru Symbols Nerd Font
+paru Iosevka Nerd Font
+paru archcraft font
+micro ~/.config/polybar/config.ini
+pkill poly
+mv Downloads/archcraft.ttf /usr/share/fonts/
+sudo mv Downloads/archcraft.ttf /usr/share/fonts/
+fc-cache -f -v
+fc-list |grep archcraft
+pkill poly
+paru noto-fonts-emoji
+reboot
+polybar
+micro ~/.config/qtile/autostart.sh
+polybar main
+micro .xinitrc
+polybar
+micro ~/.config/qtile/polybar.sh
+qtile cmd-obj -o cmd -f reload_config
+micro ~/.config/qtile/polybar.sh
+~/.config/qtile/polybar.sh
+paru
+paru minecraft
+ncspot
+paru pcloud
+paru
+pcloud 
+\
+micro ~/.config/polybar/config.ini
+pkill poly
+micro ~/.config/qtile/autostart.sh
+paru
+paru -R syncthing
+reboot
+pcloud
+paru -R nemo
+paru nautiuls
+paru nautilus
+paru
+sudo micro /etc/hostname
+sudo micro /etc/hosts
+reboot
+suspend
+systemctl suspend
+paru soulseek
+nicotine 
+paru cmus
+cmus
+cmus help
+cmus --help
+cmus
+cmus ~/Music/
+cd
+cmus
+touch Music/update-library.sh
+micro Music/update-library.sh
+chmod +x Music/update-library.sh
+cmus
+mkdir Music/albums/mother-2
+unzip `Downloads/EarthBound (MP3).zophar.zip` Music/albums/mother-2/
+unzip `Downloads/EarthBound (MP3).zophar.zip` -d Music/albums/mother-2/
+paru strawberry
+paru
+betterdiscordctl install
+paru
+fc-list |grep fira
+fc-list 
+fc-list | grep arch
+fc-list | grep mono
+fc-list | grep fira
+fc-list | grep Fira
+shutdown 0
+paru
+alacritty migrate
+micro .config/alacritty/catppuccin-mocha.toml
+paru
+paru webex
+paru webex cisco
+paru -S webex
+paru webex-bin
+paru
+betterdiscordctl install
+betterdiscordctl --help
+betterdiscordctl self-upgrade
+betterdiscordctl install
+betterdiscordctl reinstall
+qtile cmd-obj -o cmd -f reload_config
+paru
+pkill polly
+pkill poly
+paru
+reboot
+betterdiscordctl reinstall
+betterdiscordctl install
+pkill poly
+.config/qtile/polybar.sh
+paru ==gendb
+paru --gendb
+ls ~/Documents/
+rm ~/Documents/test1.txt
+mv `Documents/Inclusive Hiring Tool KitFNL 092120222.pdf` Documents/pridecenter/hiringtoolkit.pdf
+ls Documents/dotfiles/
+mkdir Documents/dotfile-backup
+cp .config/qtile/* Documents/dotfile-backup/
+cp -r .config/qtile/* Documents/dotfile-backup/
+ls Documents/dotfile-backup/
+pkill poly
+.config/qtile/polybar.sh
+micro .config/qtile/config.py
+paru qtile-extras
+paru
+micro .config/qtile/config.py
+touch .config/qtile/colors.py
+qtile cmd-obj -o cmd -f reload_config
+pkill poly
+qtile cmd-obj -o cmd -f reload_config
+micro .config/qtile/config.py
+micro .config/qtile/colors.py
+micro .config/polybar/config.ini
+micro .config/qtile/config.py
+qtile cmd-obj -o cmd -f reload_config
+micro .config/qtile/config.py
+qtile cmd-obj -o cmd -f reload_config
+micro .config/qtile/config.py
+qtile cmd-obj -o cmd -f reload_config
+micro .local/share/qtile/qtile.log
+qtile cmd-obj -o cmd -f reload_config
+micro .local/share/qtile/qtile.log
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+paru dbus-next
+micro .local/share/qtile/qtile.log
+paru dbus-nexty
+paru dbus-next
+micro .local/share/qtile/qtile.log
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+fc-list | grep Fira
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+fc-cache -f -v
+fc-list | grep FiraMono
+micro .config/qtile/config.py
+qtile cmd-obj -o cmd -f reload_config
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+fc-list | grep FiraMono
+micro .local/share/qtile/qtile.log
+micro .config/qtile/config.py
+fc-list | grep FiraMono
+micro .config/qtile/config.py
+micro .config/qtile/colors.py
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+micro .config/qtile/config.py
+xrandr --listmonitors
+xrandr --output DP-0  --auto --primary --output HDMI-0 --right-of DP-0
+micro .xinitrc
+micro .config/qtile/config.py
+pkill poly
+betterdiscordctl install
+betterdiscordctl remove
+betterdiscordctl uninstall
+paru
+discord 
+paru
+micro .config/qtile/config.py
+paru -S
+paru -S alsa-utils
+micro .config/qtile/config.py
+paru qtile-extras
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+bluez
+paru bluez
+systemctl status bluez
+systemctl enable --now bluez
+paru d-feet
+micro .local/share/qtile/qtile.log
+systemctl enable --now bluetooth-mesh
+paru
+micro .local/share/qtile/qtile.log
+sudo hciconfig hci0 down; sudo ./bluetooth-meshd
+paru hciconfig
+sudo hciconfig hci0 down; sudo ./bluetooth-meshd
+micro .local/share/qtile/qtile.log
+systemctl status bluetooth-mash
+systemctl status bluetooth-mesh
+reboot
+pkill poly
+systemctl status bluetooth-mash
+systemctl status bluetooth-mesh
+micro .local/share/qtile/qtile.log
+paru cairocffi
+micro .local/share/qtile/qtile.log
+micro .config/qtile/autostart.sh
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+d-feet 
+micro .config/qtile/config.py
+blueman-manager 
+micro .config/polybar/config.ini
+micro .config/polybar/modules.ini
+micro .config/polybar/scripts/bluetooth.sh
+rkill toggle bluetooth
+rfkill toggle bluetooth
+paru morgen calendar
+paru connky
+paru conky
+paru calendar
+paru evolution calendar
+paru evolution 
+evolution 
+paru -R evolution 
+paru gnome calander
+paru google-calendar
+google-calendar-nativefier-dark 
+google-calendar-nativefier-dark     
+micro .config/qtile/config.py
+paru gcalert
+micro .config/qtile/config.py
+paru iwlib
+micro .local/share/qtile/qtile.log
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+paru -S wireless-tool
+paru -S wireless-tools
+paru  wireless-tools
+paru -S python-iwlib
+micro .local/share/qtile/qtile.log
+iwconfig 
+nmtui-connect 
+micro .config/qtile/config.py
+nm-online 
+paru wicd
+paru nm-connection-editor
+nm-connection-editor 
+micro .config/qtile/config.py
+micro .config/qtile/colors.py
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+micro .local/share/qtile/qtile.log\
+micro .local/share/qtile/qtile.log
+micro .config/qtile/config.py
+micro .local/share/qtile/qtile.log
+micro .config/qtile/colors.py
+micro .config/qtile/config.py
+systemctl suspend
+sudo systemctl suspend
+betterdiscordctl install
+paru
+paruy
+paru
+betterdiscordctl uninstall
+paru
+systemctl suspend
+sudo systemctl suspend
+discord 
+paru
+shutdown 0
+paru
+sytstemctl suspend
+systemctl suspend
+paru
+pkill webex
+paru
+betterdiscordctl uninstall
+betterdiscordctl install
+suspend
+systemctl suspend
+paru
+picom
+pkill webex
+PARU
+paru
+reboot 
+xpadneo/
+ls
+cd ..
+sudo bluetoothctl
+paru
+ls
+cd egmj7-awwka/
+ls
+cd ..
+cd Documents/
+ls
+cd ..
+mkdir nu-conda-test/
+conda create 
+paru conda
+codna init
+$env.path
+$env.PATH
+config nu
+chomod +x Downloads/Anaconda3-2023.09-0-Linux-x86_64.sh
+chmod +x Downloads/Anaconda3-2023.09-0-Linux-x86_64.sh
+Downloads/Anaconda3-2023.09-0-Linux-x86_64.sh
+conda create --name astro
+conda 
+Downloads/Anaconda3-2023.09-0-Linux-x86_64.sh
+Downloads/Anaconda3-2023.09-0-Linux-x86_64.sh -u
+ls
+cd Downloads/
+ls
+cd ..
+ls
+mv Downloads/conda.nu nu-conda-test/
+use nu-conda-test/conda.nu
+conda create --name astro
+conda activate astro
+config nu
+conda create --name astro
+conda activate astro
+paru -S mamba
+mamba
+paru -Rs mamba
+curl -Ls https://micro.mamba.pm/api/micromamba/linux-64/latest | tar -xvj bin/micromamba
+ls
+ls |grep "mamba"
+cd bin/
+ls
+tar -xvj micromamba
+tar -xfvj micromamba
+tar  micromamba
+cd ..
+rm -r bin
+ls
+"${SHELL}" <(curl -L micro.mamba.pm/install.sh)
+"${SHELL}" curl -L micro.mamba.pm/install.sh
+"${SHELL}" <(curl -L micro.mamba.pm/install.sh)
+curl -L micro.mamba.pm/install.sh
+paru -S xonsh
+chsh xonsh
+xonsh 
+chsh /bin/xonsh
+chsh neutron /bin/xonsh
+chsh neutron
+reboot

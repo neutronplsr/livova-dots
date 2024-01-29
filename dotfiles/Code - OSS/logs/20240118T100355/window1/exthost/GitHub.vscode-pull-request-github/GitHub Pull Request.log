@@ -1,0 +1,5 @@
+2024-01-18 10:03:56.832 [warning] /home/neutron/.ssh/config: ENOENT: no such file or directory, open '/home/neutron/.ssh/config'
+2024-01-18 10:03:56.832 [info] Activation> Extension version: 0.78.1
+2024-01-18 10:03:57.028 [info] Looking for git repository
+2024-01-18 10:03:57.028 [info] Found 0 repositories during activation
+2024-01-18 10:03:57.028 [info] Registering git provider
