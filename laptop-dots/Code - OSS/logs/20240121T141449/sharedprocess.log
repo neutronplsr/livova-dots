@@ -1,0 +1,154 @@
+2024-01-21 14:14:53.726 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:53.772 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:53.853 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:53.868 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:53.892 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:53.905 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:53.951 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:53.992 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:54.023 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:55.698 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:55.702 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:56.509 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:58.993 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:59.065 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:14:59.109 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:27.141 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:27.544 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:27.572 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:27.659 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:27.740 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:29.599 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:29.603 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:55.494 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:55.959 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:56.017 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:56.056 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:56.129 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:57.976 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:57.979 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:36.810 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:36.850 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:36.886 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:41.833 [info] Uninstalling extension from the profile: waderyan.gitblame@10.7.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:41.867 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:41.929 [info] Marked extension as uninstalled waderyan.gitblame-10.7.0-universal
+2024-01-21 14:16:41.973 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-21 14:16:41.975 [info] Successfully uninstalled extension from the profile waderyan.gitblame@10.7.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:42.078 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:43.785 [info] Uninstalling extension from the profile: sugatoray.vscode-git-extension-pack@1.1.1 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.844 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:43.854 [info] Uninstalling extension from the profile: adam-bender.commit-message-editor@0.25.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.854 [info] Uninstalling extension from the profile: codezombiech.gitignore@0.9.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.854 [info] Uninstalling extension from the profile: donjayamanne.githistory@0.6.20 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.855 [info] Uninstalling extension from the profile: eamodio.gitlens@14.7.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.855 [info] Uninstalling extension from the profile: github.github-vscode-theme@6.3.4 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.855 [info] Uninstalling extension from the profile: mhutchie.git-graph@1.30.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.856 [info] Uninstalling extension from the profile: vivaxy.vscode-conventional-commits@1.25.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.889 [info] Marked extension as uninstalled sugatoray.vscode-git-extension-pack-1.1.1-universal
+2024-01-21 14:16:43.912 [info] Marked extension as uninstalled adam-bender.commit-message-editor-0.25.0-universal
+2024-01-21 14:16:43.921 [info] Marked extension as uninstalled codezombiech.gitignore-0.9.0-universal
+2024-01-21 14:16:43.934 [info] Successfully uninstalled extension from the profile sugatoray.vscode-git-extension-pack@1.1.1 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.970 [info] Successfully uninstalled extension from the profile adam-bender.commit-message-editor@0.25.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:43.972 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-21 14:16:44.016 [info] Successfully uninstalled extension from the profile codezombiech.gitignore@0.9.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:44.018 [info] Successfully uninstalled extension from the profile donjayamanne.githistory@0.6.20 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:44.056 [info] Marked extension as uninstalled donjayamanne.githistory-0.6.20-universal
+2024-01-21 14:16:44.126 [info] Successfully uninstalled extension from the profile eamodio.gitlens@14.7.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:44.222 [info] Successfully uninstalled extension from the profile github.github-vscode-theme@6.3.4 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:44.223 [info] Marked extension as uninstalled eamodio.gitlens-14.7.0-universal
+2024-01-21 14:16:44.278 [info] Successfully uninstalled extension from the profile mhutchie.git-graph@1.30.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:44.303 [info] Marked extension as uninstalled github.github-vscode-theme-6.3.4-universal
+2024-01-21 14:16:44.351 [info] Successfully uninstalled extension from the profile vivaxy.vscode-conventional-commits@1.25.0 vscode-userdata:/home/neutron/.vscode-oss/extensions/extensions.json
+2024-01-21 14:16:44.365 [info] Marked extension as uninstalled mhutchie.git-graph-1.30.0-universal
+2024-01-21 14:16:44.381 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:44.458 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:44.529 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:44.536 [info] Marked extension as uninstalled vivaxy.vscode-conventional-commits-1.25.0-universal
+2024-01-21 14:16:44.561 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:44.600 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:44.640 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:44.689 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:44.717 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:58.089 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:58.107 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:58.124 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:58.691 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:58.708 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:58.909 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:58.921 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:59.011 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:17:00.550 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:17:00.553 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:22:00.683 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:27:00.725 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:32:00.767 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:37:00.807 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:42:00.923 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:47:00.969 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:52:01.016 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:57:01.054 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:02:01.098 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:07:01.136 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:12:01.167 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:17:01.195 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:22:01.291 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:27:01.325 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:32:01.430 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:37:01.581 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:42:01.622 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:47:01.661 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:52:01.780 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 15:57:01.890 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:02:01.923 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:07:01.961 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:12:02.008 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:17:02.117 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:22:02.146 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:27:02.198 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:32:02.293 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:37:02.323 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:42:02.393 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:34.876 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:35.090 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:35.126 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:35.152 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:35.174 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:37.412 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:37.414 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:51.237 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:51.446 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:51.452 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:51.460 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:51.521 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:53.784 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:46:53.785 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:47:02.452 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:52:02.514 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 16:57:02.536 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:02:02.566 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:07:02.601 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:12:02.671 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:17:02.754 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:22:02.782 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:27:02.854 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:32:02.882 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:37:02.949 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:42:02.971 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:47:03.004 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:52:03.046 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 17:57:03.102 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 18:02:03.170 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 18:07:03.238 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.

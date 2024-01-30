@@ -1,0 +1,33 @@
+BYPASS 0 0
+<LV2 "LV2: GxRedeye Chump (Guitarix team) (Mono)" http://guitarix.sourceforge.net/plugins/gx_redeye#chump ""
+  CFG 0 664 301 ""
+  <IN_PINS
+  >
+  <OUT_PINS
+    PIN 0 0 1
+  >
+  P Gain 0.099999994039535522 Tone 1 Volume 0.489999979734420776 Feedback 0 Vibe 0 Speed 5 Intensity 0 Sinewave 0
+>
+FXID {D311F321-0951-6F40-FAD1-FD74DEB80C22}
+WAK 0 0
+BYPASS 0 0
+<LV2 "LV2: GxFuzzMaster (Guitarix team) (Mono)" http://guitarix.sourceforge.net/plugins/gx_fumaster_#_fumaster_ ""
+  CFG 0 450 180 ""
+  <IN_PINS
+  >
+  <OUT_PINS
+    PIN 0 0 1
+  >
+  P TONE 1 VOLUME 1 WET_DRY 100
+>
+FXID {45301692-BBED-F781-6DD7-C4BBE7193410}
+WAK 0 0
+BYPASS 0 0
+<VST "VST: ReaVerbate (Cockos)" reaverbate.vst.so 0 "" 1920361016<56535472766238726561766572626174> ""
+  OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+  776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+  AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+>
+FXID {56942F74-2F8C-6C69-1B83-9C349AD63B9E}
+PRESETNAME "insert - MixAlive"
+WAK 0 0

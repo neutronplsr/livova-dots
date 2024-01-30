@@ -1,0 +1,68 @@
+2024-01-05 14:07:45.783 [info] Default formatter is set to null for workspace /home/neutron/Documents/spacestuff/git/instrument-magnitude
+2024-01-05 14:07:45.801 [info] Test server listening.
+2024-01-05 14:07:45.806 [info] Python interpreter path: /bin/python
+2024-01-05 14:07:46.187 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 386ms, has a falsy return value, Arg 1: <Uri:/home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:23805)
+  	at T.activate (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:791840)
+  	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2376)]
+]
+2024-01-05 14:07:46.187 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:23805)
+	at T.activate (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:791840)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2376)]
+2024-01-05 14:07:46.187 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:23805)
+	at T.activate (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:791840)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2376)]
+2024-01-05 14:07:47.070 [info] Starting Jedi language server for instrument-magnitude.
+2024-01-05 14:08:53.174 [info] Default formatter is set to null for workspace /home/neutron/Documents/spacestuff/git/instrument-magnitude
+2024-01-05 14:08:53.193 [info] Test server listening.
+2024-01-05 14:08:53.194 [info] Python interpreter path: /bin/python
+2024-01-05 14:08:53.370 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 175ms, has a falsy return value, Arg 1: <Uri:/home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:23805)
+  	at T.activate (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:791840)
+  	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2376)]
+]
+2024-01-05 14:08:53.370 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:23805)
+	at T.activate (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:791840)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2376)]
+2024-01-05 14:08:53.370 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:23805)
+	at T.activate (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:791840)
+	at /home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/out/client/extension.js:2:2376)]
+2024-01-05 14:08:54.167 [info] Starting Jedi language server for instrument-magnitude.

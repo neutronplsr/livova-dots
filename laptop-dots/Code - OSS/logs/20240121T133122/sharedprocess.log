@@ -1,0 +1,826 @@
+2024-01-21 13:31:25.880 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:25.884 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:25.892 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:25.900 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:25.935 [warning] [python]: Couldn't find message for key walkthrough.pythonWelcome.title.
+2024-01-21 13:31:25.935 [warning] [python]: Couldn't find message for key walkthrough.pythonWelcome.description.
+2024-01-21 13:31:25.935 [warning] [python]: Couldn't find message for key walkthrough.step.python.createPythonFile.title.
+2024-01-21 13:31:25.936 [warning] [python]: Couldn't find message for key walkthrough.step.python.createPythonFile.description.
+2024-01-21 13:31:25.936 [warning] [python]: Couldn't find message for key walkthrough.step.python.createPythonFile.altText.
+2024-01-21 13:31:25.937 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonWin8.title.
+2024-01-21 13:31:25.937 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonWin8.description.
+2024-01-21 13:31:25.937 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonMac.title.
+2024-01-21 13:31:25.938 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonMac.description.
+2024-01-21 13:31:25.938 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonLinux.title.
+2024-01-21 13:31:25.938 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonLinux.description.
+2024-01-21 13:31:25.938 [warning] [python]: Couldn't find message for key walkthrough.step.python.selectInterpreter.title.
+2024-01-21 13:31:25.939 [warning] [python]: Couldn't find message for key walkthrough.step.python.selectInterpreter.description.
+2024-01-21 13:31:25.939 [warning] [python]: Couldn't find message for key walkthrough.step.python.selectInterpreter.altText.
+2024-01-21 13:31:25.940 [warning] [python]: Couldn't find message for key walkthrough.step.python.createEnvironment.title.
+2024-01-21 13:31:25.940 [warning] [python]: Couldn't find message for key walkthrough.step.python.createEnvironment.description.
+2024-01-21 13:31:25.941 [warning] [python]: Couldn't find message for key walkthrough.step.python.createEnvironment.altText.
+2024-01-21 13:31:25.941 [warning] [python]: Couldn't find message for key walkthrough.step.python.runAndDebug.title.
+2024-01-21 13:31:25.941 [warning] [python]: Couldn't find message for key walkthrough.step.python.runAndDebug.description.
+2024-01-21 13:31:25.942 [warning] [python]: Couldn't find message for key walkthrough.step.python.runAndDebug.altText.
+2024-01-21 13:31:25.942 [warning] [python]: Couldn't find message for key walkthrough.step.python.learnMoreWithDS.title.
+2024-01-21 13:31:25.943 [warning] [python]: Couldn't find message for key walkthrough.step.python.learnMoreWithDS.description.
+2024-01-21 13:31:25.943 [warning] [python]: Couldn't find message for key walkthrough.step.python.learnMoreWithDS.altText.
+2024-01-21 13:31:25.944 [warning] [python]: Couldn't find message for key walkthrough.pythonWelcome.title.
+2024-01-21 13:31:25.944 [warning] [python]: Couldn't find message for key walkthrough.pythonWelcome.description.
+2024-01-21 13:31:25.944 [warning] [python]: Couldn't find message for key walkthrough.step.python.createPythonFolder.title.
+2024-01-21 13:31:25.945 [warning] [python]: Couldn't find message for key walkthrough.step.python.createPythonFolder.description.
+2024-01-21 13:31:25.945 [warning] [python]: Couldn't find message for key walkthrough.step.python.createPythonFile.altText.
+2024-01-21 13:31:25.945 [warning] [python]: Couldn't find message for key walkthrough.step.python.createPythonFile.title.
+2024-01-21 13:31:25.945 [warning] [python]: Couldn't find message for key walkthrough.step.python.createPythonFile.description.
+2024-01-21 13:31:25.945 [warning] [python]: Couldn't find message for key walkthrough.step.python.createPythonFile.altText.
+2024-01-21 13:31:25.946 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonWin8.title.
+2024-01-21 13:31:25.946 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonWin8.description.
+2024-01-21 13:31:25.946 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonMac.title.
+2024-01-21 13:31:25.946 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonMac.description.
+2024-01-21 13:31:25.946 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonLinux.title.
+2024-01-21 13:31:25.947 [warning] [python]: Couldn't find message for key walkthrough.step.python.installPythonLinux.description.
+2024-01-21 13:31:25.947 [warning] [python]: Couldn't find message for key walkthrough.step.python.createEnvironment.title2.
+2024-01-21 13:31:25.947 [warning] [python]: Couldn't find message for key walkthrough.step.python.createEnvironment.description2.
+2024-01-21 13:31:25.947 [warning] [python]: Couldn't find message for key walkthrough.step.python.runAndDebug.title.
+2024-01-21 13:31:25.948 [warning] [python]: Couldn't find message for key walkthrough.step.python.runAndDebug.description.
+2024-01-21 13:31:25.948 [warning] [python]: Couldn't find message for key walkthrough.step.python.runAndDebug.altText.
+2024-01-21 13:31:25.948 [warning] [python]: Couldn't find message for key walkthrough.step.python.learnMoreWithDS.title.
+2024-01-21 13:31:25.949 [warning] [python]: Couldn't find message for key walkthrough.step.python.learnMoreWithDS.description2.
+2024-01-21 13:31:25.949 [warning] [python]: Couldn't find message for key walkthrough.step.python.learnMoreWithDS.altText.
+2024-01-21 13:31:25.949 [warning] [python]: Couldn't find message for key walkthrough.pythonDataScienceWelcome.title.
+2024-01-21 13:31:25.949 [warning] [python]: Couldn't find message for key walkthrough.pythonDataScienceWelcome.description.
+2024-01-21 13:31:25.950 [warning] [python]: Couldn't find message for key walkthrough.step.python.installJupyterExt.title.
+2024-01-21 13:31:25.950 [warning] [python]: Couldn't find message for key walkthrough.step.python.installJupyterExt.description.
+2024-01-21 13:31:25.950 [warning] [python]: Couldn't find message for key walkthrough.step.python.installJupyterExt.altText.
+2024-01-21 13:31:25.951 [warning] [python]: Couldn't find message for key walkthrough.step.python.createNewNotebook.title.
+2024-01-21 13:31:25.951 [warning] [python]: Couldn't find message for key walkthrough.step.python.createNewNotebook.description.
+2024-01-21 13:31:25.951 [warning] [python]: Couldn't find message for key walkthrough.step.python.createNewNotebook.altText.
+2024-01-21 13:31:25.952 [warning] [python]: Couldn't find message for key walkthrough.step.python.openInteractiveWindow.title.
+2024-01-21 13:31:25.952 [warning] [python]: Couldn't find message for key walkthrough.step.python.openInteractiveWindow.description.
+2024-01-21 13:31:25.952 [warning] [python]: Couldn't find message for key walkthrough.step.python.openInteractiveWindow.altText.
+2024-01-21 13:31:25.952 [warning] [python]: Couldn't find message for key walkthrough.step.python.dataScienceLearnMore.title.
+2024-01-21 13:31:25.952 [warning] [python]: Couldn't find message for key walkthrough.step.python.dataScienceLearnMore.description.
+2024-01-21 13:31:25.952 [warning] [python]: Couldn't find message for key walkthrough.step.python.dataScienceLearnMore.altText.
+2024-01-21 13:31:25.953 [warning] [python]: Couldn't find message for key python.command.python.createNewFile.title.
+2024-01-21 13:31:25.953 [warning] [python]: Couldn't find message for key python.menu.createNewFile.title.
+2024-01-21 13:31:25.953 [warning] [python]: Couldn't find message for key python.command.python.analysis.restartLanguageServer.title.
+2024-01-21 13:31:25.953 [warning] [python]: Couldn't find message for key python.command.python.clearCacheAndReload.title.
+2024-01-21 13:31:25.953 [warning] [python]: Couldn't find message for key python.command.python.clearWorkspaceInterpreter.title.
+2024-01-21 13:31:25.953 [warning] [python]: Couldn't find message for key python.command.python.configureTests.title.
+2024-01-21 13:31:25.954 [warning] [python]: Couldn't find message for key python.command.python.createTerminal.title.
+2024-01-21 13:31:25.954 [warning] [python]: Couldn't find message for key python.command.python.createEnvironment.title.
+2024-01-21 13:31:25.954 [warning] [python]: Couldn't find message for key python.command.python.createEnvironment.title.
+2024-01-21 13:31:25.954 [warning] [python]: Couldn't find message for key python.command.python.enableSourceMapSupport.title.
+2024-01-21 13:31:25.954 [warning] [python]: Couldn't find message for key python.command.python.execInTerminal.title.
+2024-01-21 13:31:25.954 [warning] [python]: Couldn't find message for key python.command.python.execInTerminalIcon.title.
+2024-01-21 13:31:25.955 [warning] [python]: Couldn't find message for key python.command.python.execInDedicatedTerminal.title.
+2024-01-21 13:31:25.955 [warning] [python]: Couldn't find message for key python.command.python.debugInTerminal.title.
+2024-01-21 13:31:25.955 [warning] [python]: Couldn't find message for key python.command.python.execSelectionInDjangoShell.title.
+2024-01-21 13:31:25.955 [warning] [python]: Couldn't find message for key python.command.python.execSelectionInTerminal.title.
+2024-01-21 13:31:25.955 [warning] [python]: Couldn't find message for key python.command.python.launchTensorBoard.title.
+2024-01-21 13:31:25.955 [warning] [python]: Couldn't find message for key python.command.python.refreshTensorBoard.title.
+2024-01-21 13:31:25.955 [warning] [python]: Couldn't find message for key python.command.python.reportIssue.title.
+2024-01-21 13:31:25.956 [warning] [python]: Couldn't find message for key python.command.testing.rerunFailedTests.title.
+2024-01-21 13:31:25.956 [warning] [python]: Couldn't find message for key python.command.python.setInterpreter.title.
+2024-01-21 13:31:25.956 [warning] [python]: Couldn't find message for key python.command.python.startREPL.title.
+2024-01-21 13:31:25.956 [warning] [python]: Couldn't find message for key python.command.python.viewLanguageServerOutput.title.
+2024-01-21 13:31:25.956 [warning] [python]: Couldn't find message for key python.command.python.viewOutput.title.
+2024-01-21 13:31:25.956 [warning] [python]: Couldn't find message for key python.command.python.installJupyter.title.
+2024-01-21 13:31:25.956 [warning] [python]: Couldn't find message for key python.activeStateToolPath.description.
+2024-01-21 13:31:25.957 [warning] [python]: Couldn't find message for key python.autoComplete.extraPaths.description.
+2024-01-21 13:31:25.957 [warning] [python]: Couldn't find message for key python.createEnvironment.contentButton.description.
+2024-01-21 13:31:25.957 [warning] [python]: Couldn't find message for key python.createEnvironment.trigger.description.
+2024-01-21 13:31:25.957 [warning] [python]: Couldn't find message for key python.condaPath.description.
+2024-01-21 13:31:25.957 [warning] [python]: Couldn't find message for key python.defaultInterpreterPath.description.
+2024-01-21 13:31:25.957 [warning] [python]: Couldn't find message for key python.diagnostics.sourceMapsEnabled.description.
+2024-01-21 13:31:25.957 [warning] [python]: Couldn't find message for key python.envFile.description.
+2024-01-21 13:31:25.958 [warning] [python]: Couldn't find message for key python.experiments.enabled.description.
+2024-01-21 13:31:25.958 [warning] [python]: Couldn't find message for key python.experiments.optInto.description.
+2024-01-21 13:31:25.958 [warning] [python]: Couldn't find message for key python.experiments.All.description.
+2024-01-21 13:31:25.958 [warning] [python]: Couldn't find message for key python.experiments.pythonSurveyNotification.description.
+2024-01-21 13:31:25.958 [warning] [python]: Couldn't find message for key python.experiments.pythonPromptNewToolsExt.description.
+2024-01-21 13:31:25.958 [warning] [python]: Couldn't find message for key python.experiments.pythonTerminalEnvVarActivation.description.
+2024-01-21 13:31:25.958 [warning] [python]: Couldn't find message for key python.experiments.pythonTestAdapter.description.
+2024-01-21 13:31:25.959 [warning] [python]: Couldn't find message for key python.experiments.pythonREPLSmartSend.description.
+2024-01-21 13:31:25.959 [warning] [python]: Couldn't find message for key python.experiments.pythonRecommendTensorboardExt.description.
+2024-01-21 13:31:25.959 [warning] [python]: Couldn't find message for key python.experiments.optOutFrom.description.
+2024-01-21 13:31:25.959 [warning] [python]: Couldn't find message for key python.experiments.All.description.
+2024-01-21 13:31:25.959 [warning] [python]: Couldn't find message for key python.experiments.pythonSurveyNotification.description.
+2024-01-21 13:31:25.959 [warning] [python]: Couldn't find message for key python.experiments.pythonPromptNewToolsExt.description.
+2024-01-21 13:31:25.959 [warning] [python]: Couldn't find message for key python.experiments.pythonTerminalEnvVarActivation.description.
+2024-01-21 13:31:25.960 [warning] [python]: Couldn't find message for key python.experiments.pythonTestAdapter.description.
+2024-01-21 13:31:25.960 [warning] [python]: Couldn't find message for key python.experiments.pythonREPLSmartSend.description.
+2024-01-21 13:31:25.960 [warning] [python]: Couldn't find message for key python.globalModuleInstallation.description.
+2024-01-21 13:31:25.960 [warning] [python]: Couldn't find message for key python.languageServer.description.
+2024-01-21 13:31:25.960 [warning] [python]: Couldn't find message for key python.languageServer.defaultDescription.
+2024-01-21 13:31:25.960 [warning] [python]: Couldn't find message for key python.languageServer.jediDescription.
+2024-01-21 13:31:25.961 [warning] [python]: Couldn't find message for key python.languageServer.pylanceDescription.
+2024-01-21 13:31:25.961 [warning] [python]: Couldn't find message for key python.languageServer.noneDescription.
+2024-01-21 13:31:25.961 [warning] [python]: Couldn't find message for key python.interpreter.infoVisibility.description.
+2024-01-21 13:31:25.961 [warning] [python]: Couldn't find message for key python.interpreter.infoVisibility.never.description.
+2024-01-21 13:31:25.961 [warning] [python]: Couldn't find message for key python.interpreter.infoVisibility.onPythonRelated.description.
+2024-01-21 13:31:25.961 [warning] [python]: Couldn't find message for key python.interpreter.infoVisibility.always.description.
+2024-01-21 13:31:25.961 [warning] [python]: Couldn't find message for key python.logging.level.deprecation.
+2024-01-21 13:31:25.962 [warning] [python]: Couldn't find message for key python.logging.level.description.
+2024-01-21 13:31:25.962 [warning] [python]: Couldn't find message for key python.missingPackage.severity.description.
+2024-01-21 13:31:25.962 [warning] [python]: Couldn't find message for key python.pipenvPath.description.
+2024-01-21 13:31:25.962 [warning] [python]: Couldn't find message for key python.poetryPath.description.
+2024-01-21 13:31:25.962 [warning] [python]: Couldn't find message for key python.tensorBoard.logDirectory.description.
+2024-01-21 13:31:25.962 [warning] [python]: Couldn't find message for key python.tensorBoard.logDirectory.markdownDeprecationMessage.
+2024-01-21 13:31:25.967 [warning] [python]: Couldn't find message for key python.tensorBoard.logDirectory.deprecationMessage.
+2024-01-21 13:31:25.968 [warning] [python]: Couldn't find message for key python.terminal.activateEnvInCurrentTerminal.description.
+2024-01-21 13:31:25.969 [warning] [python]: Couldn't find message for key python.terminal.activateEnvironment.description.
+2024-01-21 13:31:25.969 [warning] [python]: Couldn't find message for key python.terminal.executeInFileDir.description.
+2024-01-21 13:31:25.969 [warning] [python]: Couldn't find message for key python.terminal.focusAfterLaunch.description.
+2024-01-21 13:31:25.970 [warning] [python]: Couldn't find message for key python.terminal.launchArgs.description.
+2024-01-21 13:31:25.971 [warning] [python]: Couldn't find message for key python.testing.autoTestDiscoverOnSaveEnabled.description.
+2024-01-21 13:31:25.971 [warning] [python]: Couldn't find message for key python.testing.cwd.description.
+2024-01-21 13:31:25.972 [warning] [python]: Couldn't find message for key python.testing.debugPort.description.
+2024-01-21 13:31:25.972 [warning] [python]: Couldn't find message for key python.testing.promptToConfigure.description.
+2024-01-21 13:31:25.972 [warning] [python]: Couldn't find message for key python.testing.pytestArgs.description.
+2024-01-21 13:31:25.973 [warning] [python]: Couldn't find message for key python.testing.pytestEnabled.description.
+2024-01-21 13:31:25.973 [warning] [python]: Couldn't find message for key python.testing.pytestPath.description.
+2024-01-21 13:31:25.988 [warning] [python]: Couldn't find message for key python.testing.unittestArgs.description.
+2024-01-21 13:31:25.989 [warning] [python]: Couldn't find message for key python.testing.unittestEnabled.description.
+2024-01-21 13:31:25.989 [warning] [python]: Couldn't find message for key python.venvFolders.description.
+2024-01-21 13:31:25.989 [warning] [python]: Couldn't find message for key python.venvPath.description.
+2024-01-21 13:31:25.989 [warning] [python]: Couldn't find message for key python.command.python.analysis.restartLanguageServer.title.
+2024-01-21 13:31:25.989 [warning] [python]: Couldn't find message for key python.command.python.clearCacheAndReload.title.
+2024-01-21 13:31:25.990 [warning] [python]: Couldn't find message for key python.command.python.clearWorkspaceInterpreter.title.
+2024-01-21 13:31:25.990 [warning] [python]: Couldn't find message for key python.command.python.configureTests.title.
+2024-01-21 13:31:25.990 [warning] [python]: Couldn't find message for key python.command.python.createEnvironment.title.
+2024-01-21 13:31:25.990 [warning] [python]: Couldn't find message for key python.command.python.createEnvironment.title.
+2024-01-21 13:31:25.991 [warning] [python]: Couldn't find message for key python.command.python.createTerminal.title.
+2024-01-21 13:31:25.991 [warning] [python]: Couldn't find message for key python.command.python.enableSourceMapSupport.title.
+2024-01-21 13:31:25.991 [warning] [python]: Couldn't find message for key python.command.python.execInTerminal.title.
+2024-01-21 13:31:25.991 [warning] [python]: Couldn't find message for key python.command.python.execInTerminalIcon.title.
+2024-01-21 13:31:25.991 [warning] [python]: Couldn't find message for key python.command.python.execInDedicatedTerminal.title.
+2024-01-21 13:31:25.992 [warning] [python]: Couldn't find message for key python.command.python.debugInTerminal.title.
+2024-01-21 13:31:25.992 [warning] [python]: Couldn't find message for key python.command.python.execSelectionInDjangoShell.title.
+2024-01-21 13:31:25.992 [warning] [python]: Couldn't find message for key python.command.python.execSelectionInTerminal.title.
+2024-01-21 13:31:25.992 [warning] [python]: Couldn't find message for key python.command.python.launchTensorBoard.title.
+2024-01-21 13:31:25.992 [warning] [python]: Couldn't find message for key python.command.python.refreshTensorBoard.title.
+2024-01-21 13:31:25.993 [warning] [python]: Couldn't find message for key python.command.python.reportIssue.title.
+2024-01-21 13:31:25.993 [warning] [python]: Couldn't find message for key python.command.testing.rerunFailedTests.title.
+2024-01-21 13:31:25.994 [warning] [python]: Couldn't find message for key python.command.python.setInterpreter.title.
+2024-01-21 13:31:25.994 [warning] [python]: Couldn't find message for key python.command.python.startREPL.title.
+2024-01-21 13:31:25.994 [warning] [python]: Couldn't find message for key python.command.python.viewLanguageServerOutput.title.
+2024-01-21 13:31:25.995 [warning] [python]: Couldn't find message for key python.command.python.viewOutput.title.
+2024-01-21 13:31:25.997 [warning] [python]: Couldn't find message for key python.command.python.execInTerminalIcon.title.
+2024-01-21 13:31:25.997 [warning] [python]: Couldn't find message for key python.command.python.execInDedicatedTerminal.title.
+2024-01-21 13:31:25.997 [warning] [python]: Couldn't find message for key python.command.python.debugInTerminal.title.
+2024-01-21 13:31:25.998 [warning] [python]: Couldn't find message for key python.editor.context.submenu.runPython.
+2024-01-21 13:31:25.998 [warning] [python]: Couldn't find message for key python.editor.context.submenu.runPythonInteractive.
+2024-01-21 13:31:26.000 [warning] [csharp]: Couldn't find message for key configuration.dotnet.defaultSolution.description.
+2024-01-21 13:31:26.000 [warning] [csharp]: Couldn't find message for key configuration.dotnet.implementType.insertionBehavior.withOtherMembersOfTheSameKind.
+2024-01-21 13:31:26.000 [warning] [csharp]: Couldn't find message for key configuration.dotnet.implementType.insertionBehavior.atTheEnd.
+2024-01-21 13:31:26.000 [warning] [csharp]: Couldn't find message for key configuration.dotnet.implementType.insertionBehavior.
+2024-01-21 13:31:26.001 [warning] [csharp]: Couldn't find message for key configuration.dotnet.implementType.propertyGenerationBehavior.preferThrowingProperties.
+2024-01-21 13:31:26.001 [warning] [csharp]: Couldn't find message for key configuration.dotnet.implementType.propertyGenerationBehavior.preferAutoProperties.
+2024-01-21 13:31:26.001 [warning] [csharp]: Couldn't find message for key configuration.dotnet.implementType.propertyGenerationBehavior.
+2024-01-21 13:31:26.001 [warning] [csharp]: Couldn't find message for key configuration.dotnet.codeLens.enableReferencesCodeLens.
+2024-01-21 13:31:26.001 [warning] [csharp]: Couldn't find message for key configuration.dotnet.codeLens.enableTestsCodeLens.
+2024-01-21 13:31:26.001 [warning] [csharp]: Couldn't find message for key configuration.dotnet.completion.showCompletionItemsFromUnimportedNamespaces.
+2024-01-21 13:31:26.002 [warning] [csharp]: Couldn't find message for key configuration.dotnet.completion.showNameCompletionSuggestions.
+2024-01-21 13:31:26.002 [warning] [csharp]: Couldn't find message for key configuration.dotnet.completion.provideRegexCompletions.
+2024-01-21 13:31:26.002 [warning] [csharp]: Couldn't find message for key configuration.dotnet.backgroundAnalysis.analyzerDiagnosticsScope.openFiles.
+2024-01-21 13:31:26.002 [warning] [csharp]: Couldn't find message for key configuration.dotnet.backgroundAnalysis.analyzerDiagnosticsScope.fullSolution.
+2024-01-21 13:31:26.002 [warning] [csharp]: Couldn't find message for key configuration.dotnet.backgroundAnalysis.analyzerDiagnosticsScope.none.
+2024-01-21 13:31:26.003 [warning] [csharp]: Couldn't find message for key configuration.dotnet.backgroundAnalysis.analyzerDiagnosticsScope.
+2024-01-21 13:31:26.003 [warning] [csharp]: Couldn't find message for key configuration.dotnet.backgroundAnalysis.compilerDiagnosticsScope.openFiles.
+2024-01-21 13:31:26.003 [warning] [csharp]: Couldn't find message for key configuration.dotnet.backgroundAnalysis.compilerDiagnosticsScope.fullSolution.
+2024-01-21 13:31:26.003 [warning] [csharp]: Couldn't find message for key configuration.dotnet.backgroundAnalysis.compilerDiagnosticsScope.none.
+2024-01-21 13:31:26.003 [warning] [csharp]: Couldn't find message for key configuration.dotnet.backgroundAnalysis.compilerDiagnosticsScope.
+2024-01-21 13:31:26.003 [warning] [csharp]: Couldn't find message for key configuration.dotnet.highlighting.highlightRelatedRegexComponents.
+2024-01-21 13:31:26.004 [warning] [csharp]: Couldn't find message for key configuration.dotnet.highlighting.highlightRelatedJsonComponents.
+2024-01-21 13:31:26.004 [warning] [csharp]: Couldn't find message for key configuration.csharp.inlayHints.enableInlayHintsForImplicitObjectCreation.
+2024-01-21 13:31:26.004 [warning] [csharp]: Couldn't find message for key configuration.csharp.inlayHints.enableInlayHintsForImplicitVariableTypes.
+2024-01-21 13:31:26.004 [warning] [csharp]: Couldn't find message for key configuration.csharp.inlayHints.enableInlayHintsForLambdaParameterTypes.
+2024-01-21 13:31:26.004 [warning] [csharp]: Couldn't find message for key configuration.csharp.inlayHints.enableInlayHintsForTypes.
+2024-01-21 13:31:26.004 [warning] [csharp]: Couldn't find message for key configuration.csharp.inlayHints.enableInlayHintsForIndexerParameters.
+2024-01-21 13:31:26.005 [warning] [csharp]: Couldn't find message for key configuration.dotnet.inlayHints.enableInlayHintsForLiteralParameters.
+2024-01-21 13:31:26.005 [warning] [csharp]: Couldn't find message for key configuration.dotnet.inlayHints.enableInlayHintsForObjectCreationParameters.
+2024-01-21 13:31:26.005 [warning] [csharp]: Couldn't find message for key configuration.dotnet.inlayHints.enableInlayHintsForOtherParameters.
+2024-01-21 13:31:26.005 [warning] [csharp]: Couldn't find message for key configuration.dotnet.inlayHints.enableInlayHintsForParameters.
+2024-01-21 13:31:26.005 [warning] [csharp]: Couldn't find message for key configuration.dotnet.inlayHints.suppressInlayHintsForParametersThatDifferOnlyBySuffix.
+2024-01-21 13:31:26.006 [warning] [csharp]: Couldn't find message for key configuration.dotnet.inlayHints.suppressInlayHintsForParametersThatMatchArgumentName.
+2024-01-21 13:31:26.006 [warning] [csharp]: Couldn't find message for key configuration.dotnet.inlayHints.suppressInlayHintsForParametersThatMatchMethodIntent.
+2024-01-21 13:31:26.006 [warning] [csharp]: Couldn't find message for key configuration.dotnet.navigation.navigateToDecompiledSources.
+2024-01-21 13:31:26.026 [warning] [csharp]: Couldn't find message for key configuration.dotnet.quickInfo.showRemarksInQuickInfo.
+2024-01-21 13:31:26.027 [warning] [csharp]: Couldn't find message for key configuration.dotnet.symbolSearch.searchReferenceAssemblies.
+2024-01-21 13:31:26.028 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.stopAtEntry.markdownDescription.
+2024-01-21 13:31:26.028 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.internalConsole.enumDescription.
+2024-01-21 13:31:26.029 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.integratedTerminal.enumDescription.
+2024-01-21 13:31:26.029 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.externalTerminal.enumDescription.
+2024-01-21 13:31:26.030 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.settingsDescription.
+2024-01-21 13:31:26.030 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceFileMap.markdownDescription.
+2024-01-21 13:31:26.031 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.justMyCode.markdownDescription.
+2024-01-21 13:31:26.031 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.requireExactSource.markdownDescription.
+2024-01-21 13:31:26.032 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.enableStepFiltering.markdownDescription.
+2024-01-21 13:31:26.032 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.exceptions.markdownDescription.
+2024-01-21 13:31:26.032 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.moduleLoad.markdownDescription.
+2024-01-21 13:31:26.032 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.programOutput.markdownDescription.
+2024-01-21 13:31:26.032 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.browserStdOut.markdownDescription.
+2024-01-21 13:31:26.032 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.elapsedTiming.markdownDescription.
+2024-01-21 13:31:26.033 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.threadExit.markdownDescription.
+2024-01-21 13:31:26.033 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.processExit.markdownDescription.
+2024-01-21 13:31:26.033 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.engineLogging.deprecationMessage.
+2024-01-21 13:31:26.033 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.protocolMessages.markdownDescription.
+2024-01-21 13:31:26.033 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.none.enumDescription.
+2024-01-21 13:31:26.034 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.error.enumDescription.
+2024-01-21 13:31:26.034 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.important.enumDescription.
+2024-01-21 13:31:26.034 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.normal.enumDescription.
+2024-01-21 13:31:26.034 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.markdownDescription.
+2024-01-21 13:31:26.034 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.none.enumDescription.
+2024-01-21 13:31:26.034 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.error.enumDescription.
+2024-01-21 13:31:26.035 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.all.enumDescription.
+2024-01-21 13:31:26.035 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.markdownDescription.
+2024-01-21 13:31:26.035 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugRuntimeEventTracing.markdownDescription.
+2024-01-21 13:31:26.035 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.expressionEvaluationTracing.markdownDescription.
+2024-01-21 13:31:26.035 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.startDebuggingTracing.markdownDescription.
+2024-01-21 13:31:26.035 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.consoleUsageMessage.description.
+2024-01-21 13:31:26.036 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.suppressJITOptimizations.markdownDescription.
+2024-01-21 13:31:26.036 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchPaths.description.
+2024-01-21 13:31:26.036 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchMicrosoftSymbolServer.description.
+2024-01-21 13:31:26.037 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchNuGetOrgSymbolServer.description.
+2024-01-21 13:31:26.038 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.cachePath.description.
+2024-01-21 13:31:26.038 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadAllButExcluded.enumDescription.
+2024-01-21 13:31:26.038 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadOnlyIncluded.enumDescription.
+2024-01-21 13:31:26.039 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.description.
+2024-01-21 13:31:26.039 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.excludedModules.description.
+2024-01-21 13:31:26.040 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includedModules.description.
+2024-01-21 13:31:26.040 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includeSymbolsNextToModules.description.
+2024-01-21 13:31:26.041 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.allowFastEvaluate.description.
+2024-01-21 13:31:26.041 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTestDebuggingOptions.
+2024-01-21 13:31:26.042 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceFileMap.markdownDescription.
+2024-01-21 13:31:26.043 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.justMyCode.markdownDescription.
+2024-01-21 13:31:26.043 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.requireExactSource.markdownDescription.
+2024-01-21 13:31:26.043 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.enableStepFiltering.markdownDescription.
+2024-01-21 13:31:26.044 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.description.
+2024-01-21 13:31:26.044 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.exceptions.markdownDescription.
+2024-01-21 13:31:26.044 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.moduleLoad.markdownDescription.
+2024-01-21 13:31:26.044 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.programOutput.markdownDescription.
+2024-01-21 13:31:26.045 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.threadExit.markdownDescription.
+2024-01-21 13:31:26.045 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.processExit.markdownDescription.
+2024-01-21 13:31:26.045 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.suppressJITOptimizations.markdownDescription.
+2024-01-21 13:31:26.045 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.description.
+2024-01-21 13:31:26.045 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchPaths.description.
+2024-01-21 13:31:26.045 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchMicrosoftSymbolServer.description.
+2024-01-21 13:31:26.046 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchNuGetOrgSymbolServer.description.
+2024-01-21 13:31:26.046 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.cachePath.description.
+2024-01-21 13:31:26.046 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.description.
+2024-01-21 13:31:26.046 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadAllButExcluded.enumDescription.
+2024-01-21 13:31:26.046 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadOnlyIncluded.enumDescription.
+2024-01-21 13:31:26.047 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.description.
+2024-01-21 13:31:26.047 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.excludedModules.description.
+2024-01-21 13:31:26.047 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includedModules.description.
+2024-01-21 13:31:26.047 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includeSymbolsNextToModules.description.
+2024-01-21 13:31:26.047 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.markdownDescription.
+2024-01-21 13:31:26.047 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.additionalItems.enabled.markdownDescription.
+2024-01-21 13:31:26.048 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.allowFastEvaluate.description.
+2024-01-21 13:31:26.048 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.targetArchitecture.markdownDescription.
+2024-01-21 13:31:26.048 [warning] [csharp]: Couldn't find message for key configuration.dotnet.preferCSharpExtension.
+2024-01-21 13:31:26.048 [warning] [csharp]: Couldn't find message for key configuration.dotnet.dotnetPath.
+2024-01-21 13:31:26.049 [warning] [csharp]: Couldn't find message for key configuration.dotnet.server.path.
+2024-01-21 13:31:26.049 [warning] [csharp]: Couldn't find message for key configuration.dotnet.server.startTimeout.
+2024-01-21 13:31:26.049 [warning] [csharp]: Couldn't find message for key configuration.dotnet.server.waitForDebugger.
+2024-01-21 13:31:26.049 [warning] [csharp]: Couldn't find message for key configuration.dotnet.server.trace.
+2024-01-21 13:31:26.049 [warning] [csharp]: Couldn't find message for key configuration.dotnet.server.extensionPaths.
+2024-01-21 13:31:26.049 [warning] [csharp]: Couldn't find message for key configuration.dotnet.server.crashDumpPath.
+2024-01-21 13:31:26.049 [warning] [csharp]: Couldn't find message for key configuration.dotnet.projects.enableAutomaticRestore.
+2024-01-21 13:31:26.050 [warning] [csharp]: Couldn't find message for key configuration.razor.languageServer.directory.
+2024-01-21 13:31:26.050 [warning] [csharp]: Couldn't find message for key configuration.razor.languageServer.debug.
+2024-01-21 13:31:26.050 [warning] [csharp]: Couldn't find message for key configuration.razor.trace.off.
+2024-01-21 13:31:26.050 [warning] [csharp]: Couldn't find message for key configuration.razor.trace.messages.
+2024-01-21 13:31:26.051 [warning] [csharp]: Couldn't find message for key configuration.razor.trace.verbose.
+2024-01-21 13:31:26.051 [warning] [csharp]: Couldn't find message for key configuration.razor.trace.
+2024-01-21 13:31:26.051 [warning] [csharp]: Couldn't find message for key command.o.restart.
+2024-01-21 13:31:26.051 [warning] [csharp]: Couldn't find message for key command.o.pickProjectAndStart.
+2024-01-21 13:31:26.052 [warning] [csharp]: Couldn't find message for key command.dotnet.openSolution.
+2024-01-21 13:31:26.052 [warning] [csharp]: Couldn't find message for key command.o.fixAll.solution.
+2024-01-21 13:31:26.052 [warning] [csharp]: Couldn't find message for key command.o.fixAll.project.
+2024-01-21 13:31:26.052 [warning] [csharp]: Couldn't find message for key command.o.fixAll.document.
+2024-01-21 13:31:26.052 [warning] [csharp]: Couldn't find message for key command.o.reanalyze.allProjects.
+2024-01-21 13:31:26.052 [warning] [csharp]: Couldn't find message for key command.o.reanalyze.currentProject.
+2024-01-21 13:31:26.052 [warning] [csharp]: Couldn't find message for key command.dotnet.generateAssets.currentProject.
+2024-01-21 13:31:26.053 [warning] [csharp]: Couldn't find message for key command.dotnet.restore.project.
+2024-01-21 13:31:26.053 [warning] [csharp]: Couldn't find message for key command.dotnet.restore.all.
+2024-01-21 13:31:26.053 [warning] [csharp]: Couldn't find message for key command.csharp.downloadDebugger.
+2024-01-21 13:31:26.053 [warning] [csharp]: Couldn't find message for key command.csharp.listProcess.
+2024-01-21 13:31:26.053 [warning] [csharp]: Couldn't find message for key command.csharp.listRemoteProcess.
+2024-01-21 13:31:26.054 [warning] [csharp]: Couldn't find message for key command.csharp.listRemoteDockerProcess.
+2024-01-21 13:31:26.054 [warning] [csharp]: Couldn't find message for key command.csharp.attachToProcess.
+2024-01-21 13:31:26.054 [warning] [csharp]: Couldn't find message for key command.csharp.reportIssue.
+2024-01-21 13:31:26.054 [warning] [csharp]: Couldn't find message for key command.csharp.showDecompilationTerms.
+2024-01-21 13:31:26.054 [warning] [csharp]: Couldn't find message for key command.extension.showRazorCSharpWindow.
+2024-01-21 13:31:26.054 [warning] [csharp]: Couldn't find message for key command.extension.showRazorHtmlWindow.
+2024-01-21 13:31:26.055 [warning] [csharp]: Couldn't find message for key command.razor.reportIssue.
+2024-01-21 13:31:26.055 [warning] [csharp]: Couldn't find message for key command.dotnet.test.runTestsInContext.
+2024-01-21 13:31:26.055 [warning] [csharp]: Couldn't find message for key command.dotnet.test.debugTestsInContext.
+2024-01-21 13:31:26.055 [warning] [csharp]: Couldn't find message for key command.dotnet.restartServer.
+2024-01-21 13:31:26.055 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.program.markdownDescription.
+2024-01-21 13:31:26.056 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.cwd.description.
+2024-01-21 13:31:26.056 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.args.0.description.
+2024-01-21 13:31:26.056 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.args.1.description.
+2024-01-21 13:31:26.056 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.stopAtEntry.markdownDescription.
+2024-01-21 13:31:26.056 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.description.
+2024-01-21 13:31:26.056 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.enabled.description.
+2024-01-21 13:31:26.057 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.args.description.
+2024-01-21 13:31:26.057 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.osx.description.
+2024-01-21 13:31:26.057 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.osx.command.description.
+2024-01-21 13:31:26.057 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.osx.args.description.
+2024-01-21 13:31:26.057 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.linux.description.
+2024-01-21 13:31:26.057 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.linux.command.description.
+2024-01-21 13:31:26.058 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.linux.args.description.
+2024-01-21 13:31:26.058 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.windows.description.
+2024-01-21 13:31:26.059 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.windows.command.description.
+2024-01-21 13:31:26.059 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.windows.args.description.
+2024-01-21 13:31:26.059 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.env.description.
+2024-01-21 13:31:26.059 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.envFile.markdownDescription.
+2024-01-21 13:31:26.059 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.internalConsole.enumDescription.
+2024-01-21 13:31:26.060 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.integratedTerminal.enumDescription.
+2024-01-21 13:31:26.060 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.externalTerminal.enumDescription.
+2024-01-21 13:31:26.060 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.markdownDescription.
+2024-01-21 13:31:26.060 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.settingsDescription.
+2024-01-21 13:31:26.060 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.externalConsole.markdownDescription.
+2024-01-21 13:31:26.060 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchSettingsFilePath.markdownDescription.
+2024-01-21 13:31:26.060 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchSettingsProfile.description.
+2024-01-21 13:31:26.061 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceFileMap.markdownDescription.
+2024-01-21 13:31:26.061 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.justMyCode.markdownDescription.
+2024-01-21 13:31:26.061 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.requireExactSource.markdownDescription.
+2024-01-21 13:31:26.061 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.enableStepFiltering.markdownDescription.
+2024-01-21 13:31:26.061 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.description.
+2024-01-21 13:31:26.061 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.exceptions.markdownDescription.
+2024-01-21 13:31:26.061 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.moduleLoad.markdownDescription.
+2024-01-21 13:31:26.062 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.programOutput.markdownDescription.
+2024-01-21 13:31:26.062 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.browserStdOut.markdownDescription.
+2024-01-21 13:31:26.062 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.elapsedTiming.markdownDescription.
+2024-01-21 13:31:26.062 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.threadExit.markdownDescription.
+2024-01-21 13:31:26.062 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.processExit.markdownDescription.
+2024-01-21 13:31:26.062 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.engineLogging.deprecationMessage.
+2024-01-21 13:31:26.062 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.description.
+2024-01-21 13:31:26.063 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.protocolMessages.markdownDescription.
+2024-01-21 13:31:26.063 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.none.enumDescription.
+2024-01-21 13:31:26.063 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.error.enumDescription.
+2024-01-21 13:31:26.063 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.important.enumDescription.
+2024-01-21 13:31:26.063 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.normal.enumDescription.
+2024-01-21 13:31:26.063 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.markdownDescription.
+2024-01-21 13:31:26.063 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.none.enumDescription.
+2024-01-21 13:31:26.063 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.error.enumDescription.
+2024-01-21 13:31:26.064 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.all.enumDescription.
+2024-01-21 13:31:26.064 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.markdownDescription.
+2024-01-21 13:31:26.064 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugRuntimeEventTracing.markdownDescription.
+2024-01-21 13:31:26.064 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.expressionEvaluationTracing.markdownDescription.
+2024-01-21 13:31:26.064 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.startDebuggingTracing.markdownDescription.
+2024-01-21 13:31:26.066 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.consoleUsageMessage.description.
+2024-01-21 13:31:26.067 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.description.
+2024-01-21 13:31:26.067 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeCwd.description.
+2024-01-21 13:31:26.067 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeProgram.description.
+2024-01-21 13:31:26.068 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeArgs.0.description.
+2024-01-21 13:31:26.068 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeArgs.1.description.
+2024-01-21 13:31:26.068 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.debuggerPath.description.
+2024-01-21 13:31:26.069 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeEnv.description.
+2024-01-21 13:31:26.069 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.quoteArgs.description.
+2024-01-21 13:31:26.070 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.description.
+2024-01-21 13:31:26.070 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeCwd.description.
+2024-01-21 13:31:26.070 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeProgram.description.
+2024-01-21 13:31:26.071 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeArgs.0.description.
+2024-01-21 13:31:26.071 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeArgs.1.description.
+2024-01-21 13:31:26.072 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.quoteArgs.description.
+2024-01-21 13:31:26.072 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeEnv.description.
+2024-01-21 13:31:26.073 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.description.
+2024-01-21 13:31:26.073 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeCwd.description.
+2024-01-21 13:31:26.073 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeProgram.description.
+2024-01-21 13:31:26.073 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeArgs.0.description.
+2024-01-21 13:31:26.074 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeArgs.1.description.
+2024-01-21 13:31:26.074 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.quoteArgs.description.
+2024-01-21 13:31:26.074 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeEnv.description.
+2024-01-21 13:31:26.075 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.description.
+2024-01-21 13:31:26.075 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeCwd.description.
+2024-01-21 13:31:26.076 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeProgram.description.
+2024-01-21 13:31:26.076 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeArgs.0.description.
+2024-01-21 13:31:26.076 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeArgs.1.description.
+2024-01-21 13:31:26.076 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.quoteArgs.description.
+2024-01-21 13:31:26.077 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeEnv.description.
+2024-01-21 13:31:26.077 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.suppressJITOptimizations.markdownDescription.
+2024-01-21 13:31:26.080 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.description.
+2024-01-21 13:31:26.081 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchPaths.description.
+2024-01-21 13:31:26.081 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchMicrosoftSymbolServer.description.
+2024-01-21 13:31:26.081 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchNuGetOrgSymbolServer.description.
+2024-01-21 13:31:26.082 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.cachePath.description.
+2024-01-21 13:31:26.082 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.description.
+2024-01-21 13:31:26.082 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadAllButExcluded.enumDescription.
+2024-01-21 13:31:26.082 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadOnlyIncluded.enumDescription.
+2024-01-21 13:31:26.082 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.description.
+2024-01-21 13:31:26.082 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.excludedModules.description.
+2024-01-21 13:31:26.082 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includedModules.description.
+2024-01-21 13:31:26.083 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includeSymbolsNextToModules.description.
+2024-01-21 13:31:26.085 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.markdownDescription.
+2024-01-21 13:31:26.085 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.additionalItems.enabled.markdownDescription.
+2024-01-21 13:31:26.085 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.allowFastEvaluate.description.
+2024-01-21 13:31:26.086 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.targetOutputLogPath.description.
+2024-01-21 13:31:26.086 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.targetArchitecture.markdownDescription.
+2024-01-21 13:31:26.086 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.checkForDevCert.description.
+2024-01-21 13:31:26.086 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.processName.markdownDescription.
+2024-01-21 13:31:26.086 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.processId.0.markdownDescription.
+2024-01-21 13:31:26.087 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.processId.1.markdownDescription.
+2024-01-21 13:31:26.087 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceFileMap.markdownDescription.
+2024-01-21 13:31:26.087 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.justMyCode.markdownDescription.
+2024-01-21 13:31:26.087 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.requireExactSource.markdownDescription.
+2024-01-21 13:31:26.087 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.enableStepFiltering.markdownDescription.
+2024-01-21 13:31:26.087 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.description.
+2024-01-21 13:31:26.087 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.exceptions.markdownDescription.
+2024-01-21 13:31:26.087 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.moduleLoad.markdownDescription.
+2024-01-21 13:31:26.088 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.programOutput.markdownDescription.
+2024-01-21 13:31:26.088 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.browserStdOut.markdownDescription.
+2024-01-21 13:31:26.088 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.elapsedTiming.markdownDescription.
+2024-01-21 13:31:26.088 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.threadExit.markdownDescription.
+2024-01-21 13:31:26.088 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.processExit.markdownDescription.
+2024-01-21 13:31:26.088 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.engineLogging.deprecationMessage.
+2024-01-21 13:31:26.088 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.description.
+2024-01-21 13:31:26.089 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.protocolMessages.markdownDescription.
+2024-01-21 13:31:26.089 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.none.enumDescription.
+2024-01-21 13:31:26.089 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.error.enumDescription.
+2024-01-21 13:31:26.089 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.important.enumDescription.
+2024-01-21 13:31:26.089 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.normal.enumDescription.
+2024-01-21 13:31:26.089 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.markdownDescription.
+2024-01-21 13:31:26.089 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.none.enumDescription.
+2024-01-21 13:31:26.089 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.error.enumDescription.
+2024-01-21 13:31:26.090 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.all.enumDescription.
+2024-01-21 13:31:26.090 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.markdownDescription.
+2024-01-21 13:31:26.090 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugRuntimeEventTracing.markdownDescription.
+2024-01-21 13:31:26.090 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.expressionEvaluationTracing.markdownDescription.
+2024-01-21 13:31:26.090 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.startDebuggingTracing.markdownDescription.
+2024-01-21 13:31:26.090 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.consoleUsageMessage.description.
+2024-01-21 13:31:26.090 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.description.
+2024-01-21 13:31:26.090 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeCwd.description.
+2024-01-21 13:31:26.091 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeProgram.description.
+2024-01-21 13:31:26.091 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeArgs.0.description.
+2024-01-21 13:31:26.091 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeArgs.1.description.
+2024-01-21 13:31:26.091 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.debuggerPath.description.
+2024-01-21 13:31:26.091 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeEnv.description.
+2024-01-21 13:31:26.091 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.quoteArgs.description.
+2024-01-21 13:31:26.091 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.description.
+2024-01-21 13:31:26.091 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeCwd.description.
+2024-01-21 13:31:26.091 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeProgram.description.
+2024-01-21 13:31:26.092 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeArgs.0.description.
+2024-01-21 13:31:26.092 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeArgs.1.description.
+2024-01-21 13:31:26.092 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.quoteArgs.description.
+2024-01-21 13:31:26.092 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeEnv.description.
+2024-01-21 13:31:26.092 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.description.
+2024-01-21 13:31:26.092 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeCwd.description.
+2024-01-21 13:31:26.092 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeProgram.description.
+2024-01-21 13:31:26.093 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeArgs.0.description.
+2024-01-21 13:31:26.093 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeArgs.1.description.
+2024-01-21 13:31:26.093 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.quoteArgs.description.
+2024-01-21 13:31:26.093 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeEnv.description.
+2024-01-21 13:31:26.093 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.description.
+2024-01-21 13:31:26.093 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeCwd.description.
+2024-01-21 13:31:26.093 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeProgram.description.
+2024-01-21 13:31:26.094 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeArgs.0.description.
+2024-01-21 13:31:26.094 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeArgs.1.description.
+2024-01-21 13:31:26.094 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.quoteArgs.description.
+2024-01-21 13:31:26.094 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeEnv.description.
+2024-01-21 13:31:26.094 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.suppressJITOptimizations.markdownDescription.
+2024-01-21 13:31:26.094 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.description.
+2024-01-21 13:31:26.094 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchPaths.description.
+2024-01-21 13:31:26.094 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchMicrosoftSymbolServer.description.
+2024-01-21 13:31:26.095 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchNuGetOrgSymbolServer.description.
+2024-01-21 13:31:26.095 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.cachePath.description.
+2024-01-21 13:31:26.095 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.description.
+2024-01-21 13:31:26.095 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadAllButExcluded.enumDescription.
+2024-01-21 13:31:26.095 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadOnlyIncluded.enumDescription.
+2024-01-21 13:31:26.095 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.description.
+2024-01-21 13:31:26.095 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.excludedModules.description.
+2024-01-21 13:31:26.095 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includedModules.description.
+2024-01-21 13:31:26.095 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includeSymbolsNextToModules.description.
+2024-01-21 13:31:26.096 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.markdownDescription.
+2024-01-21 13:31:26.096 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.additionalItems.enabled.markdownDescription.
+2024-01-21 13:31:26.096 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.allowFastEvaluate.description.
+2024-01-21 13:31:26.096 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.targetArchitecture.markdownDescription.
+2024-01-21 13:31:26.096 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.label.console-local.
+2024-01-21 13:31:26.096 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.description.console-local.
+2024-01-21 13:31:26.096 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.label.attach-local.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.description.attach.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.label.web-local.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.description.web-local.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.label.console-remote.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.description.remote.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.label.attach-remote.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.description.remote.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.label.blazor-hosted.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.description.blazor-hosted.
+2024-01-21 13:31:26.097 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.label.blazor-standalone.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key debuggers.coreclr.configurationSnippets.description.blazor-standalone.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.program.markdownDescription.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.cwd.description.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.args.0.description.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.args.1.description.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.stopAtEntry.markdownDescription.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.description.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.enabled.description.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.args.description.
+2024-01-21 13:31:26.098 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.osx.description.
+2024-01-21 13:31:26.099 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.osx.command.description.
+2024-01-21 13:31:26.099 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.osx.args.description.
+2024-01-21 13:31:26.099 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.linux.description.
+2024-01-21 13:31:26.099 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.linux.command.description.
+2024-01-21 13:31:26.099 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.linux.args.description.
+2024-01-21 13:31:26.099 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.windows.description.
+2024-01-21 13:31:26.099 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.windows.command.description.
+2024-01-21 13:31:26.099 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchBrowser.windows.args.description.
+2024-01-21 13:31:26.099 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.env.description.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.envFile.markdownDescription.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.internalConsole.enumDescription.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.integratedTerminal.enumDescription.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.externalTerminal.enumDescription.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.markdownDescription.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.console.settingsDescription.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.externalConsole.markdownDescription.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchSettingsFilePath.markdownDescription.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.launchSettingsProfile.description.
+2024-01-21 13:31:26.100 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceFileMap.markdownDescription.
+2024-01-21 13:31:26.101 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.justMyCode.markdownDescription.
+2024-01-21 13:31:26.101 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.requireExactSource.markdownDescription.
+2024-01-21 13:31:26.101 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.enableStepFiltering.markdownDescription.
+2024-01-21 13:31:26.101 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.description.
+2024-01-21 13:31:26.101 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.exceptions.markdownDescription.
+2024-01-21 13:31:26.101 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.moduleLoad.markdownDescription.
+2024-01-21 13:31:26.101 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.programOutput.markdownDescription.
+2024-01-21 13:31:26.101 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.browserStdOut.markdownDescription.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.elapsedTiming.markdownDescription.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.threadExit.markdownDescription.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.processExit.markdownDescription.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.engineLogging.deprecationMessage.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.description.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.protocolMessages.markdownDescription.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.none.enumDescription.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.error.enumDescription.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.important.enumDescription.
+2024-01-21 13:31:26.102 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.normal.enumDescription.
+2024-01-21 13:31:26.103 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.markdownDescription.
+2024-01-21 13:31:26.103 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.none.enumDescription.
+2024-01-21 13:31:26.103 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.error.enumDescription.
+2024-01-21 13:31:26.103 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.all.enumDescription.
+2024-01-21 13:31:26.103 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.markdownDescription.
+2024-01-21 13:31:26.103 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugRuntimeEventTracing.markdownDescription.
+2024-01-21 13:31:26.103 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.expressionEvaluationTracing.markdownDescription.
+2024-01-21 13:31:26.103 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.startDebuggingTracing.markdownDescription.
+2024-01-21 13:31:26.104 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.consoleUsageMessage.description.
+2024-01-21 13:31:26.104 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.description.
+2024-01-21 13:31:26.104 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeCwd.description.
+2024-01-21 13:31:26.104 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeProgram.description.
+2024-01-21 13:31:26.104 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeArgs.0.description.
+2024-01-21 13:31:26.104 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeArgs.1.description.
+2024-01-21 13:31:26.104 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.debuggerPath.description.
+2024-01-21 13:31:26.104 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeEnv.description.
+2024-01-21 13:31:26.104 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.quoteArgs.description.
+2024-01-21 13:31:26.105 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.description.
+2024-01-21 13:31:26.105 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeCwd.description.
+2024-01-21 13:31:26.105 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeProgram.description.
+2024-01-21 13:31:26.105 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeArgs.0.description.
+2024-01-21 13:31:26.105 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeArgs.1.description.
+2024-01-21 13:31:26.105 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.quoteArgs.description.
+2024-01-21 13:31:26.105 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeEnv.description.
+2024-01-21 13:31:26.105 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.description.
+2024-01-21 13:31:26.105 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeCwd.description.
+2024-01-21 13:31:26.106 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeProgram.description.
+2024-01-21 13:31:26.106 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeArgs.0.description.
+2024-01-21 13:31:26.106 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeArgs.1.description.
+2024-01-21 13:31:26.106 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.quoteArgs.description.
+2024-01-21 13:31:26.106 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeEnv.description.
+2024-01-21 13:31:26.106 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.description.
+2024-01-21 13:31:26.106 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeCwd.description.
+2024-01-21 13:31:26.106 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeProgram.description.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeArgs.0.description.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeArgs.1.description.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.quoteArgs.description.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeEnv.description.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.suppressJITOptimizations.markdownDescription.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.description.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchPaths.description.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchMicrosoftSymbolServer.description.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchNuGetOrgSymbolServer.description.
+2024-01-21 13:31:26.107 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.cachePath.description.
+2024-01-21 13:31:26.108 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.description.
+2024-01-21 13:31:26.108 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadAllButExcluded.enumDescription.
+2024-01-21 13:31:26.108 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadOnlyIncluded.enumDescription.
+2024-01-21 13:31:26.108 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.description.
+2024-01-21 13:31:26.108 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.excludedModules.description.
+2024-01-21 13:31:26.108 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includedModules.description.
+2024-01-21 13:31:26.108 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includeSymbolsNextToModules.description.
+2024-01-21 13:31:26.108 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.markdownDescription.
+2024-01-21 13:31:26.109 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.additionalItems.enabled.markdownDescription.
+2024-01-21 13:31:26.109 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.allowFastEvaluate.description.
+2024-01-21 13:31:26.109 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.targetOutputLogPath.description.
+2024-01-21 13:31:26.109 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.targetArchitecture.markdownDescription.
+2024-01-21 13:31:26.109 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.checkForDevCert.description.
+2024-01-21 13:31:26.109 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.processName.markdownDescription.
+2024-01-21 13:31:26.110 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.processId.0.markdownDescription.
+2024-01-21 13:31:26.110 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.processId.1.markdownDescription.
+2024-01-21 13:31:26.110 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceFileMap.markdownDescription.
+2024-01-21 13:31:26.110 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.justMyCode.markdownDescription.
+2024-01-21 13:31:26.110 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.requireExactSource.markdownDescription.
+2024-01-21 13:31:26.110 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.enableStepFiltering.markdownDescription.
+2024-01-21 13:31:26.110 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.description.
+2024-01-21 13:31:26.110 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.exceptions.markdownDescription.
+2024-01-21 13:31:26.111 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.moduleLoad.markdownDescription.
+2024-01-21 13:31:26.111 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.programOutput.markdownDescription.
+2024-01-21 13:31:26.111 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.browserStdOut.markdownDescription.
+2024-01-21 13:31:26.111 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.elapsedTiming.markdownDescription.
+2024-01-21 13:31:26.111 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.threadExit.markdownDescription.
+2024-01-21 13:31:26.111 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.processExit.markdownDescription.
+2024-01-21 13:31:26.111 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.engineLogging.deprecationMessage.
+2024-01-21 13:31:26.111 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.description.
+2024-01-21 13:31:26.112 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.protocolMessages.markdownDescription.
+2024-01-21 13:31:26.112 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.none.enumDescription.
+2024-01-21 13:31:26.112 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.error.enumDescription.
+2024-01-21 13:31:26.112 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.important.enumDescription.
+2024-01-21 13:31:26.112 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.normal.enumDescription.
+2024-01-21 13:31:26.112 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.dispatcherMessages.markdownDescription.
+2024-01-21 13:31:26.112 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.none.enumDescription.
+2024-01-21 13:31:26.112 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.error.enumDescription.
+2024-01-21 13:31:26.112 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.all.enumDescription.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugEngineAPITracing.markdownDescription.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.debugRuntimeEventTracing.markdownDescription.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.expressionEvaluationTracing.markdownDescription.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.diagnosticsLog.startDebuggingTracing.markdownDescription.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.logging.consoleUsageMessage.description.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.description.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeCwd.description.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeProgram.description.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeArgs.0.description.
+2024-01-21 13:31:26.113 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeArgs.1.description.
+2024-01-21 13:31:26.114 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.debuggerPath.description.
+2024-01-21 13:31:26.114 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.pipeEnv.description.
+2024-01-21 13:31:26.114 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.quoteArgs.description.
+2024-01-21 13:31:26.114 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.description.
+2024-01-21 13:31:26.114 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeCwd.description.
+2024-01-21 13:31:26.114 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeProgram.description.
+2024-01-21 13:31:26.114 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeArgs.0.description.
+2024-01-21 13:31:26.114 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeArgs.1.description.
+2024-01-21 13:31:26.114 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.quoteArgs.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.windows.pipeEnv.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeCwd.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeProgram.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeArgs.0.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeArgs.1.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.quoteArgs.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.osx.pipeEnv.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.description.
+2024-01-21 13:31:26.115 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeCwd.description.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeProgram.description.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeArgs.0.description.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeArgs.1.description.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.quoteArgs.description.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.pipeTransport.linux.pipeEnv.description.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.suppressJITOptimizations.markdownDescription.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.description.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchPaths.description.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchMicrosoftSymbolServer.description.
+2024-01-21 13:31:26.116 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.searchNuGetOrgSymbolServer.description.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.cachePath.description.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.description.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadAllButExcluded.enumDescription.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.loadOnlyIncluded.enumDescription.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.mode.description.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.excludedModules.description.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includedModules.description.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.symbolOptions.moduleFilter.includeSymbolsNextToModules.description.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.markdownDescription.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.sourceLinkOptions.additionalItems.enabled.markdownDescription.
+2024-01-21 13:31:26.117 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.allowFastEvaluate.description.
+2024-01-21 13:31:26.118 [warning] [csharp]: Couldn't find message for key generateOptionsSchema.targetArchitecture.markdownDescription.
+2024-01-21 13:31:26.118 [warning] [csharp]: Couldn't find message for key debuggers.dotnet.launch.projectPath.description.
+2024-01-21 13:31:26.118 [warning] [csharp]: Couldn't find message for key debuggers.dotnet.launch.launchConfigurationId.description.
+2024-01-21 13:31:26.118 [warning] [csharp]: Couldn't find message for key debuggers.dotnet.configurationSnippets.label.
+2024-01-21 13:31:26.118 [warning] [csharp]: Couldn't find message for key debuggers.dotnet.configurationSnippets.description.
+2024-01-21 13:31:26.118 [warning] [csharp]: Couldn't find message for key viewsWelcome.debug.contents.
+2024-01-21 13:31:26.132 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:26.271 [info] Deleted uninstalled extension from disk catppuccin.catppuccin-vsc /home/neutron/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.10.1-universal
+2024-01-21 13:31:26.299 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:26.358 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:26.393 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:26.421 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:26.553 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:26.596 [info] Deleted uninstalled extension from disk muhammad-sammy.csharp /home/neutron/.vscode-oss/extensions/muhammad-sammy.csharp-2.14.9-universal
+2024-01-21 13:31:26.639 [info] Deleted uninstalled extension from disk ms-python.python /home/neutron/.vscode-oss/extensions/ms-python.python-2023.20.0-universal
+2024-01-21 13:31:27.967 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:27.971 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:31:28.735 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:03.437 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:03.452 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:03.481 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:24.440 [info] Getting Manifest... sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:24.503 [info] Installing extension: sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:24.592 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:24.696 [info] Getting Manifest... vivaxy.vscode-conventional-commits
+2024-01-21 13:32:24.825 [info] Getting Manifest... mhutchie.git-graph
+2024-01-21 13:32:25.024 [info] Getting Manifest... donjayamanne.githistory
+2024-01-21 13:32:25.145 [info] Getting Manifest... codezombiech.gitignore
+2024-01-21 13:32:25.265 [info] Getting Manifest... adam-bender.commit-message-editor
+2024-01-21 13:32:25.430 [info] Getting Manifest... eamodio.gitlens
+2024-01-21 13:32:25.859 [info] Getting Manifest... waderyan.gitblame
+2024-01-21 13:32:26.028 [info] Getting Manifest... github.github-vscode-theme
+2024-01-21 13:32:26.231 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:26.254 [info] Installing extension: vivaxy.vscode-conventional-commits sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:26.254 [info] Installing extension: mhutchie.git-graph sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:26.255 [info] Installing extension: donjayamanne.githistory sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:26.255 [info] Installing extension: codezombiech.gitignore sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:26.256 [info] Installing extension: adam-bender.commit-message-editor sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:26.257 [info] Installing extension: eamodio.gitlens sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:26.257 [info] Installing extension: waderyan.gitblame sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:26.257 [info] Installing extension: github.github-vscode-theme sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:26.771 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:26.783 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:26.803 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:26.825 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:26.839 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:26.861 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:26.878 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:26.889 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:27.081 [info] Getting Manifest... paragdiwan.gitpatch
+2024-01-21 13:32:27.140 [info] Extension signature verification is not done: vivaxy.vscode-conventional-commits
+2024-01-21 13:32:27.141 [info] Installing extension: paragdiwan.gitpatch
+2024-01-21 13:32:27.222 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:27.233 [info] Extension signature verification is not done: codezombiech.gitignore
+2024-01-21 13:32:27.235 [info] Extension signature verification is not done: waderyan.gitblame
+2024-01-21 13:32:27.279 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:27.279 [info] Extension signature verification is not done: github.github-vscode-theme
+2024-01-21 13:32:27.336 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:27.352 [info] Extension signature verification is not done: adam-bender.commit-message-editor
+2024-01-21 13:32:27.363 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/waderyan.gitblame-10.7.0-universal: waderyan.gitblame
+2024-01-21 13:32:27.365 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/codezombiech.gitignore-0.9.0-universal: codezombiech.gitignore
+2024-01-21 13:32:27.368 [info] Renamed to /home/neutron/.vscode-oss/extensions/waderyan.gitblame-10.7.0-universal
+2024-01-21 13:32:27.369 [info] Renamed to /home/neutron/.vscode-oss/extensions/codezombiech.gitignore-0.9.0-universal
+2024-01-21 13:32:27.373 [info] Extracting extension completed. waderyan.gitblame
+2024-01-21 13:32:27.375 [info] Extracting extension completed. codezombiech.gitignore
+2024-01-21 13:32:27.387 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/vivaxy.vscode-conventional-commits-1.25.0-universal: vivaxy.vscode-conventional-commits
+2024-01-21 13:32:27.392 [info] Renamed to /home/neutron/.vscode-oss/extensions/vivaxy.vscode-conventional-commits-1.25.0-universal
+2024-01-21 13:32:27.394 [info] Extracting extension completed. vivaxy.vscode-conventional-commits
+2024-01-21 13:32:27.398 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/adam-bender.commit-message-editor-0.25.0-universal: adam-bender.commit-message-editor
+2024-01-21 13:32:27.402 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/github.github-vscode-theme-6.3.4-universal: github.github-vscode-theme
+2024-01-21 13:32:27.402 [info] Renamed to /home/neutron/.vscode-oss/extensions/adam-bender.commit-message-editor-0.25.0-universal
+2024-01-21 13:32:27.403 [info] Renamed to /home/neutron/.vscode-oss/extensions/github.github-vscode-theme-6.3.4-universal
+2024-01-21 13:32:27.406 [info] Extracting extension completed. adam-bender.commit-message-editor
+2024-01-21 13:32:27.406 [info] Extracting extension completed. github.github-vscode-theme
+2024-01-21 13:32:27.490 [info] Extension signature verification is not done: mhutchie.git-graph
+2024-01-21 13:32:27.525 [info] Extension signature verification is not done: donjayamanne.githistory
+2024-01-21 13:32:27.584 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/mhutchie.git-graph-1.30.0-universal: mhutchie.git-graph
+2024-01-21 13:32:27.587 [info] Renamed to /home/neutron/.vscode-oss/extensions/mhutchie.git-graph-1.30.0-universal
+2024-01-21 13:32:27.589 [info] Extracting extension completed. mhutchie.git-graph
+2024-01-21 13:32:27.607 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/donjayamanne.githistory-0.6.20-universal: donjayamanne.githistory
+2024-01-21 13:32:27.611 [info] Renamed to /home/neutron/.vscode-oss/extensions/donjayamanne.githistory-0.6.20-universal
+2024-01-21 13:32:27.613 [info] Extracting extension completed. donjayamanne.githistory
+2024-01-21 13:32:27.682 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-21 13:32:29.595 [info] Extension signature verification is not done: eamodio.gitlens
+2024-01-21 13:32:30.067 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/eamodio.gitlens-14.7.0-universal: eamodio.gitlens
+2024-01-21 13:32:30.083 [info] Renamed to /home/neutron/.vscode-oss/extensions/eamodio.gitlens-14.7.0-universal
+2024-01-21 13:32:30.090 [info] Extracting extension completed. eamodio.gitlens
+2024-01-21 13:32:30.195 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-21 13:32:30.214 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:32:30.228 [info] Extension signature verification is not done: paragdiwan.gitpatch
+2024-01-21 13:32:30.426 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/paragdiwan.gitpatch-0.2.1-universal: paragdiwan.gitpatch
+2024-01-21 13:32:30.430 [info] Renamed to /home/neutron/.vscode-oss/extensions/paragdiwan.gitpatch-0.2.1-universal
+2024-01-21 13:32:30.431 [info] Extracting extension completed. paragdiwan.gitpatch
+2024-01-21 13:32:30.451 [info] Extension installed successfully: paragdiwan.gitpatch
+2024-01-21 13:32:30.506 [info] Extension signature verification is not done: sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:30.522 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-21 13:32:30.551 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/sugatoray.vscode-git-extension-pack-1.1.1-universal: sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:30.556 [info] Renamed to /home/neutron/.vscode-oss/extensions/sugatoray.vscode-git-extension-pack-1.1.1-universal
+2024-01-21 13:32:30.561 [info] Extracting extension completed. sugatoray.vscode-git-extension-pack
+2024-01-21 13:32:30.596 [info] Extension installed successfully: waderyan.gitblame
+2024-01-21 13:32:30.597 [info] Extension installed successfully: codezombiech.gitignore
+2024-01-21 13:32:30.597 [info] Extension installed successfully: vivaxy.vscode-conventional-commits
+2024-01-21 13:32:30.597 [info] Extension installed successfully: adam-bender.commit-message-editor
+2024-01-21 13:32:30.597 [info] Extension installed successfully: github.github-vscode-theme
+2024-01-21 13:32:30.598 [info] Extension installed successfully: mhutchie.git-graph
+2024-01-21 13:32:30.598 [info] Extension installed successfully: donjayamanne.githistory
+2024-01-21 13:32:30.598 [info] Extension installed successfully: eamodio.gitlens
+2024-01-21 13:32:30.598 [info] Extension installed successfully: sugatoray.vscode-git-extension-pack
+2024-01-21 13:36:28.107 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:41:28.190 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:46:28.272 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:51:28.366 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 13:56:28.463 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:01:28.564 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:06:28.676 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.

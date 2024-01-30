@@ -1,0 +1,40 @@
+2024-01-04 13:21:00.088 [info] Deleted uninstalled extension from disk catppuccin.catppuccin-vsc /home/neutron/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.8.1-universal
+2024-01-04 13:21:00.162 [info] Deleted uninstalled extension from disk muhammad-sammy.csharp /home/neutron/.vscode-oss/extensions/muhammad-sammy.csharp-2.12.19-universal
+2024-01-04 13:21:00.170 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/muhammad-sammy.csharp-2.12.19-universal.6bd095eb.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/muhammad-sammy.csharp-2.12.19-universal.6bd095eb.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-04 13:21:03.295 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-01-04 13:21:03.301 [info] Getting Manifest... muhammad-sammy.csharp
+2024-01-04 13:21:03.889 [info] Installing extension: catppuccin.catppuccin-vsc
+2024-01-04 13:21:04.245 [info] Installing extension: muhammad-sammy.csharp
+2024-01-04 13:21:04.387 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-01-04 13:21:04.639 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc
+2024-01-04 13:21:04.687 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.9.0-universal: catppuccin.catppuccin-vsc
+2024-01-04 13:21:04.690 [info] Renamed to /home/neutron/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.9.0-universal
+2024-01-04 13:21:04.691 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2024-01-04 13:21:04.700 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2024-01-04 13:21:04.703 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-3.8.2-universal
+2024-01-04 13:21:04.775 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-04 13:21:30.775 [info] Extension signature verification is not done: muhammad-sammy.csharp
+2024-01-04 13:21:32.582 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/muhammad-sammy.csharp-2.14.9-universal: muhammad-sammy.csharp
+2024-01-04 13:21:32.595 [info] Renamed to /home/neutron/.vscode-oss/extensions/muhammad-sammy.csharp-2.14.9-universal
+2024-01-04 13:21:32.613 [info] Extracting extension completed. muhammad-sammy.csharp
+2024-01-04 13:21:32.630 [info] Extension installed successfully: muhammad-sammy.csharp
+2024-01-04 13:21:32.640 [info] Marked extension as uninstalled muhammad-sammy.csharp-2.14.8-universal
+2024-01-04 13:21:32.703 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

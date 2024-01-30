@@ -1,0 +1,8 @@
+2024-01-04 13:20:59.472 [info] Started local extension host with pid 1963319.
+2024-01-04 13:20:59.543 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-01-04 13:20:59.592 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-04 13:21:02.785 [info] [perf] Render performance baseline is 43ms
+2024-01-04 13:21:37.343 [info] Started local extension host with pid 1964663.
+2024-01-04 13:21:37.493 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-01-04 13:21:37.544 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-04 13:21:40.317 [info] [perf] Render performance baseline is 43ms

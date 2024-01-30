@@ -1,0 +1,17 @@
+2024-01-21 14:14:53.295 [info] Log level: Info
+2024-01-21 14:14:53.295 [info] Validating found git in: "git"
+2024-01-21 14:14:53.295 [info] Using git "2.43.0" from "git"
+2024-01-21 14:14:53.295 [info] > git rev-parse --show-toplevel [43ms]
+2024-01-21 14:14:53.295 [info] > git rev-parse --git-dir --git-common-dir [25ms]
+2024-01-21 14:14:53.295 [info] Open repository: /home/neutron/Documents/spacestuff/git/instrument-magnitude
+2024-01-21 14:14:53.326 [info] > git config --get commit.template [22ms]
+2024-01-21 14:14:53.383 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2024-01-21 14:14:53.576 [info] > git fetch [287ms]
+2024-01-21 14:14:53.630 [info] > git config --get commit.template [18ms]
+2024-01-21 14:14:53.633 [info] > git config --get commit.template [4ms]
+2024-01-21 14:14:53.730 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [91ms]
+2024-01-21 14:14:53.731 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-01-21 14:14:53.746 [info] > git status -z -uall [3ms]
+2024-01-21 14:14:53.825 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-21 14:14:58.318 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-01-21 14:14:58.327 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [2ms]

@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "security.workspace.trust.banner": "always",
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "git.enableSmartCommit": true,
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "terminal.integrated.inheritEnv": false
+}

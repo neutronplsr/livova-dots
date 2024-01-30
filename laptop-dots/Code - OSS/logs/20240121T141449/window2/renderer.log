@@ -1,0 +1,22 @@
+2024-01-21 14:15:26.989 [info] Started local extension host with pid 1958714.
+2024-01-21 14:15:27.112 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent, terminalExecuteCommandEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-01-21 14:15:27.219 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-21 14:15:30.305 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:30.351 [info] [perf] Render performance baseline is 47ms
+2024-01-21 14:15:50.726 [error] [Extension Host] (node:1958714) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-01-21 14:15:55.390 [info] Started local extension host with pid 1959359.
+2024-01-21 14:15:55.484 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent, terminalExecuteCommandEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-01-21 14:15:55.548 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-21 14:15:58.178 [info] [perf] Render performance baseline is 42ms
+2024-01-21 14:15:58.513 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:58.871 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:15:58.951 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-21 14:16:44.040 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-21 14:16:44.202 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-21 14:16:44.380 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-21 14:16:57.929 [info] Started local extension host with pid 1960862.
+2024-01-21 14:16:57.998 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-21 14:16:58.016 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent, terminalExecuteCommandEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-01-21 14:16:58.057 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-21 14:17:01.456 [info] [perf] Render performance baseline is 48ms

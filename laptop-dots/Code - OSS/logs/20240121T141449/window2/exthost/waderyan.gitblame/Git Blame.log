@@ -1,0 +1,11 @@
+2024-01-21 14:16:17.273 [info] git rev-parse --absolute-git-dir
+2024-01-21 14:16:17.292 [info] git rev-parse --absolute-git-dir
+2024-01-21 14:16:17.301 [info] git blame -C --incremental -- /home/neutron/Documents/personalprojects/git/new-arch-install/arch-installer/syncthing-start.desktop
+2024-01-21 14:16:17.305 [info] Blamed "/home/neutron/Documents/personalprojects/git/new-arch-install/arch-installer/syncthing-start.desktop"
+2024-01-21 14:16:21.290 [info] git rev-parse --absolute-git-dir
+2024-01-21 14:16:21.320 [info] git rev-parse --absolute-git-dir
+2024-01-21 14:16:21.333 [info] git blame -C --incremental -- /home/neutron/Documents/personalprojects/git/new-arch-install/arch-installer/livova-installer.sh
+2024-01-21 14:16:21.339 [info] Blamed "/home/neutron/Documents/personalprojects/git/new-arch-install/arch-installer/livova-installer.sh"
+2024-01-21 14:16:34.789 [info] git rev-parse --absolute-git-dir
+2024-01-21 14:16:34.803 [info] git blame -C --incremental -- /home/neutron/Documents/personalprojects/git/new-arch-install/arch-installer/livova-installer.sh
+2024-01-21 14:16:34.808 [info] Blamed "/home/neutron/Documents/personalprojects/git/new-arch-install/arch-installer/livova-installer.sh"

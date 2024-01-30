@@ -1,0 +1,33 @@
+2024-01-21 16:46:35.336 [info] Log level: Info
+2024-01-21 16:46:35.336 [info] Validating found git in: "git"
+2024-01-21 16:46:35.336 [info] Using git "2.43.0" from "git"
+2024-01-21 16:46:52.759 [info] Log level: Info
+2024-01-21 16:46:52.759 [info] Validating found git in: "git"
+2024-01-21 16:46:52.759 [info] Using git "2.43.0" from "git"
+2024-01-21 16:46:52.759 [info] > git rev-parse --show-toplevel [7ms]
+2024-01-21 16:46:52.789 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2024-01-21 16:46:52.800 [info] Open repository: /home/neutron/Documents/personalprojects/git/arch-installer
+2024-01-21 16:46:52.822 [info] > git config --get commit.template [16ms]
+2024-01-21 16:46:52.845 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-01-21 16:46:52.850 [warning] ENOENT: no such file or directory, open '/home/neutron/Documents/personalprojects/git/arch-installer/.git/refs/remotes/origin/main'
+2024-01-21 16:46:52.864 [info] > git rev-parse refs/remotes/origin/main [14ms]
+2024-01-21 16:46:52.923 [info] > git status -z -uall [52ms]
+2024-01-21 16:46:52.937 [info] > git config --get commit.template [5ms]
+2024-01-21 16:46:52.968 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2024-01-21 16:46:52.973 [warning] ENOENT: no such file or directory, open '/home/neutron/Documents/personalprojects/git/arch-installer/.git/refs/remotes/origin/main'
+2024-01-21 16:46:52.975 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-21 16:46:53.008 [info] > git fetch [208ms]
+2024-01-21 16:46:53.008 [info] From https://github.com/neutronplsr/arch-installer
+   c07b91b..5480823  main          -> origin/main
+ * [new branch]      refactor-hypr -> origin/refactor-hypr
+2024-01-21 16:46:53.014 [info] > git status -z -uall [35ms] (cancelled)
+2024-01-21 16:46:53.015 [info] > git config --get commit.template [1ms]
+2024-01-21 16:46:53.021 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-21 16:46:53.068 [info] > git status -z -uall [41ms]
+2024-01-21 16:46:53.329 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-21 16:46:54.119 [info] > git config --get commit.template [2ms]
+2024-01-21 16:46:54.125 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-21 16:46:54.174 [info] > git status -z -uall [44ms]
+2024-01-21 16:46:54.260 [info] > git show --textconv :livova-installer.sh [7ms]
+2024-01-21 16:46:54.261 [info] > git ls-files --stage -- /home/neutron/Documents/personalprojects/git/arch-installer/livova-installer.sh [3ms]
+2024-01-21 16:46:54.267 [info] > git cat-file -s 7ac8b12858e7913522fe7748e99e4c1d0c92df83 [1ms]

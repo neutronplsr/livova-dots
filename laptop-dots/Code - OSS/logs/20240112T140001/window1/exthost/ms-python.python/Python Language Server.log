@@ -1,0 +1,231 @@
+2024-01-12 14:17:14.146 [info] ERROR:pygls.protocol:Failed to handle request 1 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py'), range=233:0-234:0, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 549, in code_action
+    jedi_script = jedi_utils.script(server.project, document)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script
+    return Script(code=document.source, path=document.path, project=project)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__
+    self._inference_state = InferenceState(
+                            ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__
+    environment = project.get_environment()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment
+    self._environment = create_environment(self._environment_path, safe=False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment
+    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path
+    raise InvalidPythonEnvironment("%s seems to be missing." % python)
+jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+
+2024-01-12 14:17:14.172 [info] [Error - 2:17:14 PM] Request textDocument/codeAction failed.
+2024-01-12 14:17:14.172 [info]   Message: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+  Code: -32602 
+{'traceback': ['  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n                                ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 549, in code_action\n    jedi_script = jedi_utils.script(server.project, document)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script\n    return Script(code=document.source, path=document.path, project=project)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__\n    self._inference_state = InferenceState(\n                            ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__\n    environment = project.get_environment()\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment\n    self._environment = create_environment(self._environment_path, safe=False)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment\n    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path\n    raise InvalidPythonEnvironment("%s seems to be missing." % python)\n']}
+2024-01-12 14:17:14.325 [info] ERROR:pygls.protocol:Failed to handle request 2 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py'), range=233:0-234:0, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 549, in code_action
+    jedi_script = jedi_utils.script(server.project, document)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script
+    return Script(code=document.source, path=document.path, project=project)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__
+    self._inference_state = InferenceState(
+                            ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__
+    environment = project.get_environment()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment
+    self._environment = create_environment(self._environment_path, safe=False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment
+    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path
+    raise InvalidPythonEnvironment("%s seems to be missing." % python)
+jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+
+2024-01-12 14:17:14.326 [info] [Error - 2:17:14 PM] Request textDocument/codeAction failed.
+2024-01-12 14:17:14.326 [info]   Message: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+  Code: -32602 
+{'traceback': ['  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n                                ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 549, in code_action\n    jedi_script = jedi_utils.script(server.project, document)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script\n    return Script(code=document.source, path=document.path, project=project)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__\n    self._inference_state = InferenceState(\n                            ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__\n    environment = project.get_environment()\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment\n    self._environment = create_environment(self._environment_path, safe=False)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment\n    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path\n    raise InvalidPythonEnvironment("%s seems to be missing." % python)\n']}
+2024-01-12 14:17:14.330 [info] ERROR:pygls.protocol:Failed to handle request 3 textDocument/documentSymbol DocumentSymbolParams(text_document=TextDocumentIdentifier(uri='file:///home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py'), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 435, in document_symbol
+    jedi_script = jedi_utils.script(server.project, document)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script
+    return Script(code=document.source, path=document.path, project=project)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__
+    self._inference_state = InferenceState(
+                            ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__
+    environment = project.get_environment()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment
+    self._environment = create_environment(self._environment_path, safe=False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment
+    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path
+    raise InvalidPythonEnvironment("%s seems to be missing." % python)
+jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+
+2024-01-12 14:17:14.330 [info] [Error - 2:17:14 PM] Request textDocument/documentSymbol failed.
+2024-01-12 14:17:14.330 [info]   Message: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+  Code: -32602 
+{'traceback': ['  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n                                ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 435, in document_symbol\n    jedi_script = jedi_utils.script(server.project, document)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script\n    return Script(code=document.source, path=document.path, project=project)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__\n    self._inference_state = InferenceState(\n                            ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__\n    environment = project.get_environment()\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment\n    self._environment = create_environment(self._environment_path, safe=False)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment\n    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path\n    raise InvalidPythonEnvironment("%s seems to be missing." % python)\n']}
+2024-01-12 14:19:32.371 [info] ERROR:pygls.protocol:Failed to handle request 4 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='file:///home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py'), position=234:30, work_done_token=None)
+Traceback (most recent call last):
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 380, in hover
+    jedi_script = jedi_utils.script(server.project, document)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script
+    return Script(code=document.source, path=document.path, project=project)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__
+    self._inference_state = InferenceState(
+                            ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__
+    environment = project.get_environment()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment
+    self._environment = create_environment(self._environment_path, safe=False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment
+    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path
+    raise InvalidPythonEnvironment("%s seems to be missing." % python)
+jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+
+2024-01-12 14:19:32.373 [info] [Error - 2:19:32 PM] Request textDocument/hover failed.
+2024-01-12 14:19:32.373 [info]   Message: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+  Code: -32602 
+{'traceback': ['  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n                                ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 380, in hover\n    jedi_script = jedi_utils.script(server.project, document)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script\n    return Script(code=document.source, path=document.path, project=project)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__\n    self._inference_state = InferenceState(\n                            ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__\n    environment = project.get_environment()\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment\n    self._environment = create_environment(self._environment_path, safe=False)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment\n    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path\n    raise InvalidPythonEnvironment("%s seems to be missing." % python)\n']}
+2024-01-12 14:21:15.991 [info] ERROR:pygls.protocol:Failed to handle request 5 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='file:///home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py'), position=230:2, work_done_token=None)
+Traceback (most recent call last):
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 380, in hover
+    jedi_script = jedi_utils.script(server.project, document)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script
+    return Script(code=document.source, path=document.path, project=project)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__
+    self._inference_state = InferenceState(
+                            ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__
+    environment = project.get_environment()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment
+    self._environment = create_environment(self._environment_path, safe=False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment
+    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path
+    raise InvalidPythonEnvironment("%s seems to be missing." % python)
+jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+
+2024-01-12 14:21:15.993 [info] [Error - 2:21:15 PM] Request textDocument/hover failed.
+2024-01-12 14:21:15.993 [info]   Message: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+  Code: -32602 
+{'traceback': ['  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n                                ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 380, in hover\n    jedi_script = jedi_utils.script(server.project, document)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script\n    return Script(code=document.source, path=document.path, project=project)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__\n    self._inference_state = InferenceState(\n                            ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__\n    environment = project.get_environment()\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment\n    self._environment = create_environment(self._environment_path, safe=False)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment\n    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path\n    raise InvalidPythonEnvironment("%s seems to be missing." % python)\n']}
+2024-01-12 14:22:54.814 [info] ERROR:pygls.protocol:Failed to handle request 6 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='file:///home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py'), position=234:15, work_done_token=None)
+Traceback (most recent call last):
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 380, in hover
+    jedi_script = jedi_utils.script(server.project, document)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script
+    return Script(code=document.source, path=document.path, project=project)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__
+    self._inference_state = InferenceState(
+                            ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__
+    environment = project.get_environment()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment
+    self._environment = create_environment(self._environment_path, safe=False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment
+    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path
+    raise InvalidPythonEnvironment("%s seems to be missing." % python)
+jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+
+2024-01-12 14:22:54.815 [info] [Error - 2:22:54 PM] Request textDocument/hover failed.
+2024-01-12 14:22:54.815 [info]   Message: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+  Code: -32602 
+{'traceback': ['  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n                                ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 380, in hover\n    jedi_script = jedi_utils.script(server.project, document)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script\n    return Script(code=document.source, path=document.path, project=project)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__\n    self._inference_state = InferenceState(\n                            ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__\n    environment = project.get_environment()\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment\n    self._environment = create_environment(self._environment_path, safe=False)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment\n    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path\n    raise InvalidPythonEnvironment("%s seems to be missing." % python)\n']}
+2024-01-12 14:40:27.588 [info] ERROR:pygls.protocol:Failed to handle request 7 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='file:///home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py'), position=231:33, work_done_token=None)
+Traceback (most recent call last):
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 380, in hover
+    jedi_script = jedi_utils.script(server.project, document)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script
+    return Script(code=document.source, path=document.path, project=project)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__
+    self._inference_state = InferenceState(
+                            ^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__
+    environment = project.get_environment()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment
+    self._environment = create_environment(self._environment_path, safe=False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment
+    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path
+    raise InvalidPythonEnvironment("%s seems to be missing." % python)
+jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+
+2024-01-12 14:40:27.590 [info] [Error - 2:40:27 PM] Request textDocument/hover failed.
+2024-01-12 14:40:27.590 [info]   Message: jedi.api.environment.InvalidPythonEnvironment: bin/python seems to be missing.
+  Code: -32602 
+{'traceback': ['  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n                                ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 380, in hover\n    jedi_script = jedi_utils.script(server.project, document)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 118, in script\n    return Script(code=document.source, path=document.path, project=project)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 119, in __init__\n    self._inference_state = InferenceState(\n                            ^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/inference/__init__.py", line 87, in __init__\n    environment = project.get_environment()\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/project.py", line 245, in get_environment\n    self._environment = create_environment(self._environment_path, safe=False)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 367, in create_environment\n    return Environment(_get_executable_path(path, safe=safe), env_vars=env_vars)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal/pythonFiles/lib/jedilsp/jedi/api/environment.py", line 380, in _get_executable_path\n    raise InvalidPythonEnvironment("%s seems to be missing." % python)\n']}

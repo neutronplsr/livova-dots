@@ -1,0 +1,384 @@
+[2024-01-29 17:35:06.186] [2724217] (engine.cpp:523): Created native Engine, time: Mon Jan 29 17:35:06 2024 EST, logPath: /home/neutron/.config/discord/0.0.42/modules/discord_voice/, logLevel: 2
+[2024-01-29 17:35:06.189] [2724217] (audio_processing_impl.cc:295): Injected APM submodules:
+Echo control factory: 0
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2024-01-29 17:35:06.189] [2724217] (audio_processing_impl.cc:304): Denormal disabler: supported
+[2024-01-29 17:35:06.189] [2724217] (audio_processing_impl.cc:511): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, dry_run: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, vad_reset_period_ms: 1500, adjacent_speech_frames_threshold: 12, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50}}
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:66): AudioDeviceBuffer::ctor
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:143): current platform is Linux
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:162): CreatePlatformSpecificObjects
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:991): PlatformAudioLayer
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:298): PulseAudio support is enabled.
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:303): Linux PulseAudio APIs will be utilized
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:344): AttachAudioBuffer
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:183): SetRecordingSampleRate(0)
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:189): SetPlayoutSampleRate(0)
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:203): SetRecordingChannels(0)
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:209): SetPlayoutChannels(0)
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:354): ActiveAudioLayer
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:66): AudioDeviceBuffer::ctor
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:143): current platform is Linux
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:162): CreatePlatformSpecificObjects
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:991): PlatformAudioLayer
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:298): PulseAudio support is enabled.
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:303): Linux PulseAudio APIs will be utilized
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:344): AttachAudioBuffer
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:183): SetRecordingSampleRate(0)
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:189): SetPlayoutSampleRate(0)
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:203): SetRecordingChannels(0)
+[2024-01-29 17:35:06.189] [2724217] (audio_device_buffer.cc:209): SetPlayoutChannels(0)
+[2024-01-29 17:35:06.189] [2724217] (audio_processing_impl.cc:295): Injected APM submodules:
+Echo control factory: 0
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2024-01-29 17:35:06.189] [2724217] (audio_processing_impl.cc:304): Denormal disabler: supported
+[2024-01-29 17:35:06.189] [2724217] (audio_engine.cpp:400): Creating audio engine: standard
+[2024-01-29 17:35:06.189] [2724217] (audio_device_impl.cc:364): Init
+[2024-01-29 17:35:06.198] [2724217] (audio_device_impl.cc:364): Init
+[2024-01-29 17:35:06.207] [2724217] (audio_coding.cpp:149): Using software Opus decoder
+[2024-01-29 17:35:06.207] [2724217] (audio_coding.cpp:166): Using software Opus encoder
+[2024-01-29 17:35:06.207] [2724217] (audio_device_impl.cc:895): RegisterAudioCallback
+[2024-01-29 17:35:06.207] [2724217] (audio_device_impl.cc:547): SetMicrophoneVolume(100)
+[2024-01-29 17:35:06.207] [2724217] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-01-29 17:35:06.207] [2724217] (audio_device_impl.cc:895): RegisterAudioCallback
+[2024-01-29 17:35:06.207] [2724217] (audio_engine.cpp:151): Setting audio input device: 'default'
+[2024-01-29 17:35:06.207] [2724217] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-01-29 17:35:06.207] [2724217] (audio_device_buffer.cc:203): SetRecordingChannels(2)
+[2024-01-29 17:35:06.207] [2724217] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-01-29 17:35:06.208] [2724217] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-01-29 17:35:06.209] [2724217] (audio_device_impl.cc:573): output: 1
+[2024-01-29 17:35:06.209] [2724217] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-01-29 17:35:06.209] [2724217] (audio_device_buffer.cc:203): SetRecordingChannels(2)
+[2024-01-29 17:35:06.209] [2724217] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-01-29 17:35:06.209] [2724217] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-01-29 17:35:06.209] [2724217] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-01-29 17:35:06.209] [2724217] (audio_engine.cpp:168): Setting audio output device: 'default'
+[2024-01-29 17:35:06.209] [2724217] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-01-29 17:35:06.210] [2724217] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-01-29 17:35:06.211] [2724217] (audio_device_impl.cc:619): output: 1
+[2024-01-29 17:35:06.211] [2724217] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-01-29 17:35:06.211] [2724217] (audio_device_buffer.cc:209): SetPlayoutChannels(2)
+[2024-01-29 17:35:06.211] [2724217] (audio_device_impl.cc:911): BuiltInAECIsAvailable
+[2024-01-29 17:35:06.211] [2724217] (audio_device_generic.cc:32): BuiltInAECIsAvailable: Not supported on this platform
+[2024-01-29 17:35:06.211] [2724217] (audio_device_impl.cc:914): output: 0
+[2024-01-29 17:35:06.211] [2724217] (audio_processing_impl.cc:511): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, dry_run: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, vad_reset_period_ms: 1500, adjacent_speech_frames_threshold: 12, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50}}
+[2024-01-29 17:35:06.212] [2724217] (transparent_mode.cc:239): AEC3 Transparent Mode: Legacy
+[2024-01-29 17:35:06.212] [2724217] (echo_canceller3.cc:793): AEC3 created with sample rate: 16000 Hz, num render channels: 1, num capture channels: 1
+[2024-01-29 17:35:06.212] [2724217] (audio_processing_impl.cc:511): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, dry_run: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, vad_reset_period_ms: 1500, adjacent_speech_frames_threshold: 12, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50}}
+[2024-01-29 17:35:06.212] [2724217] (clipping_predictor.cc:357): [agc] Clipping prediction disabled.
+[2024-01-29 17:35:06.212] [2724217] (agc_manager_direct.cc:500): [agc] analog controller enabled: yes
+[2024-01-29 17:35:06.212] [2724217] (agc_manager_direct.cc:503): [agc] Min mic level: 12 (overridden: no)
+[2024-01-29 17:35:06.212] [2724217] (agc_manager_direct.cc:507): [agc] Startup min volume: 0
+[2024-01-29 17:35:06.212] [2724217] (captured_audio_processor.cpp:115): SetNoiseCancellation: 0
+[2024-01-29 17:35:06.212] [2724217] (audio_processing_impl.cc:511): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 1, level: High }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, dry_run: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, vad_reset_period_ms: 1500, adjacent_speech_frames_threshold: 12, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50}}
+[2024-01-29 17:35:06.213] [2724217] (field_trial.cc:141): Setting field trial string:WebRTC-Audio-NetEqDecisionLogicConfig/reinit_after_expands:100/
+[2024-01-29 17:35:06.486] [2724217] (audio_engine.cpp:151): Setting audio input device: 'Raptor Lake-P/U/H cAVS Digital Microphone'
+[2024-01-29 17:35:06.486] [2724217] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-01-29 17:35:06.486] [2724217] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-01-29 17:35:06.486] [2724217] (audio_device_buffer.cc:203): SetRecordingChannels(2)
+[2024-01-29 17:35:06.486] [2724217] (audio_device_impl.cc:788): SetRecordingDevice
+[2024-01-29 17:35:06.486] [2724217] (audio_device_generic.cc:67): SetRecordingDevice: Not supported on this platform
+[2024-01-29 17:35:06.488] [2723073] (discord.cpp:763): JS console: ["%c[default]","[BUILD INFO] Release Channel: stable, Build Number: 261973, Version Hash: 954e1a5f8dd2dcebf83c5177b0965788054d9563"]
+[2024-01-29 17:35:06.494] [2724217] (audio_device_impl.cc:776): SetRecordingDevice(2)
+[2024-01-29 17:35:06.495] [2724217] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-01-29 17:35:06.496] [2724217] (audio_device_impl.cc:573): output: 0
+[2024-01-29 17:35:06.496] [2724217] (audio_device_impl.cc:578): SetStereoRecording(0)
+[2024-01-29 17:35:06.496] [2724217] (audio_device_buffer.cc:203): SetRecordingChannels(1)
+[2024-01-29 17:35:06.496] [2724217] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-01-29 17:35:06.496] [2724217] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-01-29 17:35:06.496] [2724217] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-01-29 17:35:06.496] [2724217] (audio_engine.cpp:168): Setting audio output device: 'Soundcore Life Q20'
+[2024-01-29 17:35:06.496] [2724217] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-01-29 17:35:06.496] [2724217] (audio_device_impl.cc:720): SetPlayoutDevice
+[2024-01-29 17:35:06.496] [2724217] (audio_device_generic.cc:62): SetPlayoutDevice: Not supported on this platform
+[2024-01-29 17:35:06.503] [2724217] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-01-29 17:35:06.504] [2724217] (audio_device_impl.cc:619): output: 1
+[2024-01-29 17:35:06.504] [2724217] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-01-29 17:35:06.504] [2724217] (audio_device_buffer.cc:209): SetPlayoutChannels(2)
+[2024-01-29 17:35:06.504] [2724217] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-01-29 17:35:06.504] [2724217] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-01-29 17:35:06.504] [2724217] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-01-29 17:35:06.672] [2723073] (discord.cpp:763): JS console: ["%c[CloudSyncUtils]","CloudSync is not supported on this platform"]
+[2024-01-29 17:35:06.812] [2723073] (discord.cpp:763): JS console: ["%c[default]","[NATIVE INFO] host 0.0.42, modules: discord_desktop_core: 1, discord_utils: 1, discord_voice: 1, build: null"]
+[2024-01-29 17:35:06.934] [2724217] (audio_engine.cpp:151): Setting audio input device: 'Raptor Lake-P/U/H cAVS Digital Microphone'
+[2024-01-29 17:35:06.934] [2724217] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-01-29 17:35:06.934] [2724217] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-01-29 17:35:06.934] [2724217] (audio_device_buffer.cc:203): SetRecordingChannels(2)
+[2024-01-29 17:35:06.934] [2724217] (audio_device_impl.cc:788): SetRecordingDevice
+[2024-01-29 17:35:06.934] [2724217] (audio_device_generic.cc:67): SetRecordingDevice: Not supported on this platform
+[2024-01-29 17:35:06.941] [2724217] (audio_device_impl.cc:776): SetRecordingDevice(2)
+[2024-01-29 17:35:06.942] [2724217] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-01-29 17:35:06.944] [2724217] (audio_device_impl.cc:573): output: 0
+[2024-01-29 17:35:06.944] [2724217] (audio_device_impl.cc:578): SetStereoRecording(0)
+[2024-01-29 17:35:06.944] [2724217] (audio_device_buffer.cc:203): SetRecordingChannels(1)
+[2024-01-29 17:35:06.944] [2724217] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-01-29 17:35:06.944] [2724217] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-01-29 17:35:06.944] [2724217] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-01-29 17:35:06.944] [2724217] (audio_engine.cpp:168): Setting audio output device: 'default'
+[2024-01-29 17:35:06.944] [2724217] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-01-29 17:35:06.944] [2724217] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-01-29 17:35:06.945] [2724217] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-01-29 17:35:06.948] [2724217] (audio_device_impl.cc:619): output: 1
+[2024-01-29 17:35:06.948] [2724217] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-01-29 17:35:06.948] [2724217] (audio_device_buffer.cc:209): SetPlayoutChannels(2)
+[2024-01-29 17:35:06.950] [2723073] (discord.cpp:763): JS console: ["%c[Spellchecker]","sh is not a valid locale."]
+[2024-01-29 17:35:07.379] [2723073] (discord.cpp:763): JS console: ["%c[Spellchecker]","Switching to en-US","(available)"]
+[2024-01-29 17:35:08.313] [2723073] (discord.cpp:763): JS console: ["[DEPRECATED] Please use `subscribeWithSelector` middleware"]
+[2024-01-29 17:35:08.391] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: json, version: 9, compression: zlib-stream"]
+[2024-01-29 17:35:08.522] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=json&v=9&compress=zlib-stream in 131 ms"]
+[2024-01-29 17:35:08.647] [2723073] (discord.cpp:763): JS console: ["%c[RPCServer:WSS]","Starting on 6463"]
+[2024-01-29 17:35:08.652] [2723073] (discord.cpp:763): JS console: ["%c[RPCServer:IPC]","Starting on /run/user/1000/discord-ipc-0"]
+[2024-01-29 17:35:08.721] [2723073] (discord.cpp:763): JS console: ["Initializing krisp module"]
+[2024-01-29 17:35:09.745] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[READY] took 1353ms, as 7eaa8670bfb894a9d793930b6d57199f"]
+[2024-01-29 17:35:09.819] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching CONNECTION_OPEN"]
+[2024-01-29 17:35:09.822] [2723073] (discord.cpp:763): JS console: ["%c[DatabaseManager]","removing database (user: 927779497930031155, database: undefined)"]
+[2024-01-29 17:35:09.849] [2723073] (discord.cpp:763): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-01-29 17:35:09.874] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-01-29 17:35:09.877] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Added account: 1u2btkxi2vmsy0xock1mx648n"]
+[2024-01-29 17:35:09.939] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","Dispatched 1 messages in 194ms"]
+[2024-01-29 17:35:09.965] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 1574ms"]
+[2024-01-29 17:35:11.216] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","WS Connected"]
+[2024-01-29 17:35:11.392] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Devices updated for 1u2btkxi2vmsy0xock1mx648n:","[object Object]"]
+[2024-01-29 17:35:11.396] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Profile updated for 1u2btkxi2vmsy0xock1mx648n: isPremium = true"]
+[2024-01-29 17:35:15.317] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 17:35:24.838] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 17:35:32.657] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 17:35:43.715] [2759297] (region_latency_tester.cpp:72): Sending 5 latency test pings to region newark
+[2024-01-29 17:35:43.715] [2759297] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-east
+[2024-01-29 17:35:43.715] [2759297] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-central
+[2024-01-29 17:35:43.715] [2759297] (region_latency_tester.cpp:72): Sending 5 latency test pings to region atlanta
+[2024-01-29 17:35:43.715] [2759297] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-south
+[2024-01-29 17:35:43.764] [2759297] (region_latency_tester.cpp:271): Average RTT for region newark is 14
+[2024-01-29 17:35:43.764] [2759297] (region_latency_tester.cpp:271): Average RTT for region us-east is 18
+[2024-01-29 17:35:43.764] [2759297] (region_latency_tester.cpp:271): Average RTT for region us-central is 32
+[2024-01-29 17:35:43.764] [2759297] (region_latency_tester.cpp:271): Average RTT for region atlanta is 32
+[2024-01-29 17:35:43.764] [2759297] (region_latency_tester.cpp:271): Average RTT for region us-south is 50
+[2024-01-29 17:36:04.841] [2723073] (discord.cpp:763): JS console: ["%c[MessageActionCreators]","Fetching messages for 1014579024447676468 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-01-29 17:36:05.222] [2723073] (discord.cpp:763): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 1014579024447676468 isBefore:false isAfter:false"]
+[2024-01-29 17:36:09.539] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 17:36:18.149] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 17:36:54.005] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Requesting upload url for upload3"]
+[2024-01-29 17:36:54.007] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Requesting upload url for upload5"]
+[2024-01-29 17:36:54.007] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Requesting upload url for upload7"]
+[2024-01-29 17:36:54.007] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Requesting upload url for upload9"]
+[2024-01-29 17:36:54.349] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Uploading upload3"]
+[2024-01-29 17:36:54.569] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Uploading upload5"]
+[2024-01-29 17:36:54.574] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Upload complete for upload3"]
+[2024-01-29 17:36:54.743] [2723073] (discord.cpp:763): JS console: ["%c[CloudUploaderBase.tsx]","setUploadingTextForUI - total content: 19408 bytes and 4 attachments for Uploader11"]
+[2024-01-29 17:36:54.773] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Upload complete for upload5"]
+[2024-01-29 17:36:54.806] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Uploading upload7"]
+[2024-01-29 17:36:54.963] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Upload complete for upload7"]
+[2024-01-29 17:36:55.162] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Uploading upload9"]
+[2024-01-29 17:36:55.304] [2723073] (discord.cpp:763): JS console: ["%c[CloudUpload.tsx]","Upload complete for upload9"]
+[2024-01-29 17:36:56.291] [2723073] (discord.cpp:763): JS console: ["%c[UploaderBase.tsx]","_handleComplete for Uploader11"]
+[2024-01-29 17:36:56.574] [2723073] (discord.cpp:763): JS console: ["Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated."]
+[2024-01-29 17:36:56.574] [2723073] (discord.cpp:763): JS console: ["Deprecated as of 10.7.0. Please use highlight(code, options) instead.\nhttps://github.com/highlightjs/highlight.js/issues/2277"]
+[2024-01-29 17:37:19.960] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 17:37:24.593] [2723073] (discord.cpp:763): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:9081"]
+[2024-01-29 17:37:24.593] [2723073] (discord.cpp:763): JS console: ["%c[MessageQueue]","Draining message from queue LogId:9081 QueueLength: 0"]
+[2024-01-29 17:37:24.594] [2723073] (discord.cpp:763): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-01-29 17:37:24.818] [2723073] (discord.cpp:763): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:9081 QueueLength: 0"]
+[2024-01-29 17:37:37.581] [2723073] (discord.cpp:763): JS console: ["%c[discord_protos.discord_users.v1.PreloadedUserSettings]","Updating guildFolders with delay 20"]
+[2024-01-29 17:37:37.614] [2723073] (discord.cpp:763): JS console: ["%c[discord_protos.discord_users.v1.PreloadedUserSettings]","Scheduling save from markDirty"]
+[2024-01-29 17:37:38.448] [2723073] (discord.cpp:763): JS console: ["%c[MessageActionCreators]","Fetching messages for 1120400941179490354 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-01-29 17:37:38.496] [2723073] (discord.cpp:763): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/1042621398855729192/1120400941179490354"]
+[2024-01-29 17:37:38.740] [2723073] (discord.cpp:763): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 1120400941179490354 isBefore:false isAfter:false"]
+[2024-01-29 17:37:39.385] [2723073] (discord.cpp:763): JS console: ["%c[MessageActionCreators]","Fetching messages for 1076251614488297674 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-01-29 17:37:39.487] [2723073] (discord.cpp:763): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/1042621398855729192/1076251614488297674"]
+[2024-01-29 17:37:39.617] [2723073] (discord.cpp:763): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 1076251614488297674 isBefore:false isAfter:false"]
+[2024-01-29 17:37:42.821] [2723073] (discord.cpp:763): JS console: ["%c[ReadStateStore]","","Error: Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:27:41.630] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:27:41.663] [2723073] (discord.cpp:763): JS console: ["%c[ReadStateStore]","","Error: Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:27:45.568] [2723073] (discord.cpp:763): JS console: ["%c[discord_protos.discord_users.v1.PreloadedUserSettings]","Persisting proto"]
+[2024-01-29 19:27:45.713] [2723073] (discord.cpp:763): JS console: ["%c[discord_protos.discord_users.v1.PreloadedUserSettings]","Unknown user settings error"]
+[2024-01-29 19:27:45.743] [2723073] (discord.cpp:763): JS console: ["%c[ReadStateStore]","","[object Object]"]
+[2024-01-29 19:27:45.986] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 1006, ) retrying in 1.03 seconds."]
+[2024-01-29 19:27:47.022] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: json, version: 9, compression: zlib-stream"]
+[2024-01-29 19:27:47.135] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=json&v=9&compress=zlib-stream in 112 ms"]
+[2024-01-29 19:27:47.228] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[WS CLOSED] because of authentication failure, marking as closed."]
+[2024-01-29 19:27:47.228] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[RESET] (true, 4004, Authentication failed.)"]
+[2024-01-29 19:27:47.229] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-01-29 19:27:47.525] [2723073] (discord.cpp:763): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /login"]
+[2024-01-29 19:27:49.534] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:27:58.407] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:27:59.122] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 827ms"]
+[2024-01-29 19:27:59.950] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-01-29 19:28:00.174] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Removed account: 1u2btkxi2vmsy0xock1mx648n"]
+[2024-01-29 19:28:06.014] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:28:09.400] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:28:15.714] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:28:17.726] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:28:24.203] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:28:57.417] [2723073] (discord.cpp:763): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2"]
+[2024-01-29 19:28:57.572] [2723073] (discord.cpp:763): JS console: ["%c[LoginQRSocket]","[158ms] got hello, auth timeout=144360ms"]
+[2024-01-29 19:28:58.908] [2723073] (discord.cpp:763): JS console: ["%c[LoginQRSocket]","[1494ms] connected, handshaking with fingerprint: 4xMKGY7megaac55Wuzhq2KetoLI5oKIFQRNR5CWcbcg"]
+[2024-01-29 19:28:58.952] [2723073] (discord.cpp:763): JS console: ["%c[LoginQRSocket]","[1537ms] computed nonce proof"]
+[2024-01-29 19:28:59.034] [2723073] (discord.cpp:763): JS console: ["%c[LoginQRSocket]","[1620ms] handshake complete awaiting remote auth."]
+[2024-01-29 19:29:03.185] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching LOGIN"]
+[2024-01-29 19:29:04.572] [2723073] (discord.cpp:763): JS console: ["%c[LoginQRSocket]","[7158ms] cleaning up"]
+[2024-01-29 19:29:08.087] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:29:08.699] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching LOGIN_SUCCESS"]
+[2024-01-29 19:29:08.819] [2723073] (discord.cpp:763): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /app"]
+[2024-01-29 19:29:08.828] [2723073] (discord.cpp:763): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2"]
+[2024-01-29 19:29:08.911] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: json, version: 9, compression: zlib-stream"]
+[2024-01-29 19:29:08.917] [2723073] (discord.cpp:763): JS console: ["%c[LoginQRSocket]","[90ms] cleaning up"]
+[2024-01-29 19:29:09.011] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=json&v=9&compress=zlib-stream in 99 ms"]
+[2024-01-29 19:29:10.495] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[READY] took 1583ms, as 350415fb33ac73e2b7996fee2a749945"]
+[2024-01-29 19:29:10.740] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching CONNECTION_OPEN"]
+[2024-01-29 19:29:10.744] [2723073] (discord.cpp:763): JS console: ["%c[DatabaseManager]","removing database (user: 927779497930031155, database: undefined)"]
+[2024-01-29 19:29:10.830] [2723073] (discord.cpp:763): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-01-29 19:29:10.900] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-01-29 19:29:10.904] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Added account: 1u2btkxi2vmsy0xock1mx648n"]
+[2024-01-29 19:29:11.077] [2723073] (discord.cpp:763): JS console: ["%c[discord_protos.discord_users.v1.PreloadedUserSettings]","Scheduling save from offline edit"]
+[2024-01-29 19:29:11.087] [2723073] (discord.cpp:763): JS console: ["%c[MessageActionCreators]","Fetching messages for 1014579024447676468 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-01-29 19:29:11.111] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","Dispatched 1 messages in 615ms"]
+[2024-01-29 19:29:11.165] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 2253ms"]
+[2024-01-29 19:29:12.579] [2723073] (discord.cpp:763): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 1014579024447676468 isBefore:false isAfter:false"]
+[2024-01-29 19:29:13.193] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","Dispatched 13 messages in 193ms"]
+[2024-01-29 19:29:13.316] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","WS Connected"]
+[2024-01-29 19:29:13.798] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Profile updated for 1u2btkxi2vmsy0xock1mx648n: isPremium = true"]
+[2024-01-29 19:29:14.188] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Devices updated for 1u2btkxi2vmsy0xock1mx648n:",""]
+[2024-01-29 19:29:15.485] [2723073] (discord.cpp:763): JS console: ["%c[ComponentDispatchUtils]","ComponentDispatch.subscribe: Attempting to add a duplicate listener","POPOUT_CLOSE"]
+[2024-01-29 19:29:17.346] [2723073] (discord.cpp:763): JS console: ["%c[discord_protos.discord_users.v1.PreloadedUserSettings]","Persisting proto"]
+[2024-01-29 19:29:17.523] [2723073] (discord.cpp:763): JS console: ["%c[discord_protos.discord_users.v1.PreloadedUserSettings]","Proto was out of date, discarding changes"]
+[2024-01-29 19:29:19.228] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:29:26.548] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching LOGIN"]
+[2024-01-29 19:29:29.034] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:29:31.406] [2723073] (discord.cpp:763): JS console: ["%c[AuthenticationActionCreators]","Switching accounts","[object Object]"]
+[2024-01-29 19:29:31.406] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching LOGOUT"]
+[2024-01-29 19:29:31.412] [2723073] (discord.cpp:763): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-01-29 19:29:31.413] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","Closing connection, current state is SESSION_ESTABLISHED"]
+[2024-01-29 19:29:31.429] [2723073] (discord.cpp:763): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-01-29 19:29:31.433] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching LOGIN"]
+[2024-01-29 19:29:31.433] [2723073] (discord.cpp:763): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/@me"]
+[2024-01-29 19:29:31.473] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[RESET] (true, 1000, Disconnect requested by user)"]
+[2024-01-29 19:29:31.474] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-01-29 19:29:31.477] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching LOGIN_SUCCESS"]
+[2024-01-29 19:29:31.477] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: json, version: 9, compression: zlib-stream"]
+[2024-01-29 19:29:31.478] [2723073] (discord.cpp:763): JS console: ["%c[AuthenticationActionCreators]","Switched accounts finished","[object Object]"]
+[2024-01-29 19:29:31.488] [2723073] (discord.cpp:763): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /app"]
+[2024-01-29 19:29:31.544] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=json&v=9&compress=zlib-stream in 67 ms"]
+[2024-01-29 19:29:31.884] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[READY] took 407ms, as 6db01bfa3a0376270034d6d3271b15f4"]
+[2024-01-29 19:29:31.889] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching CONNECTION_OPEN"]
+[2024-01-29 19:29:31.890] [2723073] (discord.cpp:763): JS console: ["%c[DatabaseManager]","removing database (user: 1081002358097596498, database: undefined)"]
+[2024-01-29 19:29:31.893] [2723073] (discord.cpp:763): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-01-29 19:29:31.894] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Removed account: 1u2btkxi2vmsy0xock1mx648n"]
+[2024-01-29 19:29:31.902] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 425ms"]
+[2024-01-29 19:29:32.293] [2903734] (region_latency_tester.cpp:72): Sending 5 latency test pings to region newark
+[2024-01-29 19:29:32.293] [2903734] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-east
+[2024-01-29 19:29:32.293] [2903734] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-central
+[2024-01-29 19:29:32.293] [2903734] (region_latency_tester.cpp:72): Sending 5 latency test pings to region atlanta
+[2024-01-29 19:29:32.293] [2903734] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-south
+[2024-01-29 19:29:32.339] [2903734] (region_latency_tester.cpp:271): Average RTT for region newark is 10
+[2024-01-29 19:29:32.339] [2903734] (region_latency_tester.cpp:271): Average RTT for region us-east is 15.25
+[2024-01-29 19:29:32.339] [2903734] (region_latency_tester.cpp:271): Average RTT for region us-central is 31
+[2024-01-29 19:29:32.339] [2903734] (region_latency_tester.cpp:271): Average RTT for region atlanta is 30
+[2024-01-29 19:29:32.339] [2903734] (region_latency_tester.cpp:271): Average RTT for region us-south is 45
+[2024-01-29 19:29:33.359] [2723073] (discord.cpp:763): JS console: ["[AnalyticsTrackingStore] Track:","Request has been terminated\nPossible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc."]
+[2024-01-29 19:29:34.412] [2723073] (discord.cpp:763): JS console: ["%c[ComponentDispatchUtils]","ComponentDispatch.subscribe: Attempting to add a duplicate listener","POPOUT_CLOSE"]
+[2024-01-29 19:29:35.860] [2723073] (discord.cpp:763): JS console: ["%c[MultiAccountActionCreators]","Switching account to 927779497930031155","[object Object]"]
+[2024-01-29 19:29:35.860] [2723073] (discord.cpp:763): JS console: ["%c[AuthenticationActionCreators]","Switching accounts","[object Object]"]
+[2024-01-29 19:29:35.860] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching LOGOUT"]
+[2024-01-29 19:29:35.862] [2723073] (discord.cpp:763): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-01-29 19:29:35.862] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","Closing connection, current state is SESSION_ESTABLISHED"]
+[2024-01-29 19:29:35.863] [2723073] (discord.cpp:763): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-01-29 19:29:35.868] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching LOGIN"]
+[2024-01-29 19:29:35.868] [2723073] (discord.cpp:763): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/@me"]
+[2024-01-29 19:29:35.892] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[RESET] (true, 1000, Disconnect requested by user)"]
+[2024-01-29 19:29:35.893] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-01-29 19:29:35.895] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching LOGIN_SUCCESS"]
+[2024-01-29 19:29:35.896] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: json, version: 9, compression: zlib-stream"]
+[2024-01-29 19:29:35.896] [2723073] (discord.cpp:763): JS console: ["%c[AuthenticationActionCreators]","Switched accounts finished","[object Object]"]
+[2024-01-29 19:29:35.963] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=json&v=9&compress=zlib-stream in 67 ms"]
+[2024-01-29 19:29:36.782] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[READY] took 886ms, as 4a86c77e93a98b801d359e5d9d1fa96a"]
+[2024-01-29 19:29:36.808] [2723073] (discord.cpp:763): JS console: ["%c[Flux]","Dispatching CONNECTION_OPEN"]
+[2024-01-29 19:29:36.809] [2723073] (discord.cpp:763): JS console: ["%c[DatabaseManager]","removing database (user: 927779497930031155, database: undefined)"]
+[2024-01-29 19:29:36.819] [2723073] (discord.cpp:763): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-01-29 19:29:36.825] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-01-29 19:29:36.825] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Added account: 1u2btkxi2vmsy0xock1mx648n"]
+[2024-01-29 19:29:36.932] [2723073] (discord.cpp:763): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 1036ms"]
+[2024-01-29 19:29:37.293] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","WS Connected"]
+[2024-01-29 19:29:37.367] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Devices updated for 1u2btkxi2vmsy0xock1mx648n:",""]
+[2024-01-29 19:29:37.370] [2723073] (discord.cpp:763): JS console: ["%c[Spotify]","Profile updated for 1u2btkxi2vmsy0xock1mx648n: isPremium = true"]
+[2024-01-29 19:29:39.820] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.821] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]
+[2024-01-29 19:29:39.822] [2723073] (discord.cpp:763): JS console: ["Window state not initialized","window-1"]

@@ -1,0 +1,103 @@
+Expand the following:
+sqrt((-x + 1)^2 + (y^2 - 3 x + 2)^2 + (4 (-z + x) + 1)^2)
+
+Hint: | Distribute 4 over -z + x.
+4 (-z + x) = 4 (-z) + 4 x:
+sqrt((-x + 1)^2 + (y^2 - 3 x + 2)^2 + ((-4 z + 4 x) + 1)^2)
+
+Hint: | Expand (-x + 1)^2 with FOIL.
+(-x + 1) (-x + 1) = (1) (1) + (1) (-x) + (-x) (1) + (-x) (-x) = 1 - x - x + x^2 = x^2 - 2 x + 1:
+sqrt((x^2 - 2 x + 1) + (y^2 - 3 x + 2)^2 + (-4 z + 4 x + 1)^2)
+
+Hint: | Treating (y^2 - 3 x + 2)^2 as the binomial ((-3 x + 2) + y^2)^2, expand using FOIL.
+((-3 x + 2) + y^2) ((-3 x + 2) + y^2) | 
+ = | (-3 x + 2) (-3 x + 2) + (-3 x + 2) (y^2) + (y^2) (-3 x + 2) + (y^2) (y^2)
+ = | (-3 x + 2)^2 + ((-3 x + 2) y^2) + (y^2 (-3 x + 2)) + (y^2)^2
+ = | (-3 x + 2)^2 + 2 ((-3 x + 2) y^2) + (y^2)^2 invisible comma 
+sqrt(1 - 2 x + x^2 + ((-3 x + 2)^2 + 2 y^2 (-3 x + 2) + (y^2)^2) + (-4 z + 4 x + 1)^2)
+
+Hint: | Expand (-3 x + 2)^2 with FOIL.
+(-3 x + 2) (-3 x + 2) = (2) (2) + (2) (-3 x) + (-3 x) (2) + (-3 x) (-3 x) = 4 - 6 x - 6 x + 9 x^2 = 9 x^2 - 12 x + 4:
+sqrt(1 - 2 x + x^2 + (9 x^2 - 12 x + 4) + 2 y^2 (-3 x + 2) + (y^2)^2 + (-4 z + 4 x + 1)^2)
+
+Hint: | Distribute 2 y^2 over -3 x + 2.
+2 y^2 (-3 x + 2) = 2 y^2 (-3 x) + 2 y^2 2:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + (-3 2 y^2 x + 2 2 y^2) + (y^2)^2 + (-4 z + 4 x + 1)^2)
+
+Hint: | Multiply 2 and 2 together.
+2×2 = 4:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 3×2 y^2 x + (y^2)^2 + (-4 z + 4 x + 1)^2)
+INTERMEDIATE STEPS:
+Do the following multiplication:
+2 2
+Hint: | Write the multiplication problem as an addition problem.
+Multiplying 2 and 2 is the same as adding 2 copies of 2:
+2 2 = 2 + 2
+Hint: | Evaluate 2 + 2.
+2 + 2 = 4:
+Answer: | 
+ | 4 | 
+
+Hint: | Multiply 2 and -3 together.
+2 (-3) = -6:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 + -6 y^2 x + (y^2)^2 + (-4 z + 4 x + 1)^2)
+
+Hint: | For all positive integer exponents (a^n)^m = a^(m n). Apply this to (y^2)^2.
+Multiply exponents. (y^2)^2 = y^(2×2):
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^(2×2) + (-4 z + 4 x + 1)^2)
+
+Hint: | Multiply 2 and 2 together.
+2×2 = 4:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + (-4 z + 4 x + 1)^2)
+
+Hint: | Treating (-4 z + 4 x + 1)^2 as the binomial ((4 x + 1) - 4 z)^2, expand using FOIL.
+((4 x + 1) - 4 z) ((4 x + 1) - 4 z) | 
+ = | (4 x + 1) (4 x + 1) + (4 x + 1) (-4 z) + (-4 z) (4 x + 1) + (-4 z) (-4 z)
+ = | (4 x + 1)^2 + ((4 x + 1) (-4 z)) + (-4 z (4 x + 1)) + (-4 z)^2
+ = | (4 x + 1)^2 + 2 ((4 x + 1) (-4 z)) + (-4 z)^2 invisible comma 
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + ((4 x + 1)^2 - 4×2 z (4 x + 1) + (-4 z)^2))
+
+Hint: | Expand (4 x + 1)^2 with FOIL.
+(4 x + 1) (4 x + 1) = (4 x) (4 x) + (4 x) (1) + (1) (4 x) + (1) (1) = 16 x^2 + 4 x + 4 x + 1 = 16 x^2 + 8 x + 1:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + (16 x^2 + 8 x + 1) - 4×2 z (4 x + 1) + (-4 z)^2)
+
+Hint: | Multiply 2 and -4 together.
+2 (-4) = -8:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + 1 + 8 x + 16 x^2 + -8 z (4 x + 1) + (-4 z)^2)
+
+Hint: | Distribute -8 z over 4 x + 1.
+-8 z (4 x + 1) = -8 z (4 x) - 8 z:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + 1 + 8 x + 16 x^2 + (-8 4 z x - 8 z) + (-4 z)^2)
+
+Hint: | Multiply -8 and 4 together.
+-8×4 = -32:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + 1 + 8 x + 16 x^2 - 8 z + -32 z x + (-4 z)^2)
+
+Hint: | Distribute exponents over products in (-4 z)^2.
+Multiply each exponent in -4 z by 2:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + 1 + 8 x + 16 x^2 - 8 z - 32 z x + (-4)^2 z^2)
+
+Hint: | n^2 represents n x n.
+(-4)^2 = -4 (-4):
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + 1 + 8 x + 16 x^2 - 8 z - 32 z x - 4 (-4) z^2)
+
+Hint: | Multiply -4 and -4 together.
+-4 (-4) = 16:
+sqrt(1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + 1 + 8 x + 16 x^2 - 8 z - 32 z x + 16 z^2)
+
+Hint: | Group like terms in 1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + 1 + 8 x + 16 x^2 - 8 z - 32 z x + 16 z^2.
+Grouping like terms, 1 - 2 x + x^2 + 4 - 12 x + 9 x^2 + 4 y^2 - 6 y^2 x + y^4 + 1 + 8 x + 16 x^2 - 8 z - 32 z x + 16 z^2 = 16 z^2 - 32 x z - 8 z + y^4 - 6 x y^2 + 4 y^2 + (x^2 + 9 x^2 + 16 x^2) + (-2 x - 12 x + 8 x) + (1 + 4 + 1):
+sqrt((16 z^2 - 32 x z - 8 z + y^4 - 6 x y^2 + 4 y^2 + (x^2 + 9 x^2 + 16 x^2) + (-2 x - 12 x + 8 x) + (1 + 4 + 1)))
+
+Hint: | Add like terms in x^2 + 9 x^2 + 16 x^2.
+x^2 + 9 x^2 + 16 x^2 = 26 x^2:
+sqrt(16 z^2 - 32 x z - 8 z + y^4 - 6 x y^2 + 4 y^2 + 26 x^2 + (-2 x - 12 x + 8 x) + (1 + 4 + 1))
+
+Hint: | Combine like terms in -2 x - 12 x + 8 x.
+-2 x - 12 x + 8 x = -6 x:
+sqrt(16 z^2 - 32 x z - 8 z + y^4 - 6 x y^2 + 4 y^2 + 26 x^2 + -6 x + (1 + 4 + 1))
+
+Hint: | Evaluate 1 + 4 + 1.
+1 + 4 + 1 = 6:
+Answer: | 
+ | sqrt(16 z^2 - 32 x z - 8 z + y^4 - 6 x y^2 + 4 y^2 + 26 x^2 - 6 x + 6)

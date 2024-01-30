@@ -1,0 +1,22 @@
+2024/01/29-17:35:01.508 29827e Reusing MANIFEST /home/neutron/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/01/29-17:35:01.510 29827e Recovering log #6591
+2024/01/29-17:35:01.510 29827e Reusing old log /home/neutron/.config/discord/Local Storage/leveldb/006591.log 
+2024/01/29-17:36:04.968 298eb0 Level-0 table #6595: started
+2024/01/29-17:36:04.974 298eb0 Level-0 table #6595: 43160 bytes OK
+2024/01/29-17:36:04.977 298eb0 Delete type=0 #6591
+2024/01/29-17:36:04.977 298eb0 Compacting 4@0 + 2@1 files
+2024/01/29-17:36:04.988 298eb0 Generated table #6596@0: 86 keys, 2102839 bytes
+2024/01/29-17:36:04.998 298eb0 Generated table #6597@0: 36 keys, 2060147 bytes
+2024/01/29-17:36:04.998 298eb0 Compacted 4@0 + 2@1 files => 4162986 bytes
+2024/01/29-17:36:04.999 298eb0 compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/01/29-17:36:04.999 298eb0 Delete type=2 #6592
+2024/01/29-17:36:05.000 298eb0 Delete type=2 #6590
+2024/01/29-17:36:05.000 298eb0 Delete type=2 #6595
+2024/01/29-17:36:05.000 298eb0 Delete type=2 #6585
+2024/01/29-17:36:05.000 298eb0 Delete type=2 #6588
+2024/01/29-17:36:05.000 298eb0 Delete type=2 #6586
+2024/01/29-19:28:42.653 2b1d8d Level-0 table #6599: started
+2024/01/29-19:28:42.745 2b1d8d Level-0 table #6599: 2828894 bytes OK
+2024/01/29-19:28:42.750 2b1d8d Delete type=0 #6594
+2024/01/29-19:29:39.829 2b1d8d Level-0 table #6601: started
+2024/01/29-19:29:39.833 2b1d8d Level-0 table #6601: 63765 bytes OK

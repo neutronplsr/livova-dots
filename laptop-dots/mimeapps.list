@@ -1,0 +1,16 @@
+[Default Applications]
+text/x-tex=org.gnome.gedit.desktop
+text/plain=org.gnome.gedit.desktop
+application/x-desktop=org.gnome.gedit.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-AGKTF2.desktop
+message/rfc822=userapp-Thunderbird-AGKTF2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-AGKTF2.desktop
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop
+
+[Added Associations]
+text/x-tex=org.gnome.gedit.desktop;
+text/plain=micro.desktop;org.gnome.gedit.desktop;
+application/x-desktop=micro.desktop;org.gnome.gedit.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-AGKTF2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-AGKTF2.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;

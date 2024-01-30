@@ -1,0 +1,7 @@
+2023/12/31-18:46:13.972 a0ef3 Reusing MANIFEST /home/neutron/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/31-18:46:13.972 a0ef3 Recovering log #3
+2023/12/31-18:46:13.972 a0ef3 Reusing old log /home/neutron/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2023/12/31-19:23:13.017 a0ef3 Level-0 table #5: started
+2023/12/31-19:23:13.020 a0ef3 Level-0 table #5: 32005 bytes OK
+2023/12/31-19:23:13.022 a0ef3 Delete type=0 #3
+2023/12/31-19:23:13.022 a0ef3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

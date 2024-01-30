@@ -1,0 +1,69 @@
+2024-01-11 13:06:52.821 [info] Extension host with pid 258730 started
+2024-01-11 13:06:52.821 [info] Skipping acquiring lock for /home/neutron/.config/Code - OSS/User/workspaceStorage/8c39811a2dd1f9b192e0d838bac7edb9.
+2024-01-11 13:06:52.868 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-11 13:06:52.899 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-01-11 13:06:53.339 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-11 13:06:53.348 [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+2024-01-11 13:06:53.603 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-11 13:06:53.617 [info] Eager extensions activated
+2024-01-11 13:06:53.619 [info] Extension host with pid 258730 exiting with code 0
+2024-01-11 13:06:53.621 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2024-01-11 13:06:53.621 [error] Canceled: Canceled
+	at new g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+	at l.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+	at P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+	at f.db (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:10129)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7324)
+	at u.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6268)
+	at u.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6229)
+	at u.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5686)
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5613)
+	at S.k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5166)
+	at S.j (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5121)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:4088
+	at Array.map (<anonymous>)
+	at S.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:4076)
+	at S.activateById (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:3988)
+	at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:8604)
+	at f.jb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:13447)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:14124
+2024-01-11 13:06:53.621 [error] Activating extension vscode.merge-conflict failed due to an error:
+2024-01-11 13:06:53.621 [error] Canceled: Canceled
+	at new g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+	at l.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+	at P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+	at f.db (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:10129)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7324)
+	at u.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6268)
+	at u.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6229)
+	at u.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5686)
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5613)
+	at S.k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5166)
+	at S.j (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5121)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:4088
+	at Array.map (<anonymous>)
+	at S.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:4076)
+	at S.activateById (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:3988)
+	at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:8604)
+	at f.jb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:13447)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:14124
+2024-01-11 13:06:53.622 [error] Activating extension Catppuccin.catppuccin-vsc failed due to an error:
+2024-01-11 13:06:53.622 [error] Canceled: Canceled
+	at new g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+	at l.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+	at P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+	at f.db (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:10129)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7324)
+	at u.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6268)
+	at u.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6229)
+	at u.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5686)
+	at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5613)
+	at S.k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5166)
+	at S.j (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5121)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:4088
+	at Array.map (<anonymous>)
+	at S.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:4076)
+	at S.activateById (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:3988)
+	at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:8604)
+	at f.jb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:13447)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:14124

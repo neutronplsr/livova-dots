@@ -1,0 +1,92 @@
+2024-01-12 14:00:07.377 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-01-12 14:00:07.385 [info] Getting Manifest... ms-python.python
+2024-01-12 14:00:07.387 [info] Getting Manifest... muhammad-sammy.csharp
+2024-01-12 14:00:07.929 [info] Installing extension: catppuccin.catppuccin-vsc
+2024-01-12 14:00:08.119 [info] Installing extension: ms-python.python
+2024-01-12 14:00:08.296 [info] Installing extension: muhammad-sammy.csharp
+2024-01-12 14:00:08.449 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-01-12 14:00:08.578 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc
+2024-01-12 14:00:08.673 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.11.0-universal: catppuccin.catppuccin-vsc
+2024-01-12 14:00:08.678 [info] Renamed to /home/neutron/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.11.0-universal
+2024-01-12 14:00:08.681 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2024-01-12 14:00:08.697 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2024-01-12 14:00:08.703 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-3.10.1-universal
+2024-01-12 14:00:08.775 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-12 14:00:23.101 [info] Extension signature verification is not done: ms-python.python
+2024-01-12 14:00:25.523 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal: ms-python.python
+2024-01-12 14:00:25.534 [info] Renamed to /home/neutron/.vscode-oss/extensions/ms-python.python-2023.22.1-universal
+2024-01-12 14:00:25.541 [info] Extracting extension completed. ms-python.python
+2024-01-12 14:00:25.558 [info] Extension installed successfully: ms-python.python
+2024-01-12 14:00:25.573 [info] Marked extension as uninstalled ms-python.python-2023.20.0-universal
+2024-01-12 14:00:25.637 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-12 14:00:37.650 [info] Extension signature verification is not done: muhammad-sammy.csharp
+2024-01-12 14:00:39.567 [info] Extracted extension to file:///home/neutron/.vscode-oss/extensions/muhammad-sammy.csharp-2.15.30-universal: muhammad-sammy.csharp
+2024-01-12 14:00:39.589 [info] Renamed to /home/neutron/.vscode-oss/extensions/muhammad-sammy.csharp-2.15.30-universal
+2024-01-12 14:00:39.601 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:00:39.602 [info] Extracting extension completed. muhammad-sammy.csharp
+2024-01-12 14:00:39.618 [info] Extension installed successfully: muhammad-sammy.csharp
+2024-01-12 14:00:39.629 [info] Marked extension as uninstalled muhammad-sammy.csharp-2.14.9-universal
+2024-01-12 14:00:39.693 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/neutron/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-12 14:05:06.226 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:10:06.905 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:15:06.936 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:08.807 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:08.831 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:08.835 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:11.970 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:12.036 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:12.058 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:12.450 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:12.498 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:12.682 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:12.719 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:12.754 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:14.422 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:17:14.483 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:22:14.565 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:27:14.598 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:32:14.640 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:37:14.677 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:42:14.712 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:47:14.747 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:52:14.780 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 14:57:14.813 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:02:14.846 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:07:14.878 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:12:14.911 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:17:14.945 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:22:14.979 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:27:15.014 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:32:15.047 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:37:15.075 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:42:15.108 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:47:15.144 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 15:52:15.179 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:05:06.916 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:10:06.948 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:15:06.983 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:20:07.015 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:25:07.053 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:30:07.095 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:35:07.129 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:40:07.164 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:45:07.195 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-12 16:50:07.228 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.

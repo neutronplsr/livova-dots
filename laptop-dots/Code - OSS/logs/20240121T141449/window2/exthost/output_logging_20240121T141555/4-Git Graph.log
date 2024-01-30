@@ -1,0 +1,9 @@
+[2024-01-21 14:15:59.318] Starting Git Graph ...
+[2024-01-21 14:15:59.342] Using git (version: 2.43.0)
+[2024-01-21 14:15:59.350] Started Git Graph - Ready to use!
+[2024-01-21 14:15:59.351] Searching workspace for new repos ...
+[2024-01-21 14:15:59.359] > git rev-parse --show-toplevel
+[2024-01-21 14:15:59.372] Added new repo: /home/neutron/Documents/personalprojects/git/new-arch-install/arch-installer
+[2024-01-21 14:15:59.379] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2024-01-21 14:15:59.427] Completed searching workspace for new repos
+[2024-01-21 14:15:59.427] Showing "Git Graph" Status Bar Item

@@ -1,0 +1,3412 @@
+pavucontrol
+cd .config/
+sudo nano autostart.sh
+ls
+cd qtile/
+nano autostart.sh
+chmod +x autostart.sh
+sudo nano config.py
+cd
+paru -S bluez bluez-utils
+systemctl enable bluetooth
+sudo nano ~/.config/qtile/config.py
+~/.config/qtile/autostart.sh
+sudo nano ~/.config/qtile/config.py
+cd ~/.config/qtile/
+ls
+chmod +x autostart.sh
+sudo nano ~/.config/qtile/config.py
+networkctl 
+wget
+ping google.com
+paru firefox
+networkctl --help
+networkctl list
+paru wget
+paru network manager tui
+paru network manager 
+nm-online 
+paru nm-applet
+paru nmcli
+nmcli 
+paru netcl
+paru networkmanager
+paru nm-applet
+networkctl help
+networkctl --help
+paru network manager applet
+nm-applet 
+clear
+exit
+nm-applet 
+killall nm-applet && nm-applet --indicator
+killall nm-applet and nm-applet --indicator
+nm-applet 
+nm-applet -l
+nm-connection-editor 
+pacman -Syy
+ping google.com
+ping google.comm
+ping google.com
+pavucontrol 
+bluetoothctl 
+exit
+shutdown
+shutdown -c
+nano ~/.config/qtile/config.py
+rofi
+rofi -show window
+rofi -show 
+rofi -help
+rofi --help
+pru obsidian
+paru obsidian
+rofi -help
+rofi -show 
+rofi -show apps
+rofi -show run
+nano ~/.config/qtile/config.py
+nm-applet 
+fire
+firefox
+nmtui
+xinput
+xinput list-props Touchpad
+xinput list-props 11
+xinput set-prop 
+xinput set-prop 11 323 1
+sudo xinput set-prop 11 323 1
+sudo xinput set-prop 11 
+sudo xinput set-prop 11 322 1
+sudo xinput set-prop 11 323 1
+sudo su
+paru -S libinput
+sudo libinput list-devices
+nano /etc/X11/xorg.conf.d/
+nano /etc/X11/xorg.conf.d/40-libinpupt.conf
+sudo nano /etc/X11/xorg.conf.d/40-libinpupt.conf
+nmtui 
+paru blueman
+blueman
+blueman-applet 
+sudo blueman-applet 
+blueman-services 
+blueman-tray 
+blueman-manager 
+nano ~/.config/qtile/autostart.sh
+ls
+ls -a
+cd .config/
+ls
+cd ..
+mkdir polybar-scripts
+mkdir .config/polybar
+mv /etc/polybar/config.ini .config/polybar/
+sudo mv /etc/polybar/config.ini .config/polybar/
+nano ~/.config/polybar/config.ini
+sudo nano ~/.config/polybar/config.ini
+pkill polybar
+polybar
+sudo nano ~/.config/polybar/config.ini
+polybar
+sudo nano ~/.config/polybar/config.ini
+polybar
+sudo nano ~/.config/polybar/config.ini
+polybar
+sudo nano ~/.config/polybar/config.ini
+polybar
+mv ~/Downloads/95-battery.rules /etc/udev/rules.d/95-battrey.rules
+sudo mv ~/Downloads/95-battery.rules /etc/udev/rules.d/95-battrey.rules
+sudo mv ~/Downloads/battery-combined-udev.sh ~/polybar-scripts/
+sudo nano ~/.config/polybar/config.ini
+polybar
+sudo nano /etc/udev/rules.d/95-battrey.rules
+polybar
+sudo nano /etc/udev/rules.d/95-battrey.rules
+cd polybar-scripts/
+ls
+cd ..
+sudo nano /etc/udev/rules.d/95-battrey.rules
+sudo nano ~/.config/polybar/config.ini
+sudo nano ~/polybar-scripts/battery-combined-udev.sh
+chmod +x polybar-scripts/battery-combined-udev.sh
+pkill polybar-scripts/
+pkill polybar
+polybar
+sudo nano ~/polybar-scripts/battery-combined-udev.sh
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+polybar
+polybar --cofnig=/home/neutron/.config/polybar/config.ini
+polybar -c=/home/neutron/.config/polybar/config.ini
+polybar --help
+polybar -c /home/neutron/.config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+ls -1 /sys/class/power_supply/
+ls /sys/class/power_supply/
+sudo nano .config/polybar/config.ini
+polybar 
+sudo nano .config/polybar/config.ini
+polybar 
+sudo nano .config/polybar/config.ini
+polybar
+cd polybar-scripts/
+ls
+chmod +x battery-combined-udev.sh
+sudo nano /etc/udev/rules.d/95-battery.rules
+cd ..
+polybar 
+sudo nano /etc/udev/rules.d/95-battery.rules
+sudo nano .config/polybar/config.ini
+polybar 
+sudo nano .config/polybar/config.ini
+sudo nano polybar-scripts/battery-combined-udev.sh
+nano polybar-scripts/battery-combined-udev.sh
+polybar 
+paru unzip
+unzip Downloads/FiraCode.zip -d Downloads/fonts
+cd Downloads/
+ls
+cd fonts/
+ls
+mv * /usr/share/fonts/
+sudo mv * /usr/share/fonts/
+ls
+cd ..
+sudo fc-cache -f -v
+ls /usr/share/fonts/
+fc-list | grep "Fira"
+cd
+sudo nano .config/polybar/config.ini
+sudo nano polybar-scripts/battery-combined-udev.sh
+paru gucharmap
+gucharmap 
+paru fonts-recommended
+sudo pacman -S ttf-dejavu ttf-liberation noto-fonts
+sudo fc-cache -f -v
+paru  xorg-fonts-100dpi<\n><\n>xorg-fonts-75dpi<\n><\n>xorg-fonts-alias-100dpi<\n><\n>xorg-fonts-alias-75dpi 
+paru  xorg-fonts-75dpi 
+paru  xorg-fonts-alias-100dpi 
+paru   xorg-fonts-alias-75dpi 
+sudo fc-cache -f -v
+paru noto-fonts-emoji
+paru noto-fonts-cjk
+paru ttf-dejavu 
+sudo fc-cache -f -v
+paru icon-theme
+paru gnu-unifont
+polybar
+sudo nano .config/polybar/config.ini
+pkill poly
+polybar
+fc-list
+fc-list | grep "Fira"
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+polybar
+$ git clone https://github.com/lr-tech/rofi-themes-collection.git<\n>$ cd rofi-themes-collection
+git clone https://github.com/lr-tech/rofi-themes-collection.git<\n>cd rofi-themes-collection
+$ mkdir -p ~/.local/share/rofi/themes/
+mv themes/* ~/.local/share/rofi/themes/
+ls
+cd themes/
+ls
+cd
+obsidian 
+firefox
+obsidian 
+sudo pacman -S --needed  --noconfirm os-prober git wget linux-tools-meta gdu reflector tlp bzip2 gzip lrzip lz4 lzip lzop xz zstd p7zip zip unzip unrar unarchiver xarchiver blueman nano pipewire blueman less
+paru  -Sy --needed  --noconfirm firefox libreoffice  obsidian syncthing mullvad-vpn  code-oss chrome spotify anaconda steam  stellarium bitwarden  thunderbird lutris betterdiscordctl openasar discord 
+firefox
+paru vs code
+paru mullvad-vpn
+gsettings set org.gnome.desktop.interface gtk-theme Adwaita
+firefox
+nano /etc/X11/xorg.conf.d/40-libinpupt.conf
+sudo nano /etc/X11/xorg.conf.d/40-libinpupt.conf
+nano .config/polybar/config.ini
+pkill poly
+nano .config/polybar/config.ini
+sudo nano .config/polybar/config.ini
+rofi --help
+rofi --show windows
+rofi --show window
+rofi -show window
+nano .config/qtile/config.py
+paru
+config nu 
+$env.config.buffer_editor=nano
+$env.config.buffer_editor
+config nu 
+$nu.config-path
+sudo nano /home/neutron/.config/nushell/config.nu
+config nu 
+sudo nano /home/neutron/.config/nushell/config.nu
+pru
+sudo nano /home/neutron/.config/nushell/config.nu
+pru
+nano .config/qtile/config.py
+xev
+nano .config/qtile/config.py
+xrandr 
+pru brightnessctl
+brightnessctl set 10%-
+brightnessctl set 10%+
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f reload_config
+qtile cmd-obj -o cmd -f restart
+exit
+nano .config/qtile/config.py
+xev
+exit
+nano .config/qtile/config.py
+pru pamixer
+pru pipewire mixer
+pru pipewire control
+pru pw-volume
+pw-volume --help
+pw-volume change -10%
+pw-volume status
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+mv Downloads/pipewire-simple.sh polybar-scripts/
+chmod +t polybar-scripts/pipewire-simple.sh
+pkill poly
+nano polybar-scripts/pipewire-simple.sh
+chmod +x polybar-scripts/pipewire-simple.sh
+pkill poly
+pru pamixer
+nano polybar-scripts/pipewire-simple.sh
+sudo nano .config/polybar/config.ini
+pkill poly
+pavucon
+pavucontrol 
+pamixer 
+pamixer -help
+pamixer -i 
+pamixer -i 10
+pamixer -i -10
+pamixer -d 10
+pru wirepulmber
+systemctl enable --now wireplumber
+pru wirepulmber
+pru wire pulmber
+pru firefox
+pru wireplumber
+wireplumber 
+systemctl --user enable --now wireplumber
+wpctl --help
+pavucontrol 
+wpctl --help
+wpctl set-default
+wpctl status
+wpctl -help
+wpctl get-volume
+wpctl get-volume *
+wpctl set-volume
+wpctl set-volume 57 +10
+wpctl set-volume 57 10+
+wpctl set-volume 57 10%+
+wpctl set-volume --help
+wpctl set-volume 57 0.7
+wpctl set-volume @DEFAULT_AUDIO_SINK 0.7
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.7
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.8
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 1.8
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 1.0
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-
+nano .config/qtile/config.py
+pavucontrol 
+nano .config/qtile/config.py
+nano .config/polybar/config.ini
+sudo nano .config/polybar/config.ini
+pkill poly
+pru pulseaudio-control
+sudo nano .config/polybar/config.ini
+pkill poly
+pru pa-applet
+pa-applet 
+pa-applet --help
+pa-applet 
+pru picom
+picom &
+nano .config/qtile/autostart.sh
+pru gnome alsa mixer
+pru volctl
+volctl
+pru -R volctl
+pru -Rs volctl
+pru -S volctl
+pru -Rs volctl
+blueman-manager 
+load-module module-switch-on-port-available
+module module-switch-on-port-available
+blueman-manager 
+pru -S wired
+wired 
+sudo nano .config/qtile/autostart.sh
+systemctl enable --now --user wired.service
+systemctl enable --now --user Downloads/wired.service
+ls .config/
+picom --config .config/picom/picom.conf
+touch .config/picom/picom.conf
+mkdir .config/picom/
+touch .config/picom/picom.conf
+picom --config .config/picom/picom.conf
+pkill picom
+picom --config .config/picom/picom.conf
+nano  .config/picom/picom.conf
+pru nautilus
+nano  .config/qtile/config.py
+nano  .config/picom/picom.conf
+nano  .config/qtile/config.py
+exit
+nano  .config/qtile/config.py
+cp .config/qtile/config.py Documents/scatch-code/
+nano Documents/scatch-code/config.py
+nano  .config/qtile/config.py
+cp Documents/scatch-code/config.py .config/qtile/config.py
+nano  .config/qtile/config.py
+picom 
+pkill picom
+picom
+nano  .config/qtile/config.py
+nano  .config/picom/picom.conf
+nano  .config/qtile/config.py
+nano  .config/picom/picom.conf
+nano  .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+nano  .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+git clone https://github.com/catppuccin/alacritty.git ~/.config/alacritty/catppuccin
+alacritty.yml
+where alacritty.yml
+XDG_CONFIG_HOME/alacritty/alacritty.yml
+echo $XDG_CONFIG_HOME
+ls
+cd .con
+cd .config/
+ls
+cd alacritty/
+ls
+touch alacritty.yml
+nano alacritty.yml
+mv Downloads/mocha.ini .config/polybar/
+sudo nano .config/polybar/config.ini
+pkill poly
+polybar 
+sudo nano .config/polybar/config.ini
+polybar
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+pk
+pkill polybar-scripts/
+pkill poly\
+pkill poly
+sudo nano .config/polybar/config.ini
+pkill poly
+nmcli 
+nmtui
+config nu
+neofetch
+pru neofetch
+neo
+neofetch 
+fortune -o | cowsay -n | lolcat
+nano Downloads/config.conf
+cp Downloads/config.conf .config/neofetch/config.conf
+neofetch
+pru neofetch
+config nu
+pru open asar
+pru -Rs discord
+pru open asar
+pru better discord
+betterdiscord-installer install
+pru -R better discord
+pru -R betterdiscord
+pru -R betterdiscord-installer
+pru betterdiscord
+betterdiscordctl install
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+nano .config/qtile/config.py
+pru gnome-screenshot
+pru -Rs gnome-screenshot
+pru xfce4 screenshooter
+xfce4-screenshooter 
+xfce4-screenshooter --help
+xfce4-screenshooter -r
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+nano .config/qtile/config.py
+lightdm 
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+xfce4-screenshooter -help
+xfce4-screenshooter -r -s ~/Pictures/screenshots/
+xfce4-screenshooter -r --save ~/Pictures/screenshots/
+xfce4-screenshooter -rcs ~/Pictures/screenshots/
+xfce4-screenshooter -rc 
+xfce4-screenshooter -r -c
+pru clipboard
+nano .config/qtile/config.py
+xfce4-screenshooter
+pru -Rs xfce4-screenshooter
+pru hotshots
+pru -Rs hotshots
+pru scrot
+scrot 
+scrot --help\
+scrot --help
+scrot -s
+scrot -s ~/Pictures/screenshots/
+pru gnome-screenshot
+gnome-screenshot 
+gnome-screenshot -a
+gnome-screenshot -a -c
+gnome-screenshot --area -c
+pru xclip
+xclip --help
+xclip -h
+gnome-screenshot --area -c
+gnome-screenshot -ac
+man gnome-screenshot 
+gnome-screenshot --area --clipboard
+man gnome-screenshot 
+pru -Rs gnome-screenshot
+xfce4-screenshooter -rc
+pru xfce4 screenshooter
+xfce4-screenshooter -rc
+pru  xfce4-clipman
+xfce4-screenshooter -rc
+nano .config/qtile/autostart.sh
+reboot
+nano .config/qtile/config.py
+xfce4-screenshooter -rc
+man xfce4-screenshooter 
+nano .config/qtile/config.py
+xfce4-screenshooter -rc
+xfce4-screenshooter -c
+xfce4-screenshooter --clipboard --region
+xfce4-clipman 
+nano .config/qtile/config.py
+nano .config/qtile/autostart.sh
+cd Documents
+mkdir test
+cd test
+touch firefox-personal.desktop
+touch firefox-school.desktop
+nano firefox-personal.desktop
+nano firefox-school.desktop
+mv * /usr/share/applications/
+sudo mv * /usr/share/applications/
+firefox -p livova-school
+pru firefox
+pru firefox nightly
+nano Documents/test/firefox-personal.desktop
+nano .config/qtile/autostart.sh
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+nano .config/qtile/config.py
+nano /usr/share/applications/firefox-personal.desktop
+rofi --help
+mv /usr/share/applications/firefox-personal.desktop ~/.local/share/applications/
+sudo mv /usr/share/applications/firefox-personal.desktop ~/.local/share/applications/
+mkdir ~/.local/share/applications
+sudo mv /usr/share/applications/firefox-personal.desktop ~/.local/share/applications/
+sudo mv /usr/share/applications/firefox-school.desktop ~/.local/share/applications/
+sudo mv .local/share/applications/* /usr/bin/
+touch firefox-school.ah
+touch firefox-school.sh
+touch firefox-personal.sh
+nano firefox-personal.sh
+gtk-launch /usr/bin/firefox-personal.desktop
+cd /usr/bin/
+ls
+ls |grep firefox
+gtk-launch firefox-personal.desktop
+chmod +x firefox-personal.desktop
+gtk-launch firefox-personal.desktop
+gio firefox-personal.desktop
+gio launch firefox-personal.desktop
+chmod +x firefox-school.desktop
+gio launch firefox-personal.desktop
+gio launch /usr/bin/firefox-personal.desktop
+gio launch /usr/bin/firefox-school.desktop
+touch /usr/bin/firefox-personal
+sudo touch /usr/bin/firefox-personal
+nano firefox-personal.sh
+sudo nano /usr/bin/firefox-personal.desktop
+mv /usr/share/applications/firefox-personal.desktop ~/.local/share/applications/
+sudo mv /usr/share/applications/firefox-personal.desktop ~/.local/share/applications/
+sudo mv /usr/bin/firefox-personal.desktop ~/.local/share/applications/
+sudo mv /usr/bin/firefox-school.desktop ~/.local/share/applications/
+sudo nano /usr/bin/firefox-personal
+chmod +x /usr/bin/firefox-personal
+sudo chmod +x /usr/bin/firefox-personal
+/usr/bin/firefox-personal
+sudo nano /usr/bin/firefox-personal
+/usr/bin/firefox-personal
+sudo nano /usr/bin/firefox-personal
+/usr/bin/firefox-personal
+sudo nano /usr/bin/firefox-personal
+/usr/bin/firefox-personal
+sudo nano /usr/bin/firefox-personal
+/usr/bin/firefox-personal
+sudo nano /usr/bin/firefox-personal
+sudo nano .local/share/applications/firefox-personal.desktop
+sudo nano /usr/bin/firefox-personal
+/usr/bin/firefox-personal
+sudo nano /usr/bin/firefox-personal
+sudo nano .local/share/applications/firefox-personal.desktop
+sudo nano /usr/bin/firefox
+sudo nano /usr/lib/firefox/firefox
+sudo nano /usr/bin/firefox
+sudo nano /usr/lib/firefox/firefox
+cd /usr/lib/firefox/firefox
+cd /usr/lib/firefox/
+ls
+nano firefox
+cd
+nano /usr/bin/firefox
+/usr/lib/firefox/firefox "$@"
+/usr/lib/firefox/firefox 
+/usr/lib/firefox/firefox -p livova-school
+nano /usr/bin/firefox-personal
+sudo nano /usr/bin/firefox-personal
+sudo cp /usr/bin/firefox-personal /usr/bin/firefox-school
+sudo nano /usr/bin/firefox-school
+neofetch --help
+inxi
+lshw
+hwinfo
+lscpi
+lscpu
+lsgpu
+lspci
+lspci |grep nvidia
+lspci |grep 3d
+lspci |grep 
+lspci |grep NVIDIA
+chmod +x Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+sudo Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+sudo Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+pkill xorg
+sudo Downloads/NVIDIA-Linux-x86_64-535.129.03.run
+systemctl disable xorg
+systemctl disable qtile
+systemctl stopqtile
+systemctl stop qtile
+sudo service lightdm stop
+sudo lightdm stop
+sudo lightdm stop
+sudo su
+sudo init 3
+sudo killall /usr/bin/X
+sudo killall /usr/bin/*
+sudo killall /usr/bin/
+logout
+logout
+exit
+sudo service lightdm stop
+sudo lightdm stop
+reboot
+reboot 0
+pru nvidia
+pru -S nvidia
+pru -S nvidia-libgl
+neofetch
+lspci -vnnn | perl -lne 'print if /^\d+\:.+(\[\S+\:\S+\])/' | grep VGA
+pru xpad
+pru xpad gaming
+pru xpad controller
+pru xpad
+pru
+pru benchmark
+blueman-manager 
+suspend
+systemctl suspend
+pru xscreensaver
+xscreensaver-demo 
+systemctl suspend
+xscreensaver
+xscreensaver-settings 
+pru -Rs xscreensaver
+xscreensaver-settings 
+systemctl suspend
+pru i3lock
+i3lock 
+pru i3lock
+pru -R i3lock
+pru i3lock
+i3lock-fancy 
+blueman-manager 
+pru -R i3lock-fancy
+pru  mantablockscreen
+mantablockscreen
+mantablockscreen -i ~/Pictures/wallpapers/fortuna.png
+mantablockscreen
+mantablockscreen -sc
+systemctl suspend
+compton --dbus
+cp betterlockscreen@.service /etc/systemd/system/
+<\n>systemctl enable betterlockscreen@$USER
+sudo etc/systemd/system/wakelock@.service
+sudo touch etc/systemd/system/wakelock@.service
+nano ~/scripts/mantablock.sh
+mkdir scripts
+touch ~/scripts/mantablock.sh
+nano ~/scripts/mantablock.sh
+chmod +x scripts/mantablock.sh
+touch /etc/systemd/system/wakelock@.service
+sudo touch /etc/systemd/system/wakelock@.service
+sudo nano /etc/systemd/system/wakelock@.service
+sudo systemctl enable wakelock@neutron --now
+sudo systemctl enable wakelock@neutron
+pru lightdm-settings
+lightdm-settings 
+sudo lightdm-settings 
+sudo lightdm-settings --help
+sudo lightdm-settings -h
+man lightdm-settings 
+pru accountservice
+pru accountsservice
+cp ~/Pictures/pfps/kumatoraaaaa.jpg /var/lib/AccountsService/icons/neutron.jpg
+sudo cp ~/Pictures/pfps/kumatoraaaaa.jpg /var/lib/AccountsService/icons/neutron.jpg
+sudo nano /var/lib/AccountsService/icons/neutron
+systemctl suspend
+sudo chmod +644/var/lib/AccountsService/icons/neutron
+sudo chmod +644 /var/lib/AccountsService/icons/neutron
+sudo chmod +644 /var/lib/AccountsService/icons/neutron.jpg
+mantablockscreen 
+sudo chmod +755 /var/lib/AccountsService/icons/neutron.jpg
+sudo chmod +755 /var/lib/AccountsService/icons/neutron
+lightdm 
+lightdm --test-mode 
+man mantablockscreen 
+ls
+cp ~/Pictures/pfps/kumatoraaaaa.jpg $cachepath/neutron-pic-crop-png
+cp ~/Pictures/pfps/kumatoraaaaa.jpg ~/.cache/neutron-pic-crop.png
+pru -R mantablockscreen 
+pru mantablockscreen
+mantablockscreen 
+pru -R mantablockscreen 
+sudo systemctl disable wakelock@neutron
+sudo systemctl suspend
+pru betterlockscreen
+betterlockscreen 
+mkdir -p ~/.config/betterlockscreen/<\n>cp /usr/share/doc/betterlockscreen/examples/betterlockscreenrc ~/.config/betterlockscreen/
+mkdir ~/.config/betterlockscreen/<\n>cp /usr/share/doc/betterlockscreen/examples/betterlockscreenrc ~/.config/betterlockscreen/
+betterlockscreen 
+betterlockscreen -u ~/Pictures/wallpapers/fortuna.png
+betterlockscreen
+betterlockscreen -l
+# move service file to proper dir (the aur package does this for you)<\n>cp betterlockscreen@.service /usr/lib/systemd/system/<\n><\n># enable systemd service<\n>systemctl enable betterlockscreen@$USER<\n><\n># disable systemd service<\n>systemctl disable betterlockscreen@$USER<\n><\n># Note: Now you can call systemctl suspend to suspend your system<\n># and betterlockscreen service will be activated<\n># so when your system wakes your screen will be locked.
+ls
+rm firefox-personal.sh
+rm firefox-school.ah
+rm firefox-school.sh
+wget https://github.com/betterlockscreen/betterlockscreen/archive/refs/heads/main.zip<\n>unzip main.zip<\n><\n>cd betterlockscreen-main/<\n>chmod u+x betterlockscreen<\n>cp betterlockscreen /usr/local/bin/<\n><\n>cp system/betterlockscreen@.service /usr/lib/systemd/system/<\n>systemctl enable betterlockscreen@$USER
+cd
+systemctl suspend
+# move service file to proper dir (the aur package does this for you)<\n>cp betterlockscreen@.service /usr/lib/systemd/system/<\n><\n># enable systemd service<\n>systemctl enable betterlockscreen@$USER<\n><\n># disable systemd service<\n>systemctl disable betterlockscreen@$USER<\n><\n># Note: Now you can call systemctl suspend to suspend your system<\n># and betterlockscreen service will be activated<\n># so when your system wakes your screen will be locked.
+cd betterlockscreen-main/
+cp betterlockscreen@.service /usr/lib/systemd/system/
+ls
+touch betterlockscreen@.service
+nano betterlockscreen@.service
+cp betterlockscreen@.service /usr/lib/systemd/system/
+sudo cp betterlockscreen@.service /usr/lib/systemd/system/
+systemctl suspend
+systemctl enable betterlockscreen@$USER
+systemctl suspend
+systemctl enable betterlockscreen@neutron
+systemctl suspend
+sudo nano /usr/lib/systemd/system/betterlockscreen@.service
+betterlockscreen 
+sudo nano /usr/lib/systemd/system/betterlockscreen@.service
+systemctl suspend
+sudo nano /usr/lib64/systemd/system/betterlockscreen@.service
+betterlockscreen -l
+sudo nano /usr/lib64/systemd/system/betterlockscreen@.service
+cd
+systemctl suspend
+systemctl disable betterlockscreen@neutron
+sudo systemctl enable --now betterlockscreen@neutron
+systemctl suspend
+systemctl disable betterlockscreen@neutron
+sudo nano /usr/lib64/systemd/system/betterlockscreen@.service
+sudo systemctl enable --now betterlockscreen@neutron
+systemctl suspend
+sudo systemctl enable --now betterlockscreen@neutron
+sudo nano /usr/lib64/systemd/system/betterlockscreen@.service
+nano .config/qtile/config.py
+xfce4-clipman 
+nano .config/qtile/autostart.sh
+nano .config/qtile/config.py
+shrot
+gnome-screenshot --area --clipboard
+xfce4-screenshooter --clipboard --region --save ~/Pictures/screenshots/
+man xfce4-clipman 
+xfce4-clipman --help
+xclip
+xfce4-screenshooter --fullscreen --mouse --save /dev/stdout | xclip -i -selection clipboard -t image/png
+xfce4-screenshooter --region --mouse --save /dev/stdout | xclip -i -selection clipboard -t image/png
+ls /dev/stdout
+ls Pictures/
+ls Pictures/screenshots/
+xfce4-screenshooter --region --mouse --save ~/Pictures/screenshots | xclip -i -selection clipboard -t image/png
+pru xfce4-clipman-plugin
+ls
+xfce4-screenshooter --region --mouse --save /dev/stdout | xclip -i -selection clipboard -t image/png
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+pru
+xfce4-screenshooter --region --mouse --save /dev/stdout | xclip -i -selection clipboard -t image/png
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+nano .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+touch .config/qtile/screenshot.sh
+chmod +x .config/qtile/screenshot.sh
+nano .config/qtile/screenshot.sh
+nano .config/qtile/config.py
+.config/qtile/screenshot.sh
+qtile cmd-obj -o cmd -f restart
+pru cups
+pru cups-pdf
+cups
+cupsenable 
+systemctl enable --now cups
+systemctl status cups
+cupsd 
+sudo cupsd
+cupstestppd 
+pru gedit
+pru
+xfconf-query -c xsettings
+xfconf-query -c xsettings -p /Net/
+pru xfce4-settings
+xfconf-query -c xsettings -p /Net/ThemeName
+xsetttings
+pru xsettings
+xsettings 
+xfconf-query -c xsettings -p /Net/Dark
+xfconf-query -l
+xfconf-query -lc xsettings
+pru gtk-chtheme
+gtk-chtheme
+pru feg
+pru feh
+systemctl suspend
+Downloads/install.sh
+sudo Downloads/install.sh
+chmod +x Downloads/install.sh
+sudo Downloads/install.sh
+bash Downloads/install.sh
+rofi --show
+rofi --show drun
+rofi -show drun
+nano .config/rofi/userconfig/config.rasi
+git clone https://github.com/catppuccin/rofi && cd rofi/deathemonic
+git clone https://github.com/catppuccin/rofi and cd rofi/deathemonic
+git clone https://github.com/catppuccin/rofi
+cd rofi/deathemonic/
+cp -r * ~/.config/rofi
+clear
+cd
+rofi-theme-selector 
+touch ~/.config/rofi/config.rasi
+pru starship
+mkdir ~/.cache/starship
+starship init nu | save -f ~/.cache/starship/init.nu
+$nu.env-path
+nano $nu.env-path
+nano $nu.config-path
+starship preset pastel-powerline -o ~/.config/starship.toml<\n>
+nano .config/picom/picom.conf
+micro
+pru micro
+pru micro text
+micro Downloads/install.sh
+mkdir ~/.config/micro/colorschemes
+mkdir repos
+cd repos/
+git clone https://github.com/catppuccin/micro
+cd micro/
+ls
+cp src/* ~/.config/micro/colorschemes/
+micro
+micro $nu.config-path
+cd
+micro Documents/personal/cws-for-livova-server.txt
+pru anaconda
+conda --help
+anaconda
+pru conda
+conda
+pru anaconda
+anaconda
+conda
+cp Downloads/mocha.toml .config/starship.toml
+micro .config/starship.toml
+ls
+cd Downloads/
+ls
+ls -a
+conda
+anaconda
+pru -S anaconda
+conda
+pru python
+PATH=$PATH:$HOME/anaconda/bin
+curl -O https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Linux-x86_64.sh
+nu ~/Downloads/Anaconda3-2020.05-Linux-x86_64.sh
+~/Downloads/Anaconda3-2020.05-Linux-x86_64.sh
+ls
+Anaconda3-2023.09-0-Linux-x86_64.sh
+chmod +x Anaconda3-2023.09-0-Linux-x86_64.sh
+Anaconda3-2023.09-0-Linux-x86_64.sh
+ah Anaconda3-2023.09-0-Linux-x86_64.sh
+sh Anaconda3-2023.09-0-Linux-x86_64.sh
+conda 
+conda --init
+source ~/.bashrc
+conda 
+~/anaconda3/bin/conda init
+conda config --describe auto_activate_base
+~/anaconda3/bin/conda config --describe auto_activate_base
+~/anaconda3/bin/conda config activate
+~/anaconda3/bin/conda 
+~/anaconda3/bin/conda verify
+conda 
+coonda
+~/anaconda3/bin/conda init nu
+mv Downloads/nu_conda.nu ~/.config/nushell/
+use nu_conda.nu   
+chmod +x .config/nushell/nu_conda.nu
+use nu_conda.nu   
+use .config/nushell/nu_conda.nu   
+nu_conda
+nu_conda activate 
+nu_conda list
+mv Downloads/conda.nu .config/nushell/
+use conda.nu
+use ~/.config/nushell/conda.nu
+conda init
+conda --init
+conda create --name astro
+use ~/.config/nushell/conda.nu
+conda create --name astro
+conda-env create --name astro
+which conda
+which anaconda
+ls
+exit
+export PATH=~/anaconda3/bin:$PATH
+Usage: export
+PATH=~/anaconda3/bin:$PATH
+config nu
+micro $nu.env-path
+$env.PATH = ($env.PATH | split row (char esep) | append '/home/neutron/anaconda3/bin/')
+conda init
+conda create --name astro
+conda activate astro
+conda activate
+conda init astro
+conda-env activate astro
+conda --hel\p
+conda --help
+conda list
+conda env activate astro
+conda env activate --help
+conda env activate --h
+conda env activate -h
+conda env  -h
+nu_conda activate astro
+use ~/.config/nushell/conda.nu
+nu_conda activate astro
+conda activate astro
+ls
+conda deactivate astro
+conda deactivate
+conda activate astro
+micro config nu
+config nu
+ls .config/nushell/
+config nu
+conda activate astro
+conda -h
+conda
+$env.PATH = ($env.PATH | split row (char esep) | append '/home/neutron/anaconda3/bin/')
+conda activate astro
+use ~/.config/nushell/conda.nu
+conda activate astro
+$env.PATH 
+micro $nu.env-path
+conda activate astro
+use ~/.config/nushell/conda.nu
+conda activate astro
+config nu
+micro $nu.env-path
+config nu
+micro $nu.env-path
+conda activate astro
+micro $nu.env-path
+conda activate astro
+conda install astropy
+conda install numpy
+conda update -n base -c default conda
+systemctl suspend
+git
+micro Documents/importantdocs/laptop-git.tt
+micro Documents/importantdocs/laptop-git.txt
+gtk-application-prefer-dark-theme = true
+pru gtk-theme
+pru gtk4
+gtk-chtheme 
+GTK_THEME=Adwaita-dark
+xfconf-query -c xfwm4 -p /general/theme
+xfconf-query -l 
+xfconf-query -c xsettings -p /Net/ThemeName
+xfconf-query -c xsettings -p /Net/ThemeName -s "Adwaita-dark"
+xfconf-query -c xsettings -p /Net/ThemeName
+pru xsettings theme
+xsettings
+xfsettingsd 
+~/.config/xsettingsd/xsettingsd.conf
+micro ~/.config/xsettingsd/xsettingsd.conf
+gsettings set org.gnome.desktop.interface gtk-theme Adwaita-dark
+gsettings set org.gnome.desktop.interface color-scheme prefer-dark
+nautilus 
+nautilus --help
+nautilus --check
+micro ~/.config/xsettingsd/xsettingsd.conf
+gsettings set org.gnome.desktop.interface color-scheme prefer-dark
+gsettings set org.gnome.desktop.interface gtk-theme Adwaita-dark
+xfconf-query -c xsettings -p /Net/ThemeName -s "Adwaita-dark"
+gtk-application-prefer-dark-theme = true
+xfconf-query -c xsettings -p /Net/ThemeName
+gsettings set org.gnome.desktop.interface gtk-theme Adwaita-dark
+gsettings set org.gnome.desktop.interface color-scheme prefer-dark
+<\n><\n>gsettings set org.gnome.desktop.interface color-scheme prefer-dark<\n>
+gtk-chtheme 
+nautilus 
+pru libadwaita dark
+pru libadwaita
+<\n>gtk-application-prefer-dark-theme=1
+gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
+gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+xfconf-query -c xsettings -p /Net/ThemeName<\n>
+et --export --universal GTK_THEME Adwaita-dark
+set --export --universal GTK_THEME Adwaita-dark
+const --export --universal GTK_THEME Adwaita-dark
+const --export --universal GTK_THEME "Adwaita-dark"
+pru -R nautiulus
+pru -R nautilus
+pru nemo
+nemo
+pru lxappearance
+lxappearance
+nemo
+pru -R nemo
+pru nautilus
+nautilus 
+pru -R nautilus 
+dust
+pru dust
+dust
+pru nemo
+pru nautilus
+nautilus 
+pru -R nautilus
+git config user.name="chiariniolivia"
+git config --global user.name "chiariniolivia"
+git config --global user.email "chiariniolivia"
+git config --global user.email "chiariniolivia@gmail.com"
+conda activate astro
+main.py ~/Documents/spacestuff/fits/fwhm-test-fits/
+ls
+~/anaconda3/envs/astro/bin/   main.py ~/Documents/spacestuff/fits/fwhm-test-fits/
+~/anaconda3/envs/astro/   main.py ~/Documents/spacestuff/fits/fwhm-test-fits/
+main.py ~/Documents/spacestuff/fits/fwhm-test-fits/
+/home/neutron/anaconda3/envs/astro/bin/python3.11 /home/neutron/Documents/spacestuff/git/FWHMscripts/main.py
+source /opt/anaconda/bin/activate /home/neutron/anaconda3/envs/astro
+/home/neutron/anaconda3/envs/astro/bin/python3.11 /home/neutron/Documents/spacestuff/git/FWHMscripts/main.py
+conda activate astro
+conda install scipy
+/home/neutron/anaconda3/envs/astro/bin/python3.11 /home/neutron/Documents/spacestuff/git/FWHMscripts/main.py
+conda install photutils
+pip install photutils
+/home/neutron/anaconda3/envs/astro/bin/python3.11 /home/neutron/Documents/spacestuff/git/FWHMscripts/main.py
+pip install matplotlib
+/home/neutron/anaconda3/envs/astro/bin/python3.11 /home/neutron/Documents/spacestuff/git/FWHMscripts/main.py
+/home/neutron/anaconda3/envs/astro/bin/ /home/neutron/Documents/spacestuff/git/FWHMscripts/main.py ~/Documents/spacestuff/fits/fwhm-test-fits/
+sudo /home/neutron/anaconda3/envs/astro/bin/ /home/neutron/Documents/spacestuff/git/FWHMscripts/main.py ~/Documents/spacestuff/fits/fwhm-test-fits/
+/home/neutron/anaconda3/envs/astro/bin/python3.11 /home/neutron/Documents/spacestuff/git/FWHMscripts/main.py ~/Documents/spacestuff/fits/fwhm-test-fits/
+micro ~/.config/qtile/autostart.sh
+dust
+sudo dust
+pru xrande
+pru xrandr
+autorandr 
+xrander --output HDMI-1 --auto
+xrandr --output HDMI-1 --auto
+xrandr --output list
+xrandr --output 
+xrandr --help
+xrandr --output --auto
+xrandr --auto
+pru xautolock
+xautolock --time 10 --locker 'systemctl suspend'
+xautolock --time 10
+xautolock -time 10
+nano .xinitrc
+ls
+cd .config/
+ls
+cd xfce4/xfconf/
+ls
+cd ..
+ls
+cd
+micro ~/.config/qtile/config.py
+xautolock -time 10 -locker 'systemctl suspend'
+qtile cmd-obj -o cmd -f restart
+i3lock 
+systemctl status 
+systemctl status suspend
+systemctl status sleep
+systemctl status wake
+ls /lib/systemd/system/
+ls /lib/systemd/system/|grep sleep
+micro /lib/systemd/system/sleep.target
+ls /lib/systemd/system/|grep sleep
+micro /lib/systemd/system/systemd-hybrid-sleep.service
+ls |grep .
+ls
+ls -a
+micro .xinit
+slock
+pru slock
+slock
+i3lock-fancy 
+micro .xinit
+systemctl status betterlockscreen
+systemctl status betterlockscreen@neutroon
+systemctl status betterlockscreen@neutron
+betterlockscreen 
+betterlockscreen -l
+micro .xinit
+xautolock -time 0
+lock
+xss-lock
+micro .xinit
+pru
+micro ~/.config/qtile/autostart.sh
+$SYSTEMD_UNIT_PATH
+systemctl --help
+cp Downloads/syncthing@.service /lib/systemd/system/
+sudo cp Downloads/syncthing@.service /lib/systemd/system/
+systemctl enable syncthing@neutron.service
+sudo systemctl enable syncthing@neutron.service
+sudo systemctl status syncthing@neutron.service
+systemctl status xautolock
+xautolock -enable
+xautolock -time 1 -locker "systemctl suspend" -detectsleep<\n>
+xautolock -time 1 -locker "betterlockscreen -l" -detectsleep<\n>
+xautolock -time 1 -locker "systemctl suspend" -detectsleep<\n>
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+xautolock -time 1 -locker "systemctl suspend" -detectsleep<\n>
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+xautolock -time 1 -locker "systemctl suspend" -detectsleep<\n>
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+xautolock -time 1 -locker "systemctl suspend" -detectsleep<\n>
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+xautolock -time 1 -locker "systemctl suspend" -detectsleep<\n>
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+systemctl suspend
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+systemctl suspend
+echo $DISPLAY
+echo $env.DISPLAY
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+systemctl suspend
+systemctl status betterlockscreen@neutron
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+systemctl status betterlockscreen@neutron
+systemctl suspend
+systemctl status betterlockscreen@neutron
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+systemctl status betterlockscreen@neutron
+systemctl suspend
+systemctl status betterlockscreen@neutron
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+whereis betterlockscreen
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+/usr/bin/betterlockscreen 
+/usr/bin/betterlockscreen -l
+sudo micro /usr/lib/systemd/system/betterlockscreen@.service
+systemctl status betterlockscreen@neutron
+systemctl suspend
+systemctl status betterlockscreen@neutron
+systemctl restart betterlockscreen
+systemctl restart betterlockscreen@neutron
+systemctl daemon-reload
+systemctl restart betterlockscreen@neutron
+systemctl suspend
+xautolock -time 1 -locker "systemctl suspend" -detectsleep<\n>
+micro ~/.config/qtile/autostart.sh
+qtile cmd-obj -o cmd -f restart
+micro ~/.config/qtile/autostart.sh
+reboot
+pru tlp
+tlp 
+tlp start
+systemctl enable tlp.service
+sudo systemctl enable tlp.service
+tlp start
+sudo tlp start
+micro ~/.config/qtile/autostart.sh
+paru
+blueman-manager 
+micro ~/.config/qtile/config.py
+sudo cp /usr/lib/systemd/system/betterlockscreen@.service Downloads/
+systemctl status
+ls .config
+cd .config/polybar/
+ls
+cd ..
+ls
+rofi-theme-selector 
+cd qtile/
+ls
+cd ..
+cd polybar-scripts/
+ls
+cp * ~/Downloads/
+tlp start 
+sudo tlp start 
+nano ~/.config/qtile/autostart.sh
+sudo tlp
+micro ~/.config/polybar/config.ini
+pkill poly
+blueman-manager 
+paru xidle
+paru -R xautolock
+xidle 
+xidle --help
+nano .xinitrc
+micro .xinit
+blueman-manager 
+micro .xinit
+micro ~/.config/qtile/autostart.sh
+reboot
+micro ~/.config/qtile/autostart.sh
+xidlehook --not-when-fullscreen --not-when-audio --timer normal 10 'systemctl suspend' ''
+xidle --not-when-fullscreen --not-when-audio --timer normal 30 'systemctl suspend' ''
+paru -R xidle
+paru https://aur.archlinux.org/xidlehook.git 
+paru -S https://aur.archlinux.org/xidlehook.git 
+pacman -S https://aur.archlinux.org/xidlehook.git 
+sudo pacman -S https://aur.archlinux.org/xidlehook.git 
+paru -S xidlehook
+xidle --not-when-fullscreen --not-when-audio --timer normal 30 'systemctl suspend' ''
+xidlehook --not-when-fullscreen --not-when-audio --timer normal 30 'systemctl suspend' ''
+xidlehook --not-when-fullscreen --not-when-audio --timer normal 30 'systemctl suspend' 
+xidlehook --not-when-fullscreen --not-when-audio --timer30 'systemctl suspend' 
+xidlehook --not-when-fullscreen --not-when-audio --timer 30 'systemctl suspend' 
+xidlehook --not-when-fullscreen --not-when-audio --timer 30 'systemctl suspend'  ''
+micro ~/.config/qtile/autostart.sh
+paru
+micro ~/.config/picom/
+micro ~/.config/picom/picom.conf
+git clone https://github.com/catppuccin/rofi && cd rofi/deathemonic
+git clone https://github.com/catppuccin/rofi and cd rofi/deathemonic
+git clone https://github.com/catppuccin/rofi cd rofi/deathemonic
+git clone https://github.com/catppuccin/rofi; cd rofi/deathemonic
+rm -r rofi
+git clone https://github.com/catppuccin/rofi; cd rofi/deathemonic
+cp -r * ~/.config/rofi
+cd ..
+rofi-theme-selector 
+cd .config/rofi/
+ls
+micro config.rasi
+cd userconfig/
+ls
+cd ..
+cd userconfig/
+cd ..
+micro config.rasi
+cd userconfig/
+micro config.rasi
+sh $HOME/.config/rofi/bin/{launcher,runner,powermenu,screenshot}
+sh $env.HOME/.config/rofi/bin/{launcher,runner,powermenu,screenshot}
+sh ~/.config/rofi/bin/{launcher,runner,powermenu,screenshot}
+cd
+git clone https://github.com/catppuccin/rofi; cd rofi/deathemonic
+cd rofi/deathemonic
+cp -r * ~/.config/rofi
+ls 
+cd bin
+ls
+exec launcher
+rofi -show drun
+cd ..
+cd
+Downloads/install.sh
+chmod +x Downloads/install.sh
+Downloads/install.sh
+rofi -show drun
+.config/rofi/config.rasi
+micro .config/rofi/config.rasi
+mv Downloads/catppuccin-mocha.rasi .config/rofi/
+micro .config/rofi/config.rasi
+micro .config/qtile/config.py
+pru
+paru
+systemctl suspend
+paru ncspot
+/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py 
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py 
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py 
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/
+/bin/python
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/
+paru ds9
+/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py 
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/
+paru cups
+paru cups wifi
+paru
+pkill mullvad
+sudo pkill mullvad
+paru
+sudo paru  
+paru  
+ls -la ~/.cache/paru/clone/mullvad-vpn/
+/bin/ls -la ~/.cache/paru/clone/mullvad-vpn/
+/bin/ls -la ~/.cache/paru/clone/mullvad-vpn/src/gopath/pkg/mod/
+/bin/ls -la ~/.cache/paru/clone/mullvad-vpn/src/gopath/pkg/mod/golang.org/
+/bin/ls -la ~/.cache/paru/clone/mullvad-vpn/src/gopath/pkg/mod/golang.org/x/
+/bin/ls -la ~/.cache/paru/clone/mullvad-vpn/src/gopath/pkg/mod/golang.org/x/sys@v0.0.0-20220808155132-1c4a2a72c664/
+chmod +w ~/.cache/paru/clone/mullvad-vpn/src/gopath/pkg/mod/golang.org/x/sys@v0.0.0-20220808155132-1c4a2a72c664/
+paru  
+/bin/ls -la ~/.cache/paru/clone/mullvad-vpn/src/gopath/pkg/mod/golang.org/x/sys@v0.0.0-20220808155132-1c4a2a72c664/windows/
+man chmod
+chmod -R +w ~/.cache/paru/clone/mullvad-vpn/src/gopath/pkg/mod/golang.org/x/sys@v0.0.0-20220808155132-1c4a2a72c664/
+paru  
+chmod -R +w ~/.cache/paru/clone/mullvad-vpn/src/gopath/pkg/mod/golang.org/x/
+paru  
+chmod -R +w ~/.cache/paru/clone/mullvad-vpn/src/
+paru  
+paru
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ v
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ u\
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ U
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ UBVRI
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ BVRI
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ U
+git clone https://github.com/catppuccin/gedit.git
+cd gedit
+bash install.sh
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ U
+networkctl 
+nmtui
+iwctl
+nmtui
+iwctl
+nmtui
+nmcli
+nmcli show
+nmcli device show
+nmcli network scan
+nmcli network 
+nmcli show
+nmcli --help
+nmcli device wifi list
+nmcli device wifi connect
+nmcli device wifi connect 3C:B7:4B:F9:0B:8B
+nmcli device wifi connect 3C:B7:4B:F9:0B:8B ThickJigglyPuffDestroys4466862
+nmcli device wifi connect 3C:B7:4B:F9:0B:8B "ThickJigglyPuffDestroys4466862"
+nmcli device wifi connect AABJ_House "ThickJigglyPuffDestroys4466862"
+nmcli device wifi connect AABJ_House ThickJigglyPuffDestroys4466862
+nmcli device wifi connect AABJ_House --help
+nmcli device wifi connect AABJ_House 
+nmcli device wifi connect AABJ_House secret="ThickJigglyPuffDestroys4466862"
+ncmcli --help
+nmcli --help
+nmcli device wifi connect AABJ_House -a
+nmcli radio wifi
+nmcli device wifi connect AABJ_House -as
+nmcli con delete AABJ_House
+nmcli device wifi connect AABJ_House -as
+nmcli device wifi connect AABJ_House password ThickJigglyPuffDestroys4466862
+nmcli device wifi connect AABJ_House password 219715888
+systemctl restart networkmanager
+systemctl restart NetworkManager
+nmcli device wifi connect AABJ_House password 219715888
+nmcli device wifi connect AABJ_House password ThickJigglyPuffDestroys4466862
+nmcli con
+nmcli con down AABJ_House
+nmcli con up AABJ_House
+nmcli con up AABJ_House --ask
+nmcli device wifi connect AABJ_House password "ThickJigglyPuffDestroys4466862"
+journalctl -xf
+reboot 0\
+reboot 0
+/bin/pythonplt.tight_layout()
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ U
+blueman-manager 
+paru batsignal
+systemctl enable --now batsignal
+batsignal 
+man batsignal
+mv Downloads/batsignal.service /lib/systemd/system/ 
+sudo mv Downloads/batsignal.service /lib/systemd/system/ 
+systemctl enable --now batsignal
+discord
+git config user.name
+git config user.email
+git config user.email='c241@umbc.edu'
+git --global user.name
+git config --global user.name
+git config --global user.email
+git config --global user.email="c241@umbc.edu"
+git config --global user.email
+git config --global user.email "c241@umbc.edu"
+git config --global user.email
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ U
+paru itunes
+paru iphone
+paru
+paru discord
+betterdiscordctl install
+discord --help
+paru 
+paru discord
+paru -Qm discord
+paru -Syu discord-electron-openasar
+discord
+~/.config/discord/*Cache 
+cd~/.config/discord/
+cd ~/.config/discord/
+ls
+rm -r *config
+sudo rm -r *Config/
+sudo rm -r *Cache/
+ls
+cd
+discord
+cd ~/.cache
+ls
+cd electron/
+ls
+cd ..
+sudo rm -r electron/
+cd 
+discord 
+paru discord
+paru discord-electron
+discord
+paru -R discord-electron-openasar
+paru -S discord-electron-openasar
+discord
+paru -R discord-electron-openasar
+discord
+paru discord openasar
+paru openasar
+paru discord
+paru openasar
+discord
+paru -Rm openasar
+paru -R openasar
+paru -R openasar-bin
+discord
+paru  openasar
+betterdiscordctl install
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag/ UBVR
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag-ngc/ 
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag-ngc/ U
+~/anaconda3/envs/astro/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py ~/Documents/spacestuff/fits/inst-mag-pg/ U
+chmod +x Downloads/hplip-3.23.12.run
+Downloads/hplip-3.23.12.run
+paru hplip
+hplip-3.23.12/
+cd
+cups
+cupsd 
+sudo cupsd 
+systemctl status cups
+paru -S foomatic-db-engine foodmatic-db
+paru -S foomatic-db-ppds foomatic-db-nonfree foomatic-db-nonfree-ppds
+paru pint-manager
+paru print-manager
+kde-add-printer 
+paru printer-manager
+paru print-manager
+cd /usr/share/applications/
+ls
+systemsettings kcm_printer_manager
+cd 
+systemsettings kcm_printer_manager
+paru systemsettings
+systemsettings kcm_printer_manager
+export $(dbus-launcher)
+paru -R systemsettings
+paru system-config-pritner
+paru system-config-printer
+system-config-printer 
+sudo su
+systemctl enable cups.service
+systemctl enable cups.socket
+systemctl start cups.service
+sudo usermod -a -G lp neutron
+mullvadvpn
+mullvad-vpn 
+printenv 
+help cupsd
+man cupsd
+lpinfo --include-schemes dnssd -v
+avahi-browse -a | grep Printer
+systemctl enable --now avahi-browse
+systemctl enable --now avahi
+lpstat -a
+sudo nmap
+paru avahi
+systemctl enable --now avahi-daemon
+avahi-browse -a | grep Printer
+avahi-browse -a
+avahi-discover 
+avahi-browse 
+avahi-browse help
+avahi-browse --help
+avahi-browse --all
+paru cups-browsed
+cups-browsed 
+man cups-browsed 
+cups-browsed 
+chmod +x `Downloads/hplip-3.23.12(1).run`
+`Downloads/hplip-3.23.12(1).run`
+python3 Downloads/hplip-3.23.12/install.py
+Downloads/hplip-3.23.12/install-sh
+bash Downloads/hplip-3.23.12/install-sh
+chmod +x Downloads/hplip-3.23.12/install-sh
+bash Downloads/hplip-3.23.12/install-sh
+bash Downloads/hplip-3.23.12/install-sh ~
+micro Downloads/hplip-3.23.12/install-sh
+cd Downloads/hplip-3.23.12/
+ls
+nmcli
+nmtui
+paru
+blueman-manager 
+xrandr --auto
+mullvad-vpn 
+paru
+micro .config/qtile/
+micro .config/qtile/config.py
+ncspot
+paru tor
+paru tor browser
+paru -S torbrowser-launcher
+paru -Syu
+paru
+paru -S calibre
+paru
+paru zathura-djvw
+paru zathura-djvu
+zathura `Downloads/Computational Physics -- Mark Newman -- University of Michigan, First, 2013 -- University of Michigan -- 4f97f203cab50e3d66444205bab1d6d1 -- Anna’s Archive.djvu`
+ebook-convert `Downloads/(University of Michigan) Mark Newman - Computational Physics-University of Michigan (2013).djvu` Documents/textbooks-and-syl/comp-phys.pdf
+conda activate astro
+ebook-convert `Downloads/(University of Michigan) Mark Newman - Computational Physics-University of Michigan (2013).djvu` Documents/textbooks-and-syl/comp-phys.pdf
+conda deactivate
+conda create --name pdf-shit
+conda activate pdf-shit
+conda install msgpack
+ebook-convert `Downloads/(University of Michigan) Mark Newman - Computational Physics-University of Michigan (2013).djvu` Documents/textbooks-and-syl/comp-phys.pdf
+pip install msgpack
+ebook-convert `Downloads/(University of Michigan) Mark Newman - Computational Physics-University of Michigan (2013).djvu` Documents/textbooks-and-syl/comp-phys.pdf
+pip install GLIBCXX
+pip install GLIBCXX_3.4.30
+~/anaconda3/envs/pdf-shit/ 
+anaconda3/envs/pdf-shit/ ebook-convert `Downloads/(University of Michigan) Mark Newman - Computational Physics-University of Michigan (2013).djvu` Documents/textbooks-and-syl/comp-phys.pdf
+ncspot
+anaconda3/envs/pdf-shit/ ebook-convert `Downloads/(University of Michigan) Mark Newman - Computational Physics-University of Michigan (2013).djvu` Documents/textbooks-and-syl/comp-phys.pdf
+paru
+par
+paru
+betterdiscordctl install
+micro .config/polybar/config.ini
+shutdown
+shutdown -c
+shutdown 0
+cspot
+ncspot
+paru qbit
+paru
+neofetch
+paru
+paru archinstall
+archinstall
+sudo archinstall
+paru gnome-disk-utility
+paru -S \gnome-disk-utility
+paru -S gnome-disk-utility
+gnome-disk-utility
+sudo disks
+gnome-disks 
+sudo gnome-disks 
+paru
+neofetch
+micro .config/alacritty/alacritty.yml
+config nu
+paru
+paru arch-install-scripts
+paru archiso
+mkarchiso -h
+fidsk -l
+fdisk -l
+sudo fdisk -l
+mkdir /media/usb
+sudo mkdir /media/usb
+sudo mkdir /media/usb/
+sudo mkdir /media/
+sudo mkdir /media/usb/
+mount /dev/sdb /media/usb/
+sudo mount /dev/sdb /media/usb/
+mkfs.ext4 /dev/sdb
+sudo mkfs.ext4 /dev/sdb
+sudo mount /dev/sdb /media/usb/
+fdisk -l
+sudo fdisk -l
+sudo mount /dev/sdb /media/usb/
+ls /media/usb/
+mount | grep sdb
+sudo mount /dev/sdb /media/usb/
+mkfs.ext4 /dev/sdb
+sudo mkfs.ext4 /dev/sdb
+sudo mount /dev/sdb /media/usb/
+mount | grep sdb
+config nu
+micro .config/alacritty/alacritty.yml
+micro .config/nushell/config.nu
+micro .config/alacritty/alacritty.yml
+unzip -r ~/Downloads/balls.zip polybar-jabez/
+unzip ~/Downloads/balls.zip polybar-jabez/
+unzip ~/Downloads/balls.zip polybar-jabez
+mkdir polybar-jabez
+unzip ~/Downloads/balls.zip polybar-jabez
+unzip ~/Downloads/balls.zip polybar-jabez/
+ls
+7z 
+paru 7zip
+cd Downloads/
+unzip -r balls.zip
+unzip -r balls.zip thing
+unzip -z balls.zip
+unzip -p balls.zip
+unzip -p balls.zip poly/
+unzip -p balls.zip poly
+unzip -p balls.zip balls
+unzip -p balls.zip
+pkill poly
+polybar ~/Downloads/poly/default/polybar/config.ini
+polybar ~/Downloads/poly/default/polybar/config.ini example
+polybar ~/Downloads/poly/default/polybar/config.ini
+cp .config/polybar/config.ini ~/Documents/
+mkdir Documents/dotfiles/
+mv Documents/config.ini Documents/dotfiles/
+cd .config/polybar/
+ls
+cp mocha.ini ~/Documents/dotfiles/
+cd Downloads/poly/default/polybar
+ls
+rm *.ini
+pkill poly
+cd
+ls
+cp -r Downloads/poly/default/polybar/ .config/polybar/
+polybar
+polybar --config=~/.config/polybar/config.ini
+ls .config/polybar/polybar/
+mv -r .config/polybar/polybar/* .config/polybar/
+mv  .config/polybar/polybar/* .config/polybar/
+ls .config/polybar
+rm -r .config/polybar/polybar/
+polybar --config=~/.config/polybar/config.ini
+cd .config/polybar/
+ls
+launch.sh
+bash launch.sh
+micro launch.sh
+bash launch.sh
+micro launch.sh
+bash launch.sh
+polybar --config=~/.config/polybar/config.ini
+ls
+cd old/
+ls
+cd ..
+polybar --config=~/.config/polybar/config.ini
+micro config.ini
+polybar --config=~/.config/polybar/config.ini
+micro config.ini
+polybar --config=~/.config/polybar/config.ini
+polybar
+micro config.ini
+micro Documents/dotfiles/config.ini
+micro modules.ini
+polybar
+micro modules.ini
+polybar
+micro Documents/dotfiles/config.ini
+mv Downloads/SymbolsNerdFont-Regular.ttf /usr/local/share/fonts/
+mkdir /usr/local/share/fonts
+sudo mkdir /usr/local/share/fonts/
+mv Downloads/SymbolsNerdFont-Regular.ttf /usr/local/share/fonts/
+sudo mv Downloads/SymbolsNerdFont-Regular.ttf /usr/local/share/fonts/
+fc-cache
+fc-list |grep "Symbol"
+fc-list |grep "Symbols Nerd Font"
+ls -a
+ls -la
+ls -la |grep "Documents"
+chmod -R +r Documents/
+chmod -R +w Documents/
+mv `Downloads/Inclusive Hiring Tool KitFNL 092120222.pdf` Documents/
+ls
+mv Downloads/fonts/*.tff /usr/local/share/fonts/
+mv Downloads/fonts/*.otf /usr/local/share/fonts/
+ls Downloads/fonts/
+ls
+mv Downloads/fonts/IosevkaTermSlabNerdFont-MediumOblique.ttf /usr/local/share/fonts/
+sudo mv Downloads/fonts/IosevkaTermSlabNerdFont-MediumOblique.ttf /usr/local/share/fonts/
+fc-cache 
+fc-list |grep "Iosevka"
+mv Downloads/fonts/*.ttf /usr/local/share/fonts/
+sudo mv Downloads/fonts/*.ttf /usr/local/share/fonts/
+fc-list |grep "Iosevka"
+mv Downloads/archcraft.ttf /usr/local/share/fonts/
+sudo mv Downloads/archcraft.ttf /usr/local/share/fonts/
+fc-list |grep "Iosevka"
+fc-cache 
+fc-list |grep "archcraft"
+micro .config/polybar/config.ini
+polybar
+micro .config/polybar/config.ini
+polybar
+reboot 0
+paru
+micro .config/polybar/config.ini
+micro .config/polybar/modules.ini
+micro .config/polybar/config.ini
+micro Documents/dotfiles/config.ini
+pkill poly
+polybar
+micro Documents/dotfiles/config.ini
+micro .config/polybar/config.ini
+micro Documents/dotfiles/config.ini
+polybar
+micro Documents/dotfiles/config.ini
+micro .config/polybar/config.ini
+micro .config/polybar/modules.ini
+micro .config/polybar/config.ini
+micro .config/polybar/modules.ini
+polybar
+micro .config/polybar/modules.ini
+polybar
+micro .config/polybar/colors.ini
+micro .config/polybar/config.ini
+polybar
+micro Documents/dotfiles/mocha.ini
+micro .config/polybar/modules.ini
+polybar
+micro .config/polybar/decor.ini
+polybar
+micro .config/polybar/colors.ini
+polybar
+micro .config/polybar/config.ini
+polybar
+micro .config/polybar/colors.ini
+micro .config/polybar/modules.ini
+paru
+polybar
+pkill poly
+polybar
+micro .config/polybar/config.ini
+micro .config/polybar/decor.ini
+polybar
+micro .config/polybar/config.ini
+micro .config/polybar/modules.ini
+micro .config/polybar/decor.ini
+polybar
+micro .config/polybar/colors.ini
+micro .config/polybar/modules.ini
+polybar
+ls .config/polybar/colors.ini
+ls .config/polybar/
+polybar
+micro .config/polybar/config.ini
+ls .config/polybar/colors.ini
+polybar
+clear
+polybar
+micro .config/polybar/colors.ini
+micro Documents/dotfiles/mocha.ini
+polybar
+micro Documents/dotfiles/config.ini
+polybar
+ip link
+polybar
+micro .config/polybar/modules.ini
+polybar
+micro .config/polybar/config.ini
+polybar
+micro .config/polybar/decor.ini
+polybar
+micro .config/polybar/config.ini
+polybar
+micro .config/polybar/decor.ini
+micro .config/polybar/modules.ini
+micro .config/polybar/config.ini
+polybar
+micro .config/polybar/modules.ini
+ls /usr/share/applications/ |grep "fire"
+micro .local/share/applications/firefox-personal.desktop
+micro .local/share/applications/firefox-school.desktop
+micro .local/share/applications/firefox-personal.desktop
+micro .local/share/applications/firefox-school.desktop
+polybar
+micro .local/share/applications/firefox-school.desktop
+micro .local/share/applications/firefox-personal.desktop
+micro .local/share/applications/firefox-school.desktop
+micro .local/share/applications/firefox-personal.desktop
+micro .config/polybar/config.ini
+micro .config/polybar/modules.ini
+pkill poly
+polybar
+micro .config/polybar/modules.ini
+micro .config/polybar/modules.ini\
+micro .config/polybar/modules.ini
+pkill poly
+polybar
+systemctl enable --now module-device-manager
+paru module-device-manager
+pactl load-module module-device-manager
+load-module module-device-manager
+paru load-module
+paru pactl
+pactl load-module module-device-manager
+pactl load-module
+pactl load-module module-device-manager
+paru xfce4-pulseaudio-plugin
+wireplumber 
+micro .config/polybar/modules.ini
+polybar
+micro .config/polybar/modules.ini
+micro .config/polybar/scripts/bluetooth.sh
+micro .config/polybar/modules.ini
+polybar
+micro .config/polybar/modules.ini
+pipewire-pulse --help
+pipewire-pulse
+pacmd list-sinks
+paru wireplumber
+wireplumber --help
+wireplumber 
+systemctl --user --now disable pipewire-media-session
+systemctl --user --now enable wireplumber
+wireplumber 
+bluetooth toggle
+micro .config/polybar/modules.ini
+pkill poly
+paru
+nmtui 
+micro .config/polybar/modules.ini
+pkill poly
+nmgui
+nm-applet 
+paru nmgui
+paru -S nmgui
+paru nm-connection-editor
+nm-connection-editor 
+micro .config/polybar/modules.ini
+pkill poly
+polybar
+micro .config/polybar/modules.ini
+polybar
+nm-connection-editor
+polybar
+micro .config/polybar/modules.ini
+poly
+polybar 
+micro .config/polybar/config.ini
+pkill poly
+micro .config/polybar/config.ini
+pkill poly
+micro .config/polybar/modules.ini
+pkill poly
+cp `.local/share/applications/Stardew Valley.desktop` .local/share/applications/Mini-Metro.desktop
+~/games/minimetro-linux/Mini-Metro
+exec ~/games/minimetro-linux/Mini-Metro
+~/games/minimetro-linux/Mini-Metro
+paru
+zip -r .config/polybar/*
+zip .config/polybar/* livova-poly.zip 
+zip -R .config/polybar/* livova-poly.zip 
+zip -r .config/polybar/* livova-poly.zip 
+zip --help
+zip -r .config/polybar/* livova-poly.zip 
+zip  .config/polybar/* livova-poly.zip 
+zip  .config/polybar/* 
+7zip .config/polybar/
+7z .config/polybar/
+7z zip .config/polybar/
+7z .config/polybar/
+7z zip .config/polybar/
+7z --help
+7z a .config/polybar/
+cd .config/polybar/
+7z a
+7z a .config/polybar/idk.zip
+zip  .config/polybar/* 
+zip  -r .config/polybar/* 
+man zip
+zip -r .config/polybar/ poly.zip
+man zip
+zip archive .config/polybar/ poly.zip
+man zip
+zip
+zip --help
+glob .config/polybar/* | zip 
+glob .config/polybar/* | zip idk.zip
+cd idk.zip
+cd .config/polybar/
+ls
+zip archive.zip *<\n>
+zip archive.zip 
+cd
+touch poly-livova.zip
+zip poly-livova.zip .config/polybar/*
+zip -r poly-livova.zip .config/polybar/*
+zip r poly-livova.zip .config/polybar/*
+zip -r poly-livova.zip .config/polybar/*
+zip --help
+zip r poly-livova.zip .config/polybar/*
+zip -r poly-livova.zip .config/polybar/
+zip -h
+7z poly-livova.zip .config/polybar/*
+7z a poly-livova.zip .config/polybar/*
+7z a poly-livova.zip
+7z a poly-livova
+7z -h
+7z a -r poly-livova.zip .config/polybar/
+7z a -r livova-poly.zip .config/polybar/
+ls 
+ls |grep "poly"
+cd ..
+chmod -R +w neutron/
+cd neutron/
+ls
+paru
+nm-online 
+nm-connection-editor 
+micro .config/polybar/modules.ini
+pkill poly
+paru
+paru batsignal\
+paru batsignal
+batsignal 
+systemctl --user --now enable batsignal.service
+nmtui
+python3 Downloads/eduroam-linux-UoMBC.py
+nmtui
+python3 Downloads/eduroam-linux-UoMBC.py
+nm-connection-editor 
+nm-connection-editor 
+python3 Downloads/eduroam-linux-UoMBC.py
+nm-connection-editor 
+nmtui
+cp .config/polybar/* ~/Documents/dotfiles/
+ls ~/Documents/dotfiles/
+rm ~/Documents/dotfiles/config.ini
+rm ~/Documents/dotfiles/mocha.ini
+cp -r .config/polybar/* ~/Documents/dotfiles/
+ls ~/Documents/dotfiles/
+paru
+exit
+micro .config/qtile/autostart.sh
+micro .config/polybar/config.ini
+pkill poly
+paru pcloud
+ls
+paru
+nm-connection-editor 
+nmtui
+nm-connection-editor 
+ping google.com
+mirrors
+paru -Syy
+paru -Syu
+paru
+mount |grep home
+mount
+pkill syncthing
+mount | grep sync
+mount | grep pcloud
+dust
+sudo dust
+du
+paru
+micro Documents/test.txt
+micro .config/qtile/autostart.sh
+paru
+nemo
+paru -R nemo
+paru nemo
+paru dolphin
+paru -R dolphin
+paru nautilus
+gtk-chtheme 
+nautilus --help
+micro .config/user-dirs.dirs
+paru -R nemo
+ls
+ls -a
+ls -a |grep theme
+ls -a |grep .theme
+mkdir .themes
+cd .themes/
+micro .profile
+gtk-chtheme 
+paru adwaita dark
+paru
+ls .themes/
+nautilus 
+lxappearance 
+nautilus 
+micro .config/gtk-4.0/settings.ini
+micro .config/gtk-3.0/settings.ini
+reboot
+qtconfig
+config
+xfconf-query -c xsettings -p /Net/ThemeName
+gsettings get org.gnome.desktop.interface gtk-theme
+gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
+unzip Downloads/MonoThemeDark.zip 
+ls
+cd Downloads/
+LS
+ls
+unzip Downloads/MonoThemeDark.zip Downloads/
+unzip Downloads/MonoThemeDark.zip -d Downloads/
+unzip MonoThemeDark.zip -d ~/Downloads/
+ls
+mv -r MonoThemeDark/ ~/.themes/
+mv  MonoThemeDark/ ~/.themes/
+cd
+cd .themes/
+l;s
+ls
+cd MonoThemeDark/
+ls
+paru gnome tweaks
+cd
+gnome-tweaks 
+micro .config/gtk-4.0/settings.ini
+paru
+micro .config/gtk-4.0/settings.ini
+gtk-chtheme 
+lxappearance 
+paru
+lxappearance 
+paru night theme switcher
+gnome-extensions 
+gnome-tweaks 
+gnome-extensions 
+mv .themes/MonoThemeDark/gtk-4.0/ .config/gtk-4.0/
+sudo cp gnome-shell-theme.gresource /usr/share/gnome-shell
+cd .themes/MonoThemeDark/
+ls
+micro index.theme
+flatpak override --env=GTK_THEME=MonoThemeDark --user & cd ~/.config/gtk-4.0 ; mv gtk.css gtk2.css ; mv gtk-dark.css gtk.css ; mv gtk2.css gtk-dark.css
+paru -R nautilus
+paru nemo
+micro .profile
+micro .config/user-dirs.dirs
+paru
+paru soul seekjer
+paru soul seeker
+paru soulseeker
+paru soul
+nicotine 
+paru cmus
+ping google.com
+paru
+mkdir Music/albums/mother3-rip
+unzip Downloads/MOTHER-3-High-Quality-Music-Rips-MP3.zip -d Music/albums/mother3-rip/
+paru neutron
+paru neutron music
+paru strawberyy
+paru strawberry
+strawberry 
+mkdir Music/albums/mother3-mp3s
+unzip Downloads/MOTHER3UltimateMusicRipFLAC.zip -d Music/albums/mother3-mp3s/
+cd Music/albums/mother3-mp3s/
+ls
+cd Music/albums/mother3-mp3s/
+ls
+cd OSV/
+ls
+paru
+paru kde-wifi
+paru plasma-widget-wifi
+paru plasma wiif
+paru plasma wifi
+nm-online 
+nm-applet 
+nm-connection-editor 
+micro .config/polybar/config.ini
+micro .config/polybar/modules.ini
+pkill poly
+nm-applet
+micro .config/qtile/autostart.sh
+qtile cmd-obj -o cmd -f restart
+pkill poly
+paru mp3info
+paru kid3
+kid3
+paru
+lparu
+paru
+betterdiscordctl install
+paru
+unzip Downloads/PDFs-20231220T192803Z-001.zip -d Documents/personaltexts/index/
+cd Documents/personaltexts/index/PDFs/
+ls
+mv `~/Downloads/Reading Order and Other Info.txt` ~/Documents/personaltexts/index/readingorder.txt
+cd Documents/personaltexts/index/PDFs/
+cd Documents/personaltexts/index/
+cd index-genesis/
+ls
+nmtui
+cups
+cups-browsed 
+cupsd  
+sudo cupsd
+nmtui
+paru
+systemctl shudown 0
+paru
+paru libimobiledevice
+idevice_id 
+idevicedate
+idevicebackup2 -i encryption on<\n>
+sudo idevicebackup2 -i encryption on<\n>
+sudo idevicebackup2 -i changepw
+sudo idevicebackup2 -i encryption off
+idevicebackup2 
+paru ibacke
+paru ibackep
+paru -S ibackep
+paru
+ideviceinfo 
+idevicebackup2 
+idevicebackup2 backup
+mkdir ~/ipone-backups
+idevicebackup2 backup ~/iphone-backups
+mv ~/ipone-backups/ ~/iphone-backups
+ls
+idevicebackup2 backup ~/iphone-backups
+paru -R idevicebackup
+paru -R libimobiledevice
+git clone https://github.com/libimobiledevice/libimobiledevice.git<\n>cd libimobiledevice
+./autogen.sh<\n>make<\n>sudo make install
+paru ./autogen.sh<\n>make<\n>sudo make install
+paru -S libimobiledevice-glue-dev
+make
+./autogen.sh
+paru libimobiledevice-glue
+./autogen.sh
+make
+make install
+sudo make install
+idevicebackup2 backup ~/iphone-backups
+cd 
+cd iphone-backups/
+ls
+cd
+mv ~/ipone-backups/ ~/iphone-backup-12-22-2023
+mv ~/ipone-backups/ ~/iphone-backup-12-22-2023/
+mv -r ~/ipone-backups/ ~/iphone-backup-12-22-2023/
+mkdir ~/ipone-backup-12-22-2023
+mv ~/ipone-backups/ ~/iphone-backup-12-22-2023/
+ls |grep iphone
+mv ~/ipone-backups ~/iphone-backup-12-22-2023/
+mv ~/iphone-backups/ ~/iphone-backup-12-22-2023/
+ls
+cd iphone-backup-12-22-2023/
+ls
+cd ipone-backup-12-22-2023/
+ls
+cd ..
+cd ..
+mv ~/ipone-backup-12-22-2023/ ~/iphone-backup-12-22-2023/
+ls
+mkdir ~/iphone-backups/
+mv ~/iphone-backup-12-22-2023/ ~/iphone-backups/12-22-2023
+ls
+cd iphone-backups/
+ls
+cd 12-22-2023/
+cd ..
+mv 12-22-2023/ 12-22-2023-01/
+ls
+idevicebackup2 backup ~/iphone-backups/12-22-2023-02
+mkdir ~/iphone-backups/12-22-2023-02
+idevicebackup2 backup ~/iphone-backups/12-22-2023-02
+ls
+dust
+cd ..
+dust
+sudo dust
+sudo ch
+chus
+cu
+paru
+useradd guest
+suod sh
+sudo su
+exit
+logot
+login 
+pkill -u
+systemctl suspend
+paru
+pkill isaac
+lsblk
+/dev/sdb
+ls /dev/sdb
+dd if=/dev/zero of=/dev/sdX status=progress && sync 
+dd if=/dev/zero of=/dev/sdX status=progress;  sync 
+sudo dd if=/dev/zero of=/dev/sdX status=progress;  sync 
+sgdisk -o -n 1:0:+10M -t 1:EF02 -n 2:0:+500M -t 2:EF00 -n 3:0:0 -t 3:8300 /dev/sdb
+paru sgdisk
+paru -S sgdisk
+parted
+parted /dev/sdb
+sudo parted /dev/sdb
+paru sgdisk
+paru gdisk
+gdisk -o -n 1:0:+10M -t 1:EF02 -n 2:0:+500M -t 2:EF00 -n 3:0:0 -t 3:8300 /dev/sdb
+paru fdisk
+sudofdisk -o -n 1:0:+10M -t 1:EF02 -n 2:0:+500M -t 2:EF00 -n 3:0:0 -t 3:8300 /dev/sdb
+sudo fdisk -o -n 1:0:+10M -t 1:EF02 -n 2:0:+500M -t 2:EF00 -n 3:0:0 -t 3:8300 /dev/sdb
+gdisk /dev/sdb
+sudogdisk /dev/sdb
+sudo gdisk /dev/sdb
+paru -S gptfdisk
+sgdisk -o -n 1:0:+10M -t 1:EF02 -n 2:0:+500M -t 2:EF00 -n 3:0:0 -t 3:8300 /dev/sdb
+sudo sgdisk -o -n 1:0:+10M -t 1:EF02 -n 2:0:+500M -t 2:EF00 -n 3:0:0 -t 3:8300 /dev/sdb
+sudo sgdisk -o -g -n 1:0:+10M -t 1:EF02 -n 2:0:+500M -t 2:EF00 -n 3:0:0 -t 3:8300 /dev/sdb
+lsblk
+mkfs.fat -F32 /dev/sdb2
+sudo mkfs.fat -F32 /dev/sdb2
+mkfs.ext4 /dev/sdb3
+sudomkfs.ext4 /dev/sdb3
+sudo mkfs.ext4 /dev/sdb3
+cd ..
+ls
+cd /mnt/
+ls
+mkdir usb
+sudomkdir usb
+sudo mkdir usb
+cd
+mount /dev/sdb3 /mnt/usb/boot
+sudomount /dev/sdb3 /mnt/usb/boot
+sudo mount /dev/sdb3 /mnt/usb/boot
+mkdir -p /mnt/usb
+mkdir --help
+sudo mount /dev/sdb3 /mnt/usb/
+mkdir /mnt/usb/boot/
+sudo mkdir /mnt/usb/boot/
+mount /dev/sdb2 /mnt/usb/boot/
+sudo mount /dev/sdb2 /mnt/usb/boot/
+pacstrap /mnt/usb/ linux linux-firmware base micro
+sudo pacstrap /mnt/usb/ linux linux-firmware base micro
+genfstap -U /mnt/usb > /mnt/usb/etc/fstab
+genfstab -U /mnt/usb > /mnt/usb/etc/fstab
+arch-chroot /mnt/usb/
+sudo su
+paru
+mount /dev/sdb /mnt/usb/
+sudo mount /dev/sdb /mnt/usb/
+ls
+chroot /run/media/neutron/
+sudo chroot /run/media/neutron/
+sudo sh
+sudo su
+lsblk
+sudo mount /dev/sda /mnt/usb/
+sudo sudo mount /dev/sda /mnt/usb/
+sudo mount /dev/sda /mnt/usb/
+lsblk
+sudo mount /dev/sda /mnt/usb/
+sudo mount /dev/sda2 /mnt/usb/
+sudo mount /dev/sda3 /mnt/usb/
+mount /dev/sda /mnt/usb/
+sudomount /dev/sda /mnt/usb/
+sudo mount /dev/sda /mnt/usb/
+lsblk
+sudo mount /dev/sdc3 /mnt/usb/
+sudo mount /dev/sdc2 /mnt/usb/boot/
+chroot /mnt/usb/
+sudo chroot /mnt/usb/
+arch-chroot /mnt/usb/
+sudo arch-chroot /mnt/usb/
+exit
+sudo arch-chroot /mnt/usb/
+sudo gnome-disks
+paru
+xrandr --auto
+xrandr
+paeru
+paru
+paru audacity
+Downloads/reaper707_linux_x86_64.tar.xz
+chmod +x Downloads/reaper707_linux_x86_64.tar.xz
+Downloads/reaper707_linux_x86_64.tar.xz
+tar  -xzf Downloads/reaper707_linux_x86_64.tar.xz
+tar  -xz Downloads/reaper707_linux_x86_64.tar.xz
+tar  -fxz Downloads/reaper707_linux_x86_64.tar.xz
+cd Downloads/
+tar xz reaper707_linux_x86_64.tar.xz
+tar fxz reaper707_linux_x86_64.tar.xz
+paru xz-utils
+paru xz
+xz reaper707_linux_x86_64.tar.xz
+xz --help
+xz -d reaper707_linux_x86_64.tar.xz
+ls
+chmod +x reaper707_linux_x86_64.tar
+reaper707_linux_x86_64.tar
+./reaper707_linux_x86_64.tar
+tar reaper707_linux_x86_64.tar
+tar --usage
+tar xf reaper707_linux_x86_64.tar
+ls
+cd reaper_linux_x86_64/
+ls
+chmod +x install-reaper.sh
+./install-reaper.sh
+paru
+pkill reaper
+sudo pkill reaper
+paru guitarix
+paru
+paru xpadneo
+xpadneo
+paru xpadneo
+git clone https://github.com/atar-axis/xpadneo.git
+cd xpadneo
+sudo ./install.sh
+cd xpadneo
+sudo ./install.sh
+paru linux-headers-6.6.6-arch1-1
+paru -S linux-headers-6.6.6-arch1-1
+uname -r
+paru linux-headers
+paru -S linux-headers-6.6.6-arch1-1
+sudo ./install.sh
+ls 
+sudo ./update.sh
+sudo bluetoothctl
+paru
+alacritty migrate
+paru
+alacritty migrate
+micro ~/.config/alacritty/alacritty.toml
+micro ~/.config/alacritty/alacritty.yml
+micro ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+paru asus-wmi-hotkeys-driver
+$ git clone https://github.com/asus-linux-drivers/asus-wmi-hotkeys-driver.git<\n>$ cd asus-wmi-hotkeys<\n>$ sudo bash ./install.sh
+rm -r asus-wmi-hotkeys-driver/
+$ git clone https://github.com/asus-linux-drivers/asus-wmi-hotkeys-driver.git<\n>$ cd asus-wmi-hotkeys<\n>$ sudo bash ./install.sh
+cd asus-wmi-hotkeys-driver/
+suod bash ./install.sh
+sudo bash ./install.sh
+cd ..
+rm -r asus-wmi-hotkeys-driver/
+xev
+mkdir ~/asus-bios/
+unzip Downloads/K6502VJAS306.zip -d ~/asus-bios/
+cd asus-bios/
+ls
+man K6502VJAS.306
+chmod +x K6502VJAS.306
+./K6502VJAS.306
+paru asusctl
+micro /tmp/Alacritty-5638.log
+micro ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+micro ~/.config/alacritty/alacritty.toml
+rm .config/alacritty/alacritty.yml
+micro ~/.config/alacritty/catppuccin/catppuccin-mocha.toml
+paru
+ping google.como
+ping google.com
+ping github.com
+paru asusctl
+tlp
+tlp status
+tlp start
+sudo tlp stargt
+sudo tlp start
+paru -r tlp
+paru -R tlp
+paru asusctl
+lsusb
+asusd 
+asusctl 
+asusctl -h
+systemctl daemon-reload and systemctl restart asusd
+systemctl daemon-reload; systemctl restart asusd
+ls
+cd xpadneo
+ls
+cd ..
+rm -r xpadneo/
+ls
+cd repos
+ls
+cd ..
+asusd
+systemd asusd
+systemctl assud
+systemctl asusd
+paru rog-aura
+asusd-user 
+paru -r asusctl
+paru -R asusctl
+git clone https://gitlab.com/asus-linux/asusctl
+cd asusctl/
+make
+sudo make install
+systemctl enable asusd
+sudo make uninstall
+asusd-user CHANGELOG.md
+asusd-user 
+paru
+asusd-user 
+paru asusctl
+paru --overwrite * asusctl
+paru --overwrite \* asusctl
+asusd 
+systemctl enable asusd
+sudo systemctl enable asusd
+systemctl enable asusd
+rog-control-center 
+paru asusctl
+asusd
+systemd-run asusd
+asusd
+asusd -b
+rog-control-center 
+sudo rog-control-center 
+systemctl enable asus
+systemctl enable asusd
+paru backlightctl
+paru -S backlightctl
+brightnessctl --device='tpacpi::kbd_backlight' info
+ls
+cd asus-bios/
+ls
+paru
+asusd-user 
+asusd
+rm `Downloads/K6502VJAS306(1).zip`
+rm Downloads/K6502VJAS306.zip
+reboot
+wine Downloads/ASUS_K6502VJ_306_BIOS_Update.exe
+paru wine
+sudo pacman -S wine
+wine Downloads/ASUS_K6502VJ_306_BIOS_Update.exe
+paru
+cd polybar-scripts/
+ls
+cd polybar/
+ls
+cd ..
+rm -r polybar/
+ls
+mkdir polybar-calander/
+cd polybar-calander/
+git clone https://github.com/nevarman/polybar-calendar
+ls
+mv polybar-calendar/ ~/polybar-scripts/
+cd ..
+ls
+rm -r polybar-calander/
+ls
+cd polybar-calendar/
+ls
+cd 
+micro .config/polybar/modules.ini
+cd .config/polybar/scripts/
+ls
+cd ..
+mv ~/polybar-scripts/* ~/.config/polybar/scripts/
+ls
+cd scripts/
+ls
+cd ..
+micro .config/polybar/modules.ini
+micro modules.ini
+chmod +x scripts/polybar-calendar/calendar.sh
+pkill poly
+micro modules.ini
+pkill poly
+micro scripts/polybar-calendar/calendar.sh
+paru
+micro .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart]
+qtile cmd-obj -o cmd -f restart
+micro .config/qtile/config.py]
+micro .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+micro .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+micro .config/polybar/scripts/polybar-calendar/pycalendar.py
+paru -S i3-agenda-git
+paru
+mv Downloads/client_secret_946846122137-homimfc2go8rvd3c9f8v9a5vls4bp1o1.apps.googleusercontent.com.json .config/polybar/scripts/
+i3-agenda 
+i3-agenda .config/polybar/scripts/client_secret_946846122137-homimfc2go8rvd3c9f8v9a5vls4bp1o1.apps.googleusercontent.com.json
+i3-agenda --credentails .config/polybar/scripts/client_secret_946846122137-homimfc2go8rvd3c9f8v9a5vls4bp1o1.apps.googleusercontent.com.json
+i3-agenda --credentails ~/.config/polybar/scripts/client_secret_946846122137-homimfc2go8rvd3c9f8v9a5vls4bp1o1.apps.googleusercontent.com.json
+i3-agenda -c ~/.config/polybar/scripts/client_secret_946846122137-homimfc2go8rvd3c9f8v9a5vls4bp1o1.apps.googleusercontent.com.json
+mv .config/polybar/scripts/client_secret_946846122137-homimfc2go8rvd3c9f8v9a5vls4bp1o1.apps.googleusercontent.com.json .googlecreds
+i3-agenda -c .googlecreds
+micro .config/polybar/modules.ini
+micro .config/polybar/config.ini
+pkill poly
+polybar 
+micro .config/polybar/modules.ini
+micro .config/polybar/config.ini
+pkill poly
+micro .config/polybar/config.ini
+pkill poly
+micro .config/polybar/modules.ini
+i3-agenda 
+i3-agenda --help
+micro .config/polybar/config.ini
+pkill poly
+micro .config/polybar/modules.ini
+pkill poly
+micro .config/polybar/modules.ini
+pkill poly
+micro .config/polybar/modules.ini
+pkill poly
+micro .config/polybar/modules.ini
+pkill poly
+micro .config/polybar/modules.ini
+pkill poly
+nmtui
+micro .config/polybar/modules.ini
+tlp
+paru tlp
+paru -R asusctl
+paru -R rog-control-center
+paru -R asusctl
+paru tlp
+tlp
+ylp start
+tlp start
+sudo tlp start
+micro .config/qtile/autostart.sh
+sudo tlp-start
+tlp-stat 
+sudo tlp-stat 
+systemctl enable tlp
+paru
+micro .config/polybar/modules.ini
+pkill poly
+micro .config/polybar/modules.ini
+micro .config/polybar/scripts/polybar-calendar/pycalendar.py
+pary calcurse
+paru calcurse
+calcurse 
+paru -R calcurse
+paru naivecalendar
+micro .config/polybar/scripts/polybar-calendar/colors.json
+micro .config/polybar/scripts/polybar-calendar/event.py
+micro .config/polybar/scripts/polybar-calendar/calendar.sh
+micro .config/polybar/scripts/polybar-calendar/events.json
+yad
+paru yad
+yad
+man yad
+yad --calander
+yad --calendar
+micro .config/polybar/scripts/polybar-calendar/pycalendar.py
+paru
+nvidia
+nvidia-xconfig 
+sudo nvidia-xonfig
+sudo nvidia-xconfig 
+nvidia-xconfig 
+lspci |grep NVIDIA
+nvidia-smi 
+nvidia-xconfig 
+paru nvidia-cfg
+paru -S nvidia-cfg
+paru nvidia
+paru -S nvidia
+nvidia-xconfig 
+startx
+paru -R nvidia
+startx
+lightdm --test-mode 
+ls
+l
+ls
+clear
+paru nvidia
+paru nouv
+paru nvidia-dkms
+paru
+nvidia-smi 
+paru
+startx
+xinit 
+pkill x
+sudo pkill x
+xinit
+rm  /tmp/.x0-lock
+rm  /tmp/.X0-lock
+sudo rm  /tmp/.X0-lock
+startx
+micro /var/log/Xorg.1.log
+systemctl disable lightdm
+micro /etc/default/grub
+sudo update-grub
+grub-mkconfig
+sudo grub-mkconfig
+paru -R nvidia-dkms
+paru -R nvidia
+paru -S nvidia
+nvidia-xconfig 
+paru
+nvidia-smi 
+startx
+micro /var/log/Xorg.0.log
+lightdm --test-mode 
+startx
+xinit
+paru xterm
+xinit
+xkbcomp 
+man xkbcomp 
+setxkbmap -layout us
+xinit
+micro /var/log/Xorg.0.log
+libinput debug-events
+sudo libinput debug-events
+micro .xinit
+312211ihbk nwsgbc
+micro /etc/lightdm/lightdm.conf
+lightdm --test-mode 
+systemctl enable lightdm
+lightdm --test-mode 
+systemctl status lightdm
+pkill xorg
+pkill lightdm
+sudo pkill lightdm
+paru
+qtile
+/bin/qtile start
+lightdm
+sudo lightdm
+nvidia-ngx-updater 
+nvidia-modprobe 
+man nvidia-modprobe 
+nvidia-modprobe -m
+nvidia-modprobe
+nvidia-persistenced 
+syslog
+paru -R nvidia
+lspci |grep NVIDIA
+dpkg
+find /usr/lib -iname "*nvidia*"
+find /usr/lib --iname "*nvidia*"
+find /usr/lib "*nvidia*"
+cd /usr/lib/
+ls -a |grep nvidia
+rm -r nvidia/
+sudo rm -r nvidia/
+ls
+ls -a |grep "*nvidia*"
+ls -a |grep nvidia
+cd
+paru
+startx
+micro /var/log/Xorg.0.log
+startx
+micro /var/log/Xorg.1.log
+paru -S --needed nvidia nvidia-utils lib32-nvidia-utilw
+paru -S --needed nvidia nvidia-utils lib32-nvidia-utils
+startx
+xinit 
+startx
+xinit 
+sudo service lightdm stop
+systemctl lightdm stop
+systemctl stop  lightdm 
+xinit
+startx
+/bin/qtile start
+man /bin/qtile 
+alacritty 
+startx 
+micro /var/log/Xorg.0.log
+paru
+micro /etc/default/grub
+bootctl 
+bootctl  update
+sudo bootctl  update
+paru -R nvidia
+paru -R nvidia-utils
+paru -R lib32-nvidia-utils
+paru -R nvidia-utils
+paru nouv
+startx
+initx
+xinit 
+paru
+paru mesa
+paru xf86-video
+paru xf86-video-nouveau
+paru
+startx
+micro /etc/X11/xorg.conf.d/20-nouveau.conf
+startx
+xinit
+paru
+micro /etc/X11/xorg.conf
+startx
+xinit
+micro .local/share/xorg/Xorg.0.log
+sudo xinit
+micro /var/log/Xorg.0.log
+micro /etc/modprobe.d/nvidia-installer-disable-nouveau.conf
+rm /etc/modprobe.d/nvidia-installer-disable-nouveau.conf
+sudo rm /etc/modprobe.d/nvidia-installer-disable-nouveau.conf
+micro /etc/modprobe.d/xpadneo.conf
+micro /usr/lib/modprobe.d/nvidia-installer-disable-nouveau.conf
+sudo rm  /usr/lib/modprobe.d/nvidia-installer-disable-nouveau.conf
+startx
+micro /etc/X11/xorg.conf
+startx
+systemctl disable lightdm
+startx
+sudo startx
+micro /var/log/Xorg.0.log
+paru -S nvidia-beta
+paru dkms
+paru -S nvidia-beta
+oaru lib32-nvidia-beta-utils
+paru lib32-nvidia-beta-utils
+paru -S lib32-nvidia-beta-utils
+micro /etc/mkinitcpio.conf
+paru
+nvidia-xconfig 
+sudo nvidia-xconfig 
+paru -R mesa
+nvidia-xconfig 
+sudo rmmod nouveau
+sudo modprobe nvidia
+sudo service lightdm start
+nvidia-xconfig 
+sudo nvidia-xconfig 
+startx
+micro /etc/X11/xorg.conf
+sudo rm /etc/X11/xorg.conf
+cd /usr/share/X11/xorg.conf.d/
+ls
+micro 10-nvidia-drm-outputclass.conf
+cd
+paru -R xserver-xorg-nouveau
+lspci |grep NVIDIA
+nvidia-smi 
+sudo nvidia-xconfig 
+xinit
+micro /var/log/Xorg.0.log
+lightdm --test-mode
+sudo lightdm --test-mode
+nvidia-smi 
+paru nvidia-settings
+nvidia-settings 
+nvidia-settings --help
+nvidia-settings -g
+initx
+micro /var/log/Xorg.0.log
+nvidia-modprobe 
+nvidia-modprobe --help
+nvidia-modprobe -m
+mkinitcpio 
+mkinitcpio -P
+mkinitcpio -g
+mkinitcpio 
+paru xhci_pci
+micro /etc/pacman.d/hooks/nvidia.hook
+mkinitcpio 
+paru linux-firmware
+paru upd72020x-fw
+paru mkinitcpio-firmware
+mkinitcpio 
+sudo su
+paru -R nvidia
+paru -R nvidia-beta
+paru -R nvidia-beta-dkms
+paru -R nvidia-utils
+paru -R nvidia-utils-beta
+paru -Rd nvidia-utils-beta
+paru -R nvidia-utils nvidia-setting nvidia-utils-beta
+paru -R nvidia-utils nvidia-settings nvidia-utils-beta
+paru -Rnvidia-settings nvidia-utils-beta
+paru -R nvidia-settings nvidia-utils-beta
+paru nvidia-driver
+paru nvidia-dkms
+paru nvidia-utils
+xinit
+paru
+nvidia-modprobe 
+nvidia-smi 
+lspci |grep NVIDIA
+lspci |grep -e VGA -e 3D
+micro /var/log/Xorg.0.log
+micro /var/log/Xorg.1.log
+rm  /var/log/Xorg.*
+sudo rm  /var/log/Xorg.*
+micro /var/log/Xorg.0.log
+paru xorg
+lsmod | grep nouveau
+lsmod | grep nvidia
+cd Downloads/
+ls
+rm *
+cd
+micro /etc/X11/xorg.conf.d/20-nouveau.conf
+rm /etc/X11/xorg.conf.d/20-nouveau.conf
+sudo rm /etc/X11/xorg.conf.d/20-nouveau.conf
+micro /etc/X11/xorg.conf
+micro /var/log/Xorg.0.log
+paru
+nvidia-smi 
+micro /var/log/Xorg.1.log
+paru xorg
+paru xorg-server
+xinit
+sudo mkinitcoio =P
+mkinitcpio -p
+mkinitcpio -P
+xinit
+micro /var/log/Xorg.0.log
+micro /var/log/Xorg.1.log
+paru nvidia-xrun
+nvidia-xrun 
+reboot
+nvidia-xrun 
+paru
+micro /var/log/Xorg.0.log
+systemctl enable acpid
+systemctl enable acpid.service
+paru acpid
+systemctl enable acpid.service
+systemctl start acpid.service
+nvidia-xrun 
+micro /var/log/Xorg.0.log
+sudo su
+sudo nvidia=xrun
+sudo nvidia-xrun
+nvidia-xrun 
+systemctl status acpid
+systemctl status acpid.socket
+acpi_listen 
+nvidia-xrun 
+micro /var/log/Xorg.0.log
+paru xserver-xorg-video
+paru xorg-video
+paru xorg
+paru xorg-server
+startx
+.local/share/xorg/Xorg.0.log
+micro .local/share/xorg/Xorg.0.log
+paru nvidia
+lspci |grep -e VGA -e 3D
+paru nvidia-dkms
+paru lib32-nvidia-utils
+paru
+nvidia-smi 
+nvidia-xrun
+startx
+paru -S xorg-server
+paru -Sc xorg-server
+paru -S xorg-server
+paru -Scc xorg-server
+paru -R xorg-server
+nvidia-xrun 
+micro /var/log/Xorg.0.log
+paru nvidia-prime
+prime-run 
+man prime-run 
+cat man prime-run 
+cat prime-run 
+xrandr --auto
+micro /etc/mkinitcpio.conf
+mkinitcpio -P
+modprobe nvidia
+nvidia-xrun 
+cat /var/log/Xorg.0.log
+micro .xinitrc
+ls
+ls -a
+micro .xinit
+mv .xinit .xinitrc
+micro .xinitrc
+startx
+micro /etc/X11/xorg.conf.d/10-nvidia.conf
+lspci
+lspci |grep -e VGA -e 3D
+micro /etc/X11/xorg.conf.d/10-nvidia.conf
+startx
+micro /etc/X11/xorg.conf.d/10-nvidia.conf
+startx
+nvidia-xrun 
+micro /home/neutron/.local/share/xorg/Xorg.0.log
+micro /etc/lightdm/lightdm.conf
+startx
+micro /home/neutron/.local/share/xorg/Xorg.0.log
+paru bumblebee
+bumblebeed 
+systemctl enable bumblebee
+systemctl enable bumblebeed
+micro /etc/X11/nvidia-xorg.conf
+micro /etc/X11/xorg.conf
+startx
+micro /home/neutron/.local/share/xorg/Xorg.0.log
+micro /etc/X11/xorg.conf
+micro /etc/X11/xorg.conf.d/10-nvidia.conf
+startx
+micro /etc/X11/xorg.conf.d/10-nvidia.conf
+startx
+micro /etc/X11/xorg.conf.d/10-nvidia.conf
+mv  /etc/X11/xorg.conf.d/10-nvidia.conf /etc/X11/xorg.conf.d/10-nvidia-outputclass.conf
+sudo mv  /etc/X11/xorg.conf.d/10-nvidia.conf /etc/X11/xorg.conf.d/10-nvidia-outputclass.conf
+nvidia-xrun 
+startx
+micro /etc/X11/xorg.conf.d/10-nvidia-outputclass.conf
+startx
+micro .xinitrc
+startx
+xinit
+micro .local/share/xorg/Xorg.0.log
+sudo xinit
+micro /var/log/Xorg.0.log
+oaru -R xf86-video-intel
+startx
+micro .local/share/xorg/Xorg.0.log
+qtile start
+micro .xinitrc
+sudo xinit
+startx
+qtile start 
+xinit
+lightdm --test-mode
+sudo lightdm --test-mode
+xinit -- :1
+startx /usr/bin/qtile
+micro .local/share/xorg/Xorg.0.log
+startx /usr/bin/qtile
+startx /usr/bin/qtile start
+.Xauthority
+micro .Xauthority
+paru lightsdm
+paru lightdm
+lightdm-gtk-greeter 
+lightdm 
+sudo lightdm
+rm /etc/X11/xorg.conf
+sudo rm /etc/X11/xorg.conf
+startx
+paru -R nvidia
+paru -R nvidia-beta
+paru
+startx
+micro .local/share/xorg/Xorg.0.log
+lightdm --test-mode
+systemctl enable lightdm
+reboot
+exit
+shutdown
+sudo lightdm --test-mode
+systemctl enable lightdm
+paru
+ping 8.8.8.8
+ping google.com
+paru
+tlp
+tlp start
+sudo tlp start
+xrandr --auto
+lsusb
+xrandr --auto
+paru
+systemctl suspend
+paru
+/bin/python /home/neutron/Documents/spacestuff/git/instrument-magnitude/main.py
+conda activate astro
+paru
+paru conda
+ls /home/neutron
+ls /home/neutron/
+ls
+ls -a
+cd .conda/
+ls
+micro environments.txt
+cd ..
+paru cond
+paru conda
+conda activate astro
+paru
+conda --help
+paru
+paru virtualenv
+paru -S virtualenv
+overlay list
+/bin/bash
+paru
+conda activate 
+conda create --name astro
+ls
+ls -a
+cd .conda/
+ls
+cd pkgs/
+ls
+cd ,,
+cd ..
+micro environments.txt
+cd ..
+~/Documents/spacestuff/git/FWHMscripts/.conda/bin/ ~/Documents/spacestuff/git/FWHMscripts/main.py ~/Documents/spacestuff/fits/fwhm-test-fits/
+cd Documents/spacestuff/
+git/FWHMscripts/.conda/bin/ git/FWHMscripts/main.py fits/fwhm-test-fits/
+git/FWHMscripts/.conda/bin/python3.10 git/FWHMscripts/main.py fits/fwhm-test-fits/
+mkdir -p ~/py-envs/astro/
+mkdir -P ~/py-envs/astro/
+mkdir ~/py-envs/astro/
+cd py-envs/
+ls
+cd ..
+paru
+betterdiscordctl install
+discord
+paru
+cd repos/
+git clone https://github.com/gBasil/omori-gif-generator
+cd omori-gif-generator/
+ls
+yarn dev
+yarn 
+ls
+micro README.md
+ls
+yarn dev
+cd repos/omori-gif-generator/
+yarn dev
+paru
+conda create --name astro
+ls
+cd repos/
+cd ..
+ls
+cd py-envs/
+ls
+cd astro
+ls
+paru virtualenv
+paru -S virtualenv
+python -m astro ~/py-envs/astro/
+python -m venv ~/py-envs/astro/
+ls
+cd bin/
+ls
+activate
+./activate
+chomod +x ./activate
+chomod +x /activate
+chomod +x activate
+chomod +x activate.csh
+ls
+./Activate.ps1
+chomod +x ./Activate.ps1
+chmod +x ./Activate.ps1
+./Activate.ps1
+ls
+cd ..
+ls
+cd bin/
+ls
+source ~/py-envs/astro/bin/activate
+cd ..
+pipx install virtualenv
+paru pipx
+pipx install virtualenv
+pipx ensurepath
+cd py-envs/
+ls
+cd ..
+pipx install virtualenv
+paru
+betterdiscordctl install
+paru
+paru -S fis
+paru -S fish
+chsh /bin/fish
+fish
+ls
+python -m venv ~/py-envs/test-env
+source ~/py-envs/test-env/bin/activate
+overlay list
+overlay use test
+ls
+mkdir -p ~/nu-envs/test/
+mkdir ~/nu-envs/test/
+cd nu-envs/test/
+micro test.nu
+module spam {<\n>    export def foo [] {<\n>        "foo"<\n>    }<\n><\n>    export alias bar = "bar"<\n><\n>    export-env {<\n>        load-env { BAZ: "baz" }<\n>    }<\n>}<\n>
+module spam { export def foo [] { "foo" } }; use spam foo; foo
+source ~/py-envs/test-env/bin/activate
+~~
+micro ~/py-envs/test-env/bin/activate
+micro~/py-envs/test-env/bin/activate
+micro ~/py-envs/test-env/bin/activate
+/bin/bash source ~/py-envs/test-env/bin/activate
+/bin/bash source /home/neutron/py-envs/test-env/bin/activate
+source ~/py-envs/test-env/bin/activate
+pip install virtualenv
+pipx  install virtualenv
+pipx  install virtualenv --force
+config nu
+$env.PATH
+$nu.env-path
+micro $nu.env-path
+config nu
+.config/nushell/conda.nu
+chmod +x .config/nushell/conda.nu
+.config/nushell/conda.nu
+.config/nushell/nu_conda.nu
+micro .config/nushell/nu_conda.nu
+.config/nushell/nu_conda.nu activate astro
+cd .config/nushell/
+ls
+nu nu_conda.nu
+conda activate astro
+cd ..
+l
+ls
+cd ..
+ls
+rm -r nu-envs/
+rm -r py-envs/
+ls
+mkdir ~/nu-scripts/
+mv Downloads/conda.nu nu-scripts/
+use ~/nu-scripts/conda.nu
+nu_conda activate astro
+use ~/nu-scripts/conda.nu
+conda activate astro
+conda list
+use ~/nu-scripts/conda.nu
+conda list
+use ~/nu-scripts/conda.nu
+conda list
+conda activate astro
+conda create --name astro
+use ~/nu-scripts/conda.nu conda create --name astro
+use ~/nu-scripts/conda.nu; conda create --name astro
+use ~/nu-scripts/conda.nu; conda create astro
+use ~/nu-scripts/conda.nu; conda activate astro
+load-env --help
+paru starship
+paru
+dust
+cd ..
+dust
+paru ventoy
+ven
+ventoy 
+lsblb
+lsblk
+ventoy -i sdb
+ventoy -I sdb
+lsblk
+ventoy -i /dev/sdb
+sudo ventoy -i /dev/sdb
+cd repos/omori-gif-generator/
+yarn dev
+dust
+paru
+cp Downloads/colors.py .config/qtile/colors.py
+cp Downloads/config.py .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+rm .config/qtile/config.py.save
+rm .config/qtile/config.py
+cp Downloads/config.py .config/qtile/config.py
+micro .config/qtile/config.py
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+paru qtile-extras
+qtile cmd-obj -o cmd -f restart
+ip link show
+ping google.com
+paru iwlib
+qtile cmd-obj -o cmd -f restart
+lsscsi 
+lspci
+lsdev
+paru lsdev
+lshw
+paru lshw
+lshw 
+sudo lshw 
+ls /sys/class/bluetooth/hci0/device/
+hcisecfilter 
+hcieventmask 
+ls /sys/class/bluetooth
+paru d-feet
+qtile cmd-obj -o cmd -f restart
+d-feet \
+d-feet
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+paru dbus-next
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+pip install dbus-next
+pipx install dbus-next
+paru dbus-next
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+qtile cmd-obj -o cmd -f restart
+micro .local/share/qtile/qtile.log
+paru pulsectl_asyncio
+paru pulsectl
+paru
+qtile cmd-obj -o cmd -f restart
+paru amixer
+micro .config/qtile/config.py
+micro .xinitrc
+micro .config/qtile/autostart.sh
+paru pipewire pulse
+paru alsa
+patctl list
+pactl list
+micro /etc/pulse/client.conf
+micro /etc/modprobe.d/blacklist.conf
+micro .config/qtile/config.py
+micro .config/qtile/colors.py
+micro .config/qtile/config.py
+awk 
+awk -F: '{ print $1 }'
+paru amixer
+pamixer  get master
+pamixer  get Master
+echo pamixer get Master
+pamixer get Master
+awk -F"[][]" '/Left:/ { print $2 }' <(amixer sget Master)
+awk 
+awk --help
+awk -c
+awk -F"[][]" '/Left:/ { print $2 }' <(amixer sget Master)
+awk -F "[][]" '/Left:/ { print $2 }' <(amixer sget Master)
+micro .config/polybar/modules.ini
+micro .local/share/qtile/qtile.log
+paru asyncio
+micro .local/share/qtile/qtile.log
+paru -S pulsectl_asyncio
+pipx install pulsectl_asyncio
+micro .local/share/qtile/qtile.log
+sudo hciconfig hci0 down; sudo ./bluetooth-meshd
+paru hciconfig
+systemctl status bluetooth-mesh
+paru bluetooth-mesh
+systemctl status bluetooth
+paru amixer
+paru alta-utils
+paru alsa-utils
+micro .config/qtile/config.py
+paru
+micro .config/qtile/config.py
+paru bluez utils
+micro .local/share/qtile/qtile.log
+paru
+micro jabez-hypr.md
+micro hypr-guide.md
+OARU
+paru
+./testingfile.sh
+chmod +x testingfile.sh
+./testingfile.sh
+./testingfile.sh gnome qtile
+./testingfile.sh gnome
+git config pull.rebase true 
+git config pull.rebase true 
+test.sh 
+chomod +x test.sh
+chmod +x test.sh
+test.sh gnome qtile nvidia --pretty
+./test.sh gnome qtile nvidia --pretty
+./test.sh gnome qtile nvidia --pretty --livvyStyle
+./test.sh gnome qtile nvidia --pretty --livovaStyle
+./test.sh gnome-way nvidia --pretty --livovaStyle
+./test.sh gnome-way nvidia  --livovaStyle
+./test.sh gnome-way nvidia  space --livovaStyle
+./test.sh gnome-way nvidia  space --livovaStyle --pretty
+./test.sh gnome-way all nvidia  spac
+./test.sh gnome-way  nvidia  spac
+./test.sh gnome-way  nvidia  space
+./test.sh gnome-way  nvidia  all space
+./test.sh gnome-way  nvidia all space
+./test.sh gnome-way nvidia all space
+./test.sh gnome-way nvidia space space
+paru steam
+paru -S steam
+paur -S lutris
+paru -S lutris
+paru lutris
+paru discord
+paru -S discord
+paru firefox
+paru -S firefox-beta-bin
+firefox-beta 
+./test.sh gnome-way nvidia space space
+./test.sh all
+./test.sh gnome
+./test.sh qtile
+./test.sh hyprland
+./test.sh hyprland-nvidia
+paru -S qtile-extras
+paru
+systemctl suspend
+paru
+paru -R firefox-beta
+paru firefox beta
+paru webex-bin
+paru -R firefox-beta-bin
+paru
+tlp start
+sudo tlp start
+chsuh neutron
+chsh neutron
+paru
+pkill webex
+cd repos/omori-gif-generator/
+yarn dev
+paru
+paru linux-headers
+chsh neutron
+which nu
+which fish
+chsh neutron
+ls
+rm hypr-guide.md
+rm jabez-hypr.md
+ls
+paru
+ls
+cd repos/
+ls
+paru -S --needed gdb ninja gcc cmake meson libxcb xcb-proto xcb-util xcb-util-keysyms libxfixes libx11 libxcomposite xorg-xinput libxrender pixman wayland-protocols cairo pango seatd libxkbcommon xcb-util-wm xorg-xwayland libinput libliftoff libdisplay-info cpio tomlplusplus kitty
+git clone --recursive https://github.com/hyprwm/Hyprland
+paru -S hyprland-git
+paru
+paru -S --needed nvidia-dkms
+sudo micro /etc/mkinitcpio.conf
+paru -S --needed linux-headers
+sudo mkinitcpio --config /etc/mkinitcpio.conf --generate /boot/initramfs-custom.img
+sudo micro /etc/modprobe.d/nvidia.conf
+mkdir ~/.config/hypr
+cp Hyprland/example/hyprland.conf ~/.config/hypr/
+cd
+micro .config/hypr/hyprland.conf
+paru --needed -S qt5-wayland qt6-wayland qt5ct qt6ct libva libva-nvidia-driver-git
+paru

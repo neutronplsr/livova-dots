@@ -1,0 +1,14 @@
+2023-12-07T14:39:59.814Z 0: 
+
+----------------------------------------------
+2023-12-07T14:39:59.824Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.37"}, modulepath: /home/neutron/.config/discord/0.0.37/modules
+2023-12-07T14:39:59.828Z 2: ✅ webContents.created web1 ""
+2023-12-07T14:39:59.833Z 3: ✅ window.created win1 "discord"
+2023-12-07T14:39:59.977Z 4: ✅ webContents.did-finish-load web1
+2023-12-07T14:40:04.698Z 5: ✅ webContents.created web2 ""
+2023-12-07T14:40:04.711Z 6: ✅ window.created win2 "Discord"
+2023-12-07T14:40:07.097Z 7: ✅ webContents.did-finish-load web2
+2023-12-07T14:40:07.198Z 8: window.close win1
+2023-12-07T14:40:07.210Z 9: webContents.destroyed web1
+2023-12-07T14:40:07.213Z 10: window.closed win1
+2023-12-07T14:40:13.444Z 11: window.close win2

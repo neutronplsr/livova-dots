@@ -1,0 +1,39 @@
+[2023-11-30 09:51:04.260] [info]  No state version found, assuming empty state.
+[2023-11-30 09:51:35.358] [info]  Finished search indexing
+[2023-11-30 09:51:35.666] [info]  Finished search indexing
+[2023-11-30 18:55:01.547] [info]  State version: 8
+[2023-11-30 18:55:01.554] [info]  Migrator ba (to version 2) should migrate: false - up
+[2023-11-30 18:55:01.556] [info]  Migrator la (to version 3) should migrate: false - up
+[2023-11-30 18:55:01.557] [info]  Migrator ua (to version 4) should migrate: false - up
+[2023-11-30 18:55:01.557] [info]  Migrator ha (to version 5) should migrate: false - up
+[2023-11-30 18:55:01.558] [info]  Migrator ga (to version 6) should migrate: false - up
+[2023-11-30 18:55:01.558] [info]  Migrator va (to version 7) should migrate: false - up
+[2023-11-30 18:55:01.558] [info]  Migrator ma (to version 8) should migrate: false - up
+[2023-11-30 18:55:07.642] [info]  Finished search indexing
+[2023-12-05 16:22:13.282] [info]  State version: 8
+[2023-12-05 16:22:13.285] [info]  Migrator ba (to version 2) should migrate: false - up
+[2023-12-05 16:22:13.285] [info]  Migrator la (to version 3) should migrate: false - up
+[2023-12-05 16:22:13.285] [info]  Migrator ua (to version 4) should migrate: false - up
+[2023-12-05 16:22:13.286] [info]  Migrator ha (to version 5) should migrate: false - up
+[2023-12-05 16:22:13.286] [info]  Migrator ga (to version 6) should migrate: false - up
+[2023-12-05 16:22:13.286] [info]  Migrator va (to version 7) should migrate: false - up
+[2023-12-05 16:22:13.286] [info]  Migrator ma (to version 8) should migrate: false - up
+[2023-12-05 16:22:22.135] [info]  Finished search indexing
+[2023-12-07 15:44:58.205] [info]  State version: 8
+[2023-12-07 15:44:58.209] [info]  Migrator ba (to version 2) should migrate: false - up
+[2023-12-07 15:44:58.210] [info]  Migrator la (to version 3) should migrate: false - up
+[2023-12-07 15:44:58.211] [info]  Migrator ua (to version 4) should migrate: false - up
+[2023-12-07 15:44:58.211] [info]  Migrator ha (to version 5) should migrate: false - up
+[2023-12-07 15:44:58.212] [info]  Migrator ga (to version 6) should migrate: false - up
+[2023-12-07 15:44:58.212] [info]  Migrator va (to version 7) should migrate: false - up
+[2023-12-07 15:44:58.213] [info]  Migrator ma (to version 8) should migrate: false - up
+[2023-12-07 15:45:10.789] [info]  Finished search indexing
+[2023-12-07 15:57:03.664] [error] Error: Server timeout elapsed without receiving a message from the server.
+    at G.serverTimeout (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:67372)
+    at file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:67016
+    at i.<computed> (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:874534)
+    at c.invokeTask (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:852749)
+    at o.runTask (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:848124)
+    at invokeTask (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:853825)
+    at a.useG.invoke (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:853727)
+    at r.args.<computed> (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:874246)

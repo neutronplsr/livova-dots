@@ -1,0 +1,27 @@
+2024-01-04 13:21:00.300 [info] Revived process, old id 8c39811a2dd1f9b192e0d838bac7edb9-1 -> new id 1
+2024-01-04 13:21:00.300 [info] Revived process, old id 8c39811a2dd1f9b192e0d838bac7edb9-2 -> new id 2
+2024-01-04 13:21:00.300 [info] Revived process, old id 8c39811a2dd1f9b192e0d838bac7edb9-3 -> new id 3
+2024-01-04 13:21:00.344 [info] Expanding terminal instance, old id 8c39811a2dd1f9b192e0d838bac7edb9-1 -> new id 1
+2024-01-04 13:21:00.344 [info] Expanding terminal instance, old id 8c39811a2dd1f9b192e0d838bac7edb9-2 -> new id 2
+2024-01-04 13:21:00.344 [info] Expanding terminal instance, old id 8c39811a2dd1f9b192e0d838bac7edb9-3 -> new id 3
+2024-01-04 13:21:00.456 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-01-04 13:21:00.456 [info] Persistent process reconnection "1"
+2024-01-04 13:21:00.459 [warning] Persistent process "2": Process had no disconnect runners but was an orphan
+2024-01-04 13:21:00.459 [info] Persistent process reconnection "2"
+2024-01-04 13:21:00.460 [warning] Shell integration cannot be enabled for executable "/bin/nu" and args undefined
+2024-01-04 13:21:00.496 [info] Persistent process "1": Replaying 6662 chars and 1 size events
+2024-01-04 13:21:00.501 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2024-01-04 13:21:00.501 [info] Persistent process reconnection "3"
+2024-01-04 13:21:00.502 [warning] Shell integration cannot be enabled for executable "/bin/nu" and args undefined
+2024-01-04 13:21:00.526 [info] Persistent process "2": Replaying 7680 chars and 1 size events
+2024-01-04 13:21:00.546 [warning] Shell integration cannot be enabled for executable "/bin/nu" and args undefined
+2024-01-04 13:21:00.564 [info] Persistent process "3": Replaying 6015 chars and 1 size events
+2024-01-04 13:21:37.444 [info] Expanding terminal instance, old id 8c39811a2dd1f9b192e0d838bac7edb9-1 -> new id undefined
+2024-01-04 13:21:37.445 [info] Expanding terminal instance, old id 8c39811a2dd1f9b192e0d838bac7edb9-2 -> new id undefined
+2024-01-04 13:21:37.445 [info] Expanding terminal instance, old id 8c39811a2dd1f9b192e0d838bac7edb9-3 -> new id undefined
+2024-01-04 13:21:37.869 [info] Persistent process reconnection "1"
+2024-01-04 13:21:37.870 [info] Persistent process reconnection "2"
+2024-01-04 13:21:37.870 [info] Persistent process reconnection "3"
+2024-01-04 13:21:37.895 [info] Persistent process "1": Replaying 6479 chars and 1 size events
+2024-01-04 13:21:37.903 [info] Persistent process "2": Replaying 7394 chars and 1 size events
+2024-01-04 13:21:37.905 [info] Persistent process "3": Replaying 6839 chars and 1 size events

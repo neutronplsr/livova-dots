@@ -1,0 +1,18 @@
+{
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 6,
+    "y": 46,
+    "width": 949,
+    "height": 1028
+  },
+  "MINIMIZE_TO_TRAY": false,
+  "OPEN_ON_STARTUP": false,
+  "openasar": {
+    "setup": true,
+    "themeSync": false,
+    "multiInstance": true,
+    "quickstart": false
+  }
+}

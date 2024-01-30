@@ -1,0 +1,9 @@
+[2024-01-21 13:32:31.214] Starting Git Graph ...
+[2024-01-21 13:32:31.349] Using git (version: 2.43.0)
+[2024-01-21 13:32:31.357] Started Git Graph - Ready to use!
+[2024-01-21 13:32:31.359] Searching workspace for new repos ...
+[2024-01-21 13:32:31.370] > git rev-parse --show-toplevel
+[2024-01-21 13:32:31.393] Added new repo: /home/neutron/Documents/spacestuff/git/instrument-magnitude
+[2024-01-21 13:32:31.412] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2024-01-21 13:32:31.416] Completed searching workspace for new repos
+[2024-01-21 13:32:31.416] Showing "Git Graph" Status Bar Item
